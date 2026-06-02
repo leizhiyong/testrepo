@@ -1,0 +1,144 @@
+Therapeutic Candidate 1:
+Candidate: ISTH0036, a locked nucleic acid–modified antisense oligonucleotide targeting TGF-β2 mRNA.
+Hypothesis: Topical application of ISTH0036 (e.g., catalog LNA-0036 from Exiqon) will bind TGFB2 transcripts in human trabecular meshwork cells, reducing TGF-β2 protein production, thereby preventing SMAD2/3-driven extracellular matrix (ECM) deposition and contractile phenotype in the trabecular meshwork, lowering intraocular pressure in glaucoma.
+Reasoning: TGF-β2 is the predominant isoform driving fibrotic ECM remodeling in glaucomatous trabecular meshwork with strong genetic and functional validation. ISTH0036 demonstrated sustained reduction of TGF-β2 levels and postoperative IOP in Phase I patients undergoing trabeculectomy, with favorable ocular safety and tissue half-life. The antisense oligonucleotide offers high mechanistic specificity, robust preclinical efficacy in rabbit and primate glaucoma models, and a well‐defined development pathway. Its novelty lies in direct transcript knockdown rather than receptor blockade, providing durable target engagement and minimal off-target effects.
+
+Therapeutic Candidate 2:
+Candidate: Pirfenidone (Sigma-Aldrich cat. P2116).
+Hypothesis: Pirfenidone will inhibit TGF-β–induced collagen I and fibronectin synthesis in human trabecular meshwork fibroblasts by blocking Smad3 phosphorylation and reducing connective tissue growth factor (CTGF) expression, thereby attenuating ECM stiffening and contractility to restore aqueous humor outflow in glaucoma.
+Reasoning: Pirfenidone is an oral antifibrotic approved for idiopathic pulmonary fibrosis with demonstrated inhibition of TGF-β1/2 signaling and ECM protein expression. Preclinical studies in rabbit and rat glaucoma models show reduced post-surgical scarring and maintained IOP reduction. Its oral and topical tolerability, known PK/PD, and established safety profile facilitate repurposing. Mechanistic specificity against TGF-β–driven fibrosis, combined with translational evidence from fibrotic diseases, supports its development for ocular use.
+
+Therapeutic Candidate 3:
+Candidate: SB431542 (Sigma-Aldrich cat. S4317).
+Hypothesis: SB431542 will selectively inhibit ALK5 (TGF-β receptor type I kinase) in trabecular meshwork cells, preventing SMAD2/3 phosphorylation, abrogating transcription of pro-fibrotic genes (collagen I, III, fibronectin), and reducing actomyosin contractility to improve aqueous outflow in glaucoma.
+Reasoning: SB431542 is a well-characterized, selective small‐molecule ALK5 inhibitor extensively validated in vitro. Collagen gel contraction assays in human trabecular meshwork cells demonstrate SB431542’s ability to block TGF-β–induced contraction and ECM deposition. The compound’s specificity for TGF-β receptor I offers mechanistic clarity. Developmental feasibility is high given its chemical tractability and precedented ocular safety in preclinical studies.
+
+Therapeutic Candidate 4:
+Candidate: LY2109761 (Sigma-Aldrich cat. SML0574).
+Hypothesis: LY2109761 will dual‐block TGF-β receptor I/II kinase activity in trabecular meshwork cells, inhibiting both SMAD‐dependent and MAPK noncanonical pathways, thereby reducing ECM synthesis, cell stiffening, and contractility to lower intraocular pressure.
+Reasoning: LY2109761 has shown preclinical anti-fibrotic efficacy in visceral organ models, with evidence of pathway modulation and target engagement. Its dual receptor inhibition provides broader blockade of TGF-β signaling, addressing redundancy in receptor isoforms. Known oral bioavailability and safety data aid repurposing. Mechanistic specificity against the kinase domain supports translational feasibility for glaucoma.
+
+Therapeutic Candidate 5:
+Candidate: Fresolimumab (GC-1008), a pan–TGF-β neutralizing monoclonal antibody.
+Hypothesis: Subconjunctival or topical administration of fresolimumab will sequester TGF-β1/2/3 isoforms in the anterior chamber, preventing receptor engagement on trabecular meshwork cells, reducing SMAD-driven ECM deposition and myofibroblast transition, and lowering outflow resistance.
+Reasoning: Fresolimumab has demonstrated safety and pharmacodynamic activity in systemic fibrotic and oncology trials, neutralizing all TGF-β isoforms. Target validation of pan-TGF-β blockade in fibrosis is robust. Antibody-based modality ensures high specificity, and translational data support local ocular tolerability. Its novelty lies in isoform‐agnostic neutralization, potentially addressing compensatory TGF-β3 activity.
+
+Therapeutic Candidate 6:
+Candidate: SIS3 (Sigma-Aldrich cat. S7665), a selective SMAD3 phosphorylation inhibitor.
+Hypothesis: SIS3 will bind the SMAD3 MH2 domain in human trabecular meshwork cells, preventing SMAD3 activation and nuclear translocation, downregulating CTGF and collagen gene expression, reducing ECM accumulation and cell contractility to enhance aqueous humor drainage.
+Reasoning: SMAD3 is the principal mediator of TGF-β–induced fibrotic gene transcription in TM cells. In vitro studies confirm SIS3’s potent inhibition of SMAD3 phosphorylation and consequent reduction of fibronectin and collagen deposition. As a small molecule, SIS3 has favorable development properties, offering mechanistic specificity and preclinical evidence of antifibrotic efficacy.
+
+Therapeutic Candidate 7:
+Candidate: Y-27632 (Sigma-Aldrich cat. Y0503).
+Hypothesis: Y-27632 will inhibit ROCK1/2 in trabecular meshwork cells, blocking RhoA-dependent phosphorylation of myosin light chain, reducing actomyosin contractility and stress fiber formation, softening the meshwork and improving aqueous outflow in glaucoma.
+Reasoning: Rho kinase signaling is central to TM cell stiffening and contraction downstream of TGF-β. Y-27632 has been extensively used in collagen gel contraction assays, demonstrating marked reduction in TM contractility. Its pharmacological profile, including solubility and ocular tolerability in animal models, supports repurposing for glaucoma.
+
+Therapeutic Candidate 8:
+Candidate: Ripasudil (K-115), a rho kinase inhibitor approved for glaucoma in Japan.
+Hypothesis: Ripasudil will target ROCK1/2 in human trabecular meshwork cells, reducing actomyosin tension and ECM secretion, thereby decreasing outflow resistance and intraocular pressure.
+Reasoning: Ripasudil’s clinical approval for lowering IOP validates ROCK inhibition in TM. It exhibits ocular safety, well-characterized PK in the anterior chamber, and direct evidence of improving outflow facility. Its mechanistic specificity and existing regulatory dossier accelerate repositioning.
+
+Therapeutic Candidate 9:
+Candidate: Netarsudil, a dual rho kinase and norepinephrine transporter inhibitor.
+Hypothesis: Netarsudil will inhibit ROCK-mediated cytoskeletal contraction in trabecular meshwork cells and decrease ECM deposition via sympathomimetic modulation, enhancing aqueous humor outflow and reducing IOP.
+Reasoning: Netarsudil is FDA-approved for glaucoma, demonstrating outflow enhancement via ROCK inhibition. Its secondary NE transporter blockade may modulate TM cell signaling. Preclinical data show changes in ECM protein expression. High translational readiness and known ocular safety profile support its continued use.
+
+Therapeutic Candidate 10:
+Candidate: Fasudil (HA-1077), a rho kinase inhibitor.
+Hypothesis: Fasudil will block ROCK-dependent MLC phosphorylation in trabecular meshwork cells, reducing stress fiber formation and ECM contractility, facilitating aqueous humor drainage and lowering IOP.
+Reasoning: Fasudil has a well-established safety record in cerebral vasospasm and cardiovascular applications. In vitro, it attenuates TM cell contraction in collagen gel assays. Its known ocular tolerability and systemic PK data support repurposing as a glaucoma therapy.
+
+Therapeutic Candidate 11:
+Candidate: Cilengitide (EMD 121974), an integrin αVβ3/αVβ5 antagonist.
+Hypothesis: Cilengitide will block integrin-mediated activation of latent TGF-β and disrupt mechanotransduction in trabecular meshwork cells, reducing focal adhesion assembly, downstream ROCK and YAP/TAZ signaling, thereby inhibiting fibronectin and collagen deposition to improve outflow.
+Reasoning: Integrin αVβ3 is critical for activating latent TGF-β in TM microenvironment. Cilengitide’s clinical trial history in oncology confirms safety and target engagement. Its mechanism interrupts a key feed-forward loop between ECM stiffness and pro-fibrotic signaling, offering a novel upstream intervention.
+
+Therapeutic Candidate 12:
+Candidate: Pamrevlumab (FG-3019), an anti–CTGF monoclonal antibody.
+Hypothesis: Pamrevlumab will neutralize connective tissue growth factor in the trabecular meshwork, preventing CTGF-driven collagen I and fibronectin synthesis, reducing ECM accumulation and stiffness to restore aqueous outflow in glaucoma.
+Reasoning: CTGF acts downstream of TGF-β and amplifies fibrosis. Pamrevlumab is in Phase II trials for idiopathic pulmonary fibrosis, demonstrating target engagement and safety. Its high specificity for CTGF offers mechanistic clarity and minimal interference with TGF-β’s homeostatic roles, ensuring a favorable safety profile for ocular application.
+
+Therapeutic Candidate 13:
+Candidate: KD025 (SLx-2119), a selective ROCK2 inhibitor.
+Hypothesis: KD025 will selectively inhibit ROCK2 in trabecular meshwork cells, reducing myosin light chain phosphorylation and stress fiber formation, decreasing cell contractility and ECM deposition while minimizing vascular side effects.
+Reasoning: ROCK2 predominates in fibrosis-associated contractility. KD025 showed efficacy in systemic fibrosis models, with favorable tolerability. Its isoform selectivity reduces off-target hypotension, and mechanistic specificity against ROCK2 addresses chronic TM stiffening in glaucoma.
+
+Therapeutic Candidate 14:
+Candidate: Rapamycin (Sirolimus).
+Hypothesis: Rapamycin will inhibit mTORC1 in trabecular meshwork fibroblasts, reducing TGF-β–driven fibroblast proliferation and collagen synthesis, thereby attenuating ECM remodeling and improving outflow facility.
+Reasoning: mTOR signaling cross-talks with TGF-β to regulate fibrotic responses. Rapamycin’s immunosuppressive and anti-fibrotic effects are demonstrated in ocular graft models. Its well‐characterized PK/PD and topical ocular safety in preclinical studies support repurposing.
+
+Therapeutic Candidate 15:
+Candidate: Bardoxolone methyl (CDDO-Me).
+Hypothesis: Bardoxolone methyl will activate Nrf2 in trabecular meshwork cells, upregulating antioxidant enzymes, reducing ROS-mediated activation of latent TGF-β, and inhibiting downstream fibrotic gene expression to preserve TM function.
+Reasoning: Oxidative stress drives TGF-β activation in glaucoma. Bardoxolone methyl has demonstrated Nrf2 activation in CKD and pulmonary fibrosis trials, with documented safety. Its redox‐modulating mechanism addresses a validated pathogenic axis with translational feasibility.
+
+Therapeutic Candidate 16:
+Candidate: Sulforaphane, an Nrf2 pathway activator (Cayman Chemical cat. 77919).
+Hypothesis: Sulforaphane will induce Nrf2‐mediated antioxidant responses in trabecular meshwork cells, reduce ROS-induced latent TGF-β activation, and downregulate fibrotic ECM gene expression, thereby lowering IOP.
+Reasoning: Preclinical studies show sulforaphane reduces oxidative stress and TGF-β signaling in fibroblasts. Its natural origin and established safety facilitate early translational development. Mechanistic specificity for redox modulation intersects a key glaucoma pathogenic pathway.
+
+Therapeutic Candidate 17:
+Candidate: MitoQ, a mitochondria-targeted antioxidant.
+Hypothesis: MitoQ will accumulate in trabecular meshwork cell mitochondria, scavenging ROS, preventing oxidative activation of latent TGF-β, and blocking downstream SMAD and RhoA/ROCK-mediated fibrosis and contractility to improve outflow.
+Reasoning: MitoQ has demonstrated safety in human studies and efficacy in reducing mitochondrial ROS. Preclinical data in TM cells show attenuation of TGF-β2 signaling. Its targeted mechanism addresses a validated redox-fibrosis axis with clear translational potential.
+
+Therapeutic Candidate 18:
+Candidate: SS-31 (Elamipretide), a mitochondrial membrane‐targeting peptide.
+Hypothesis: SS-31 will preserve mitochondrial function in trabecular meshwork cells by reducing oxidative stress, thereby preventing activation of TGF-β signaling cascades, ECM deposition, and contractile phenotype associated with glaucoma.
+Reasoning: SS-31 is in clinical trials for mitochondrial diseases, demonstrating safety and target engagement. Its mechanism reduces ROS upstream of TGF-β activation, offering a novel intervention point. Development feasibility is high given existing clinical data.
+
+Therapeutic Candidate 19:
+Candidate: Losartan, an angiotensin II type 1 receptor blocker.
+Hypothesis: Losartan will prevent angiotensin II–mediated activation of latent TGF-β in trabecular meshwork cells, reducing SMAD2/3 phosphorylation, ECM synthesis, and cell contraction to improve aqueous outflow.
+Reasoning: The renin-angiotensin system modulates ocular TGF-β levels. Losartan’s systemic antifibrotic effects are documented in kidney and cardiac models. Its safety profile and known ocular penetration support repurposing. Mechanistic specificity at AT1R and translational evidence justify its evaluation.
+
+Therapeutic Candidate 20:
+Candidate: Candesartan, an angiotensin II type 1 receptor blocker.
+Hypothesis: Candesartan will block AT1R on trabecular meshwork cells, inhibiting angiotensin II–induced TGF-β activation, reducing collagen deposition and cytoskeletal contractility to lower intraocular pressure.
+Reasoning: Candesartan exhibits high AT1R affinity and tissue penetration. Preclinical studies show reduction of ocular fibrosis markers. Clinical safety in hypertension and potential for ocular repurposing make it a feasible candidate for glaucoma.
+
+Therapeutic Candidate 21:
+Candidate: Simvastatin.
+Hypothesis: Simvastatin will inhibit HMG-CoA reductase in trabecular meshwork cells, reducing prenylation of RhoA, decreasing ROCK activation, stress fiber formation, and ECM synthesis, thereby enhancing aqueous outflow.
+Reasoning: Statins exhibit pleiotropic antifibrotic effects by modulating small GTPase signaling. Epidemiological studies link statin use with reduced glaucoma progression. Simvastatin’s extensive safety record and ability to inhibit Rho/ROCK signaling support mechanistic specificity and repurposing potential.
+
+Therapeutic Candidate 22:
+Candidate: Atorvastatin.
+Hypothesis: Atorvastatin will reduce RhoA prenylation in trabecular meshwork cells, attenuating ROCK-driven contractility and fibrotic ECM production, improving outflow facility in glaucoma.
+Reasoning: Atorvastatin shares the mechanistic anti-fibrotic profile of statins and demonstrates greater lipophilicity, potentially enhancing ocular tissue penetration. Its favorable safety record and emerging preclinical data support evaluation in glaucoma.
+
+Therapeutic Candidate 23:
+Candidate: Verteporfin.
+Hypothesis: Verteporfin will inhibit YAP/TAZ nuclear activity in trabecular meshwork cells, preventing mechanoresponsive transcription of CTGF, fibronectin, and collagen, thereby reducing fibrosis and stiffness to enhance aqueous humor outflow.
+Reasoning: YAP/TAZ are central to TGF-β and stiffness-driven profibrotic gene expression. Verteporfin disrupts YAP–TEAD interaction in fibrotic models. Its established safety in ocular photodynamic therapy and known ocular PK facilitate repurposing for anti-fibrotic therapy in glaucoma.
+
+Therapeutic Candidate 24:
+Candidate: Galunisertib (LY2157299).
+Hypothesis: Galunisertib will selectively inhibit TGF-β receptor type I kinase in trabecular meshwork cells, blocking SMAD2/3 activation, reducing transcription of fibrotic ECM genes and actomyosin contractility to restore outflow.
+Reasoning: Galunisertib has undergone Phase II oncology trials, providing human PK/PD and safety data. Its oral bioavailability and documented pathway inhibition support translational feasibility. Mechanistic specificity for TGF-β RI offers a precise anti-fibrotic approach.
+
+Therapeutic Candidate 25:
+Candidate: PXS-5153A, a small-molecule LOXL2 inhibitor.
+Hypothesis: PXS-5153A will inhibit LOXL2 enzymatic crosslinking of collagen in the trabecular meshwork ECM, reducing matrix stiffness and interrupting mechanotransductive feedback that drives TM cell contraction and fibrosis.
+Reasoning: PXS-5153A shows potent LOXL2 inhibition in pulmonary fibrosis models with demonstrable reduction in ECM stiffness. Its small-molecule nature ensures ocular penetrance. By targeting crosslinking, it addresses a validated biomechanical driver of glaucoma pathology.
+
+Therapeutic Candidate 26:
+Candidate: Halofuginone.
+Hypothesis: Halofuginone will inhibit prolyl-tRNA synthetase in trabecular meshwork fibroblasts, selectively reducing collagen type I synthesis and TGF-β–driven fibrotic gene expression, thereby decreasing ECM deposition and contractility in glaucoma.
+Reasoning: Halofuginone has demonstrated anti-fibrotic activity across multiple organ models by limiting collagen biosynthesis. Its oral and topical formulations have tolerable safety in preclinical ocular studies. By targeting collagen synthesis directly, it offers mechanistic specificity in ECM regulation.
+
+Therapeutic Candidate 27:
+Candidate: SB525334, a selective TGF-β receptor type I kinase inhibitor.
+Hypothesis: SB525334 will bind the ATP‐pocket of ALK5 in trabecular meshwork cells, preventing SMAD2/3 activation, blocking fibrotic transcriptional programs and actomyosin contraction to enhance aqueous outflow.
+Reasoning: SB525334 is more selective for TGF-β RI than SB431542 and has shown efficacy in ocular fibrosis models. Its well-defined kinase inhibition profile and favorable PK in preclinical studies support development. Mechanistic clarity and preclinical safety data justify its investigation for glaucoma.
+
+Therapeutic Candidate 28:
+Candidate: Tranilast.
+Hypothesis: Tranilast will inhibit the release and signaling of TGF-β in trabecular meshwork cells, reducing SMAD‐mediated ECM gene expression and myofibroblast transdifferentiation, thereby decreasing TM stiffness and lowering IOP.
+Reasoning: Tranilast is an anti-fibrotic agent used clinically for keloids, with known inhibitory effects on TGF-β secretion and fibroblast proliferation. Preclinical ocular safety has been documented. Its established use and mechanistic targeting of cytokine release position it as a feasible repurposed therapy.
+
+Therapeutic Candidate 29:
+Candidate: Calcipotriol, a vitamin D analog.
+Hypothesis: Calcipotriol will activate the vitamin D receptor in trabecular meshwork cells, antagonizing SMAD3‐mediated TGF-β transcriptional activity, reducing ECM protein expression and cell contractility to improve aqueous outflow.
+Reasoning: VDR signaling inhibits TGF-β–driven fibrosis in multiple models. Calcipotriol has an established ocular safety profile in dermatology repurposing studies. Its mechanistic action on nuclear receptor crosstalk provides a novel anti-fibrotic approach grounded in validated signal modulation.

@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Epithelial Apoptosis Assay
+Reasoning: Quantifying caspase-3/7 activity in alveolar type II cells rapidly reports epithelial injury, an early driver of IPF. Luminescent caspase substrates yield a high-throughput readout of apoptosis onset, enabling screening of compounds that preserve epithelial integrity (chakraborty2022emergingrolesof pages 24-26; samarelli2021fibroticidiopathicinterstitial pages 5-6).
+
+Assay Candidate 2:
+Strategy: SMAD Reporter Assay
+Reasoning: A fibroblast line stably expressing a SMAD2/3-responsive luciferase reporter provides a direct and sensitive readout of canonical TGF-β1 signaling inhibition. This assay rapidly measures dose-dependent effects on transcriptional activation of fibrotic genes (ma2022targetinggrowthfactor pages 2-4; samarelli2021molecularmechanismsand pages 9-10).
+
+Assay Candidate 3:
+Strategy: p38 MAPK Phosphorylation ELISA
+Reasoning: Non-canonical TGF-β signaling via p38 MAPK contributes to myofibroblast activation. A phospho-p38 ELISA in primary lung fibroblasts yields a quantitative measure of pathway engagement and inhibition by small molecules (eley2018investigatingtherole pages 24-27; chakraborty2022emergingrolesof pages 16-17).
+
+Assay Candidate 4:
+Strategy: α-SMA Immunofluorescence
+Reasoning: Immunostaining and high-content imaging of α-smooth muscle actin in fibroblasts offers a direct measure of myofibroblast differentiation. Automated image analysis quantifies α-SMA stress fiber formation across treatment conditions (savin2022pulmonaryfibrosisas pages 7-9; xu2024definingtherole pages 63-66).
+
+Assay Candidate 5:
+Strategy: Soluble Collagen Sircol Assay
+Reasoning: The Sircol dye-binding assay quantifies soluble collagen secreted into culture media, providing a rapid biochemical endpoint for ECM deposition. Changes in collagen levels reflect modulation of fibrotic activity (cummins2023novelmicroscalecollagen pages 117-120; yanagihara2020currentmodelsof pages 7-8).
+
+Assay Candidate 6:
+Strategy: Traction Force Microscopy
+Reasoning: Measuring cell-generated forces on fluorescent micropillar or hydrogel substrates reveals fibroblast contractility, a functional correlate of fibrosis. Quantitative bead displacement or pillar deflection metrics assess mechanical blockade by candidate drugs (cummins2023novelmicroscalecollagen pages 59-63; cummins2023novelmicroscalecollagen pages 103-107).
+
+Assay Candidate 7:
+Strategy: YAP/TAZ Localization Assay
+Reasoning: Culturing fibroblasts on tunable-stiffness hydrogels and quantifying YAP/TAZ nuclear translocation assesses mechanotransduction. Inhibitors that prevent stiffness-driven nuclear localization can be identified quickly by automated immunofluorescence (xu2024definingtherole pages 54-58; samarelli2021fibroticidiopathicinterstitial pages 6-8).
+
+Assay Candidate 8:
+Strategy: EMT Co-culture Assay
+Reasoning: A co-culture of ATII cells and fibroblasts measures epithelial-to-mesenchymal transition by dual immunostaining of E-cadherin and vimentin. This platform captures cell–cell crosstalk and screens compounds that block EMT-driven fibrosis (cooper2021atissueengineered pages 62-65; joo2024advancedlungorganoids pages 14-15).
+
+Assay Candidate 9:
+Strategy: 3D Collagen Gel Contraction
+Reasoning: Embedding fibroblasts in floating 3D collagen gels allows measurement of gel area reduction as a surrogate of tissue contraction. Automated imaging of gel diameter provides a simple functional endpoint for anti-contractile drug efficacy (yanagihara2020currentmodelsof pages 6-7; tanneberger2025biomaterialbased3dhuman pages 1-5).
+
+Assay Candidate 10:
+Strategy: ROS Imaging under Stretch
+Reasoning: Applying cyclic mechanical stretch to alveolar epithelial cells while monitoring live-cell ROS probes quantifies oxidative stress responses, a key fibrogenic stimulus. High-throughput imaging captures kinetics of ROS generation modulated by candidate antioxidants (schruf2020recapitulatingaspectsof pages 60-64; horowitz2016towardsahuman pages 19-23).

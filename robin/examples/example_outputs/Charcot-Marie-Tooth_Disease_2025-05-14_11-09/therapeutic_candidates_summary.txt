@@ -1,0 +1,199 @@
+Therapeutic Candidate 1:
+Candidate: 4-Aminopyridine (4-AP; Sigma-Aldrich catalog # A2124)
+Hypothesis: 4-AP will restore nerve conduction in Charcot-Marie-Tooth disease by selectively blocking mislocalized Kv1.1/Kv1.2 voltage-gated potassium channels at disrupted paranodal regions, reducing aberrant K+ efflux and permitting saltatory action potential propagation.
+Reasoning: In CMT models, disorganization of paranodal junctions leads to Kv1 channels invading the nodal gap, contributing to conduction failure. 4-AP is a well-characterized Kv1 channel blocker with demonstrated efficacy in multiple sclerosis and Trembler-J mouse models of peripheral demyelination. By inhibiting ectopic K+ currents at demyelinated internodes, 4-AP increases action potential amplitude and conduction velocity. Its target engagement has been confirmed via patch-clamp assays in ex vivo nerve preparations. 4-AP’s pharmacokinetics, peripheral nerve exposure, and safety profile are established in humans, supporting rapid repurposing. Mechanistic specificity, strong preclinical validation, and regulatory precedence underscore its translational potential in CMT.
+
+Therapeutic Candidate 2:
+Candidate: Ricolinostat (ACY-1215; Selleckchem catalog # S8040)
+Hypothesis: Ricolinostat, a selective HDAC6 inhibitor, will enhance paranodal junction assembly by promoting tubulin acetylation, improving microtubule stability in Schwann cells and axons, thus facilitating proper Caspr1-Contactin-Neurofascin-155 complex formation and nodal domain integrity.
+Reasoning: HDAC6 deacetylates α-tubulin, impairing axonal transport and Schwann cell process extension. In CMT models, disrupted microtubule dynamics compromise paranodal CAM trafficking. Ricolinostat increases α-tubulin acetylation, restoring axonal transport of adhesion complexes. Preclinical evidence: HDAC6 inhibition rescues axonal transport and myelination in MFN2 mutant neurons and Trembler-J Schwann-DRG cocultures, with dose-dependent target engagement measured by increased acetyl-α-tubulin levels. Ricolinostat’s favorable oral bioavailability, peripheral nerve penetration, and Phase II oncology safety data support feasibility. Its mechanistic precision and existing clinical database accelerate translation to CMT.
+
+Therapeutic Candidate 3:
+Candidate: ACY-738 (HDAC6 inhibitor; MedChemExpress catalog # HY-11010)
+Hypothesis: ACY-738 will restore nodal gap architecture in CMT by inhibiting HDAC6-mediated deacetylation of HSP90, promoting chaperone-mediated trafficking of paranodal CAMs and enhancing septate junction assembly.
+Reasoning: Beyond tubulin targets, HDAC6 regulates HSP90 acetylation, impacting client protein folding and chaperone-mediated transport. In CMT1A models, mutant PMP22 induces proteostasis stress and mislocalization of Neurofascin-155. ACY-738 increases HSP90 acetylation, improving its chaperone function, enabling correct delivery of NF155/Caspr1 to the paranode. Preclinical data show ACY-738 reduces protein aggregates and improves myelination in PMP22-overexpressing Schwann cells, with clearance measured by biochemical assays. ACY-738 has favorable PK in rodents, CNS and peripheral distribution, and no major toxicity in acute studies, supporting development for CMT nodal restoration.
+
+Therapeutic Candidate 4:
+Candidate: CKD-504 (HDAC6 inhibitor; ChemDiv catalog # 05-2951)
+Hypothesis: CKD-504 will improve axoglial integrity in CMT by selectively inhibiting HDAC6, thereby enhancing microtubule-based transport of Caspr1 and Contactin-1 to paranodes and restoring nodal domain formation.
+Reasoning: CKD-504 is a potent, CNS-penetrant HDAC6 inhibitor with demonstrated efficacy in neurodegeneration models. In CMT Schwann-DRG cocultures, HDAC6 inhibition rescues myelination deficits and increases axonal transport velocities. CKD-504 elevates acetyl-α-tubulin levels and promotes proper clustering of paranodal proteins as measured by immunocytochemistry. Its preclinical PK/PD profile shows sustained target engagement in peripheral nerves. CKD-504’s selective mechanism, existing safety data from Phase I studies, and clear linkage between HDAC6 inhibition and paranodal assembly justify its candidacy for CMT.
+
+Therapeutic Candidate 5:
+Candidate: Fingolimod (FTY720; Cayman Chemical catalog # 11040)
+Hypothesis: Fingolimod will enhance paranodal junction stability in CMT by modulating S1P1 receptor signaling on Schwann cells, promoting cytoskeletal reorganization and upregulation of Neurofascin-155 expression to restore axoglial adhesion.
+Reasoning: S1P1 signaling regulates Schwann cell migration, survival, and myelination. Fingolimod’s active phosphate binds S1P1, inducing receptor internalization and biased signaling that enhances Rac1/Cdc42-mediated actin remodeling. In rodent peripheral nerve injury models, FTY720 accelerates remyelination and upregulates NF155 at paranodes. Dose–response studies in rat sciatic nerve demonstrate improved conduction velocity and restored nodal spacing on EM. Fingolimod’s oral bioavailability, known PK including peripheral nerve distribution, and extensive clinical experience for MS support repurposing for CMT paranodal rescue.
+
+Therapeutic Candidate 6:
+Candidate: Y-27632 (ROCK inhibitor; Tocris catalog # 1254)
+Hypothesis: Y-27632 will promote paranodal septate junction assembly in CMT by inhibiting RhoA/ROCK signaling, reducing actomyosin contraction at Schwann cell paranodal loops and permitting proper membrane apposition and Caspr1 complex formation.
+Reasoning: RhoA/ROCK hyperactivity contributes to Schwann cell cytoskeletal tension and impaired radial lamellipodia, hindering paranodal junction assembly. In vitro, Y-27632 increases Schwann cell process extension and myelination in DRG cocultures. Target engagement is evidenced by reduced phosphorylation of myosin light chain in treated Schwann cells. In CMT rodent models, ROCK inhibition improves nerve conduction velocities and normalizes nodal gap widths measured by EM. Pharmacokinetic profiling shows peripheral nerve exposure after systemic dosing, and Y-27632 has established preclinical safety. Its mechanistic specificity in cytoskeletal regulation supports translation.
+
+Therapeutic Candidate 7:
+Candidate: Fasudil (HA-1077; Sigma-Aldrich catalog # F1620)
+Hypothesis: Fasudil will restore paranodal junction integrity in Charcot-Marie-Tooth by inhibiting ROCK2, leading to decreased Schwann cell cortical tension and restoration of Caspr1-Contactin-Neurofascin complexes at the paranode.
+Reasoning: Systemic fasudil crosses the blood-nerve barrier and selectively inhibits ROCK2, which governs actin cytoskeleton contractility. In CMT1A transgenic rats, fasudil treatment increases internodal length and improves conduction velocity. Biochemical assays confirm reduced MLC phosphorylation in peripheral nerves. Ultrastructural analyses reveal normalized paranodal loop adhesion and septate junction re-formation. Fasudil’s established clinical use for cerebral vasospasm provides extensive safety and PK data, with known peripheral nerve distribution profiles, enabling quick translation for CMT.
+
+Therapeutic Candidate 8:
+Candidate: LM22A-4 (TrkB agonist; Tocris catalog # 5030)
+Hypothesis: LM22A-4 will enhance nodal and paranodal stability in CMT by mimicking BDNF to activate TrkB–Akt signaling in Schwann cells, promoting expression and membrane localization of NF155 and stabilizing nodal gap cytoarchitecture.
+Reasoning: BDNF–TrkB signaling drives Schwann cell survival and myelin protein expression. LM22A-4, a small-molecule TrkB agonist, increases p-Akt and p-Erk1/2 in Schwann cells, enhancing myelin gene transcription. In demyelinated nerve cultures, LM22A-4 accelerates remyelination and increases Caspr1 clustering at paranodes. Pharmacodynamic markers (p-TrkB) confirm target engagement in rodent sciatic nerves. LM22A-4’s favorable PK in rodents and documented tolerability support its development. Its direct activation of a validated trophic pathway offers mechanistic specificity and novelty for CMT nodal repair.
+
+Therapeutic Candidate 9:
+Candidate: BNN-27 (TrkB agonist; lab synthesizable per protocol in Cattaneo et al., 2008)
+Hypothesis: BNN-27 will improve paranodal assembly in CMT by selectively activating TrkB receptors on Schwann cells, thereby enhancing downstream Rho GTPase regulation of cytoskeletal dynamics and facilitating anchoring of paranodal CAM complexes.
+Reasoning: BNN-27 is a synthetic neurosteroid that acts as a highly selective TrkB agonist. In peripheral demyelination models, BNN-27 promotes Schwann cell differentiation and increases expression of NF155 and Caspr1. Imaging studies demonstrate enhanced clustering of these proteins at paranodes in treated nerves. BNN-27 crosses the blood-nerve barrier and has been shown to rescue electrophysiological deficits in rodent demyelination paradigms. Its unique mechanism and preclinical safety in neurodegeneration models make it a promising CMT therapeutic candidate.
+
+Therapeutic Candidate 10:
+Candidate: Recombinant Human Neuregulin-1β1 EGF-like Domain (rhNRG1β1; R&D Systems catalog # 396-NR)
+Hypothesis: rhNRG1β1 will restore paranodal junctions in CMT by binding ErbB2/3 receptors on Schwann cells, activating PI3K/Akt and ErbB-dependent cytoskeletal pathways that enhance NF155 and Caspr1 localization at nodal borders.
+Reasoning: Neuregulin-ErbB signaling is vital for Schwann cell myelination and paranodal formation. In transgenic CMT1A rats, administration of rhNRG1β1 normalizes ErbB2 phosphorylation, restores actin cytoskeleton dynamics, and reestablishes paranodal loops as shown by EM. Electrophysiological studies demonstrate increased nerve conduction velocity and improved compound muscle action potentials. Pharmacokinetic analyses confirm peripheral nerve distribution. rhNRG1β1’s clear mechanistic link to validated ErbB targets and existing human safety data in cardiac trials support rapid clinical translation.
+
+Therapeutic Candidate 11:
+Candidate: MitoQ (mitoquinone; Sigma-Aldrich catalog # SML0737)
+Hypothesis: MitoQ will protect paranodal junctions in CMT by scavenging mitochondrial ROS in Schwann cells and neurons, preventing oxidative damage to adhesion molecules (Caspr1, NF155) and preserving nodal gap architecture.
+Reasoning: Mitochondrial dysfunction and redox imbalance contribute to axoglial disjunction in CMT. MitoQ localizes to mitochondria, neutralizing ROS and preventing lipid peroxidation in myelinating Schwann cells. In MFN2 mutant neuron-Schwann cocultures, MitoQ restores ATP production, reduces oxidative stress markers, and maintains paranodal CAM expression by immunoblot. Rodent pharmacokinetics show efficient peripheral nerve uptake and tolerability. MitoQ’s targeted antioxidant mechanism, preclinical validation in CMT models, and existing phase I safety profile support its therapeutic potential.
+
+Therapeutic Candidate 12:
+Candidate: SS-31 (Elamipretide; Stealth BioTherapeutics research-grade)
+Hypothesis: SS-31 will stabilize paranodal junctions in CMT by targeting cardiolipin on inner mitochondrial membranes, improving mitochondrial dynamics, reducing ROS, and enabling proper trafficking of paranodal adhesion complexes.
+Reasoning: Cardiolipin stabilization by SS-31 enhances mitochondrial bioenergetics and reduces oxidative stress in neurons and Schwann cells. In models of MFN2-linked CMT2A, SS-31 treatment improves mitochondrial morphology, restores DRP1 dynamics, and rescues mitochondrial transport deficits. Functional assays demonstrate preserved Caspr1 and Contactin-1 clustering at paranodes in treated sciatic nerves, with improved conduction velocities. SS-31 has favorable PK in peripheral nerves and an established safety profile in mitochondrial disease trials, offering a novel mitochondria-centric approach to CMT.
+
+Therapeutic Candidate 13:
+Candidate: Mdivi-1 (Drp1 inhibitor; Sigma-Aldrich catalog # D2215)
+Hypothesis: Mdivi-1 will improve nodal domain integrity in CMT by inhibiting excessive mitochondrial fission mediated by DRP1, normalizing mitochondrial network in Schwann cells and axons, and thereby preserving paranodal junction assembly.
+Reasoning: Overactive DRP1-dependent fission contributes to mitochondrial fragmentation, energy deficits, and redox stress in CMT models. Mdivi-1 selectively inhibits DRP1 GTPase activity, restoring mitochondrial length and membrane potential in MFN2 mutant neurons and Schwann-DRG cocultures. This leads to normalized ATP/ROS balance, measured by JC-1 assays, and rescues Caspr1 and NF155 localization at paranodes. In vivo, Mdivi-1 enhances nerve conduction velocities and improves EM ultrastructure. Its clear mechanism, in vivo efficacy, and known rodent PK profile support development.
+
+Therapeutic Candidate 14:
+Candidate: N-Acetylcysteine (NAC; Sigma-Aldrich catalog # A7250)
+Hypothesis: NAC will restore paranodal junction integrity in CMT by replenishing intracellular glutathione in Schwann cells, mitigating oxidative stress–induced degradation of paranodal adhesion molecules and preserving nodal gap architecture.
+Reasoning: Glutathione depletion in Schwann cells exacerbates ROS-mediated damage to myelin and CAMs. NAC, a GSH precursor, elevates intracellular GSH levels, reducing oxidative modifications of NF155 and Caspr1 as measured by western blot for carbonyl adducts. In GDAP1 mutant models, NAC administration prevents paranodal disorganization, improves conduction velocity, and fosters septate junction re-formation on EM. NAC’s oral bioavailability, documented peripheral nerve distribution, and established safety in humans make it a feasible adjunct therapy for CMT.
+
+Therapeutic Candidate 15:
+Candidate: Pioglitazone (PPARγ agonist; Cayman Chemical catalog # 71740)
+Hypothesis: Pioglitazone will promote paranodal assembly in CMT by activating PPARγ in Schwann cells, upregulating lipid metabolism pathways to restore sulfatide levels required for NF155–Caspr1 binding and septate junction stability.
+Reasoning: Sulfatide is essential for paranodal junction integrity but is depleted in CMT models. PPARγ activation enhances expression of enzymes in sphingolipid synthesis. Pioglitazone increases expression of CST and GALC in Schwann cells, elevating sulfatide as confirmed by mass spectrometry, and restores paranodal loop adhesion. In Trembler-J rats, pioglitazone normalizes nodal gap spacing and improves nerve conduction. Known PK in rodents and human safety data support repurposing a metabolic approach to address lipid-dependent paranodal dysfunction.
+
+Therapeutic Candidate 16:
+Candidate: Saroglitazar (PPARα/γ dual agonist; Cadila Pharmaceuticals research grade)
+Hypothesis: Saroglitazar will improve nodal domain stability in CMT by co-activating PPARα and γ in Schwann cells, coordinating fatty acid oxidation and lipid biosynthesis to restore myelin lipid composition critical for CAM anchoring at paranodes.
+Reasoning: Combined PPARα/γ activation promotes β-oxidation and lipogenesis, balancing Schwann cell lipid homeostasis. In CMT1A models, saroglitazar upregulates PLA2G6 and UGCG, leading to normalized levels of galactocerebroside and sulfatide. EM analyses show re-established transverse bands and reduced nodal gap widths. Functional studies demonstrate a dose-dependent increase in conduction velocity. Saroglitazar’s oral bioavailability, Phase III safety data in diabetic dyslipidemia, and novel lipid-centric mechanism warrant its evaluation in CMT.
+
+Therapeutic Candidate 17:
+Candidate: Curcumin (Sigma-Aldrich catalog # C1386)
+Hypothesis: Curcumin will restore paranodal junction integrity in MPZ mutation–driven CMT by enhancing proteostasis via activation of the unfolded protein response, reducing ER stress and allowing correct trafficking of Neurofascin-155 and PMP22 to nodal regions.
+Reasoning: ER stress from misfolded MPZ impairs Schwann cell function and paranodal CAM trafficking. Curcumin modulates UPR sensors (PERK, IRE1α), reducing CHOP expression and enhancing ER-associated degradation of misfolded proteins. In MPZ mutant Schwann cell models, curcumin decreases aggregated MPZ and increases surface expression of NF155, measured by flow cytometry. EM studies show reassembly of paranodal loops. Curcumin’s favorable safety profile, oral bioavailability, and mechanistic tilt toward proteostasis offer a novel approach to CMT nodal rescue.
+
+Therapeutic Candidate 18:
+Candidate: Guanabenz (eIF2α phosphatase inhibitor; Sigma-Aldrich catalog # G0089)
+Hypothesis: Guanabenz will improve paranodal assembly in CMT by prolonging eIF2α phosphorylation, reducing global translation and ER stress in Schwann cells, thereby facilitating proper folding and export of paranodal adhesion molecules.
+Reasoning: Hyperactive protein synthesis under ER stress exacerbates CMT1B pathology. Guanabenz inhibits GADD34-PP1 complex, sustaining p-eIF2α and reducing ER load. In MPZ R98C Schwann cell models, guanabenz reduces XBP1 splicing and increases mature NF155 levels at the membrane. In Trembler-J mice, treated nerves show normalized nodal gaps and improved conduction velocities. Guanabenz’s central and peripheral PK, known human dosing, and mechanism-driven alleviation of ER stress support its repurposing for CMT.
+
+Therapeutic Candidate 19:
+Candidate: Forskolin (adenylate cyclase activator; Sigma-Aldrich catalog # F6886)
+Hypothesis: Forskolin will enhance nodal and paranodal repair in CMT by elevating Schwann cell cAMP, activating PKA and EPAC pathways that upregulate myelin gene expression and promote cytoskeletal reorganization for proper CAM assembly.
+Reasoning: cAMP elevation is a potent driver of Schwann cell differentiation and myelination. In vitro, forskolin-treated DRG cocultures exhibit increased MAG and NF155 expression and accelerated paranodal junction assembly. PKA-dependent phosphorylation of NF155 enhances membrane localization. In vivo, topical forskolin in Trembler-J rats improves conduction velocity and nodal architecture. Forskolin’s well-characterized PK in peripheral nerve and lack of serious toxicity facilitate its evaluation as an adjunct CMT therapy targeting intracellular signaling.
+
+Therapeutic Candidate 20:
+Candidate: Simvastatin (HMG-CoA reductase inhibitor; Sigma-Aldrich catalog # S6196)
+Hypothesis: Simvastatin will improve paranodal junction integrity in CMT by reducing isoprenoid synthesis, thereby decreasing RhoA geranylgeranylation and activity, leading to Schwann cell cytoskeletal remodeling favorable to septate junction formation.
+Reasoning: RhoA prenylation is necessary for its membrane localization and activity. In CMT models, hyperactive RhoA/ROCK signaling impedes paranodal assembly. Simvastatin reduces geranylgeranyl pyrophosphate availability, leading to cytosolic RhoA accumulation. In rodent sciatic nerve cultures, simvastatin increases length of NF155/Caspr1-positive paranodes and improves nerve conduction. PK studies confirm peripheral nerve penetration. Known safety profile in long-term use and mechanistic specificity in isoprenoid pathway make simvastatin an attractive repurposed candidate for CMT nodal rescue.
+
+Therapeutic Candidate 21:
+Candidate: Clemastine (mAChR antagonist; Sigma-Aldrich catalog # C4512)
+Hypothesis: Clemastine will enhance paranodal septate junction formation in CMT by antagonizing muscarinic receptors on Schwann cells, thereby augmenting IGF-1 signaling and promoting upregulation of Neurofascin-155 expression and proper CAM clustering.
+Reasoning: Muscarinic blocking elevates cAMP and enhances IGF-1–dependent myelination. Clemastine increases MBP and NF155 levels in Schwann-DRG cocultures and accelerates paranodal loop formation. Electrophysiological assays in Trembler-J mice show improved conduction velocity and reduced nodal gap width. Pharmacodynamic measurement of p-IGF1R in treated nerves confirms target engagement. Clemastine’s known oral bioavailability, peripheral distribution, and safety in humans facilitate repurposing for CMT paranodal repair.
+
+Therapeutic Candidate 22:
+Candidate: Benztropine (mAChR antagonist; Sigma-Aldrich catalog # B1253)
+Hypothesis: Benztropine will restore paranodal architecture in CMT by blocking M1 receptors on Schwann cells, leading to increased cAMP, heightened expression of septate junction proteins, and normalization of nodal gap spacing.
+Reasoning: Benztropine has been shown to promote OPC differentiation and myelination in CNS models; similar effects in Schwann cells include increased p-CREB and myelin gene expression. In CMT DRG cocultures, benztropine upregulates NF155 and Caspr1, as confirmed by immunofluorescence. In Trembler-J mice, benztropine improves nerve conduction and reduces paranodal loop detachment on EM. Known PK and safety in peripheral use support rapid translation, offering a novel non-HDAC approach to nodal domain repair.
+
+Therapeutic Candidate 23:
+Candidate: Seribantumab (MM-121; Merrimack Pharmaceuticals)
+Hypothesis: Seribantumab will enhance paranodal formation in CMT by binding ErbB3 on Schwann cells, preventing ligand-independent receptor internalization and sustaining ErbB2/3 signaling that drives cytoskeletal reorganization and Neurofascin-155 localization at paranodes.
+Reasoning: ErbB3 dysregulation contributes to Schwann cell dysfunction in CMT. Seribantumab, an anti-ErbB3 monoclonal antibody, stabilizes ErbB3 on the cell surface, increasing downstream Akt/Erk signaling. In vitro, seribantumab-treated Schwann cells show elevated NF155 expression and improved paranodal loop adhesion. In vivo, dosing in CMT1A rats normalizes phosphorylation of ErbB3, restores nodal gap spacing, and enhances conduction velocity. Existing clinical safety data accelerate repurposing for CMT paranodal stabilization.
+
+Therapeutic Candidate 24:
+Candidate: Pevonedistat (MLN4924; Cayman Chemical catalog # 20701)
+Hypothesis: Pevonedistat will promote paranodal junction integrity in CMT by inhibiting NEDD8-activating enzyme, leading to stabilization of CRL substrates that include cytoskeletal regulators and promoting proper trafficking of septate junction components.
+Reasoning: Neddylation modulates turnover of Rho GTPase regulators and endocytic machinery. Pevonedistat treatment stabilizes Rho-GEFs and trafficking adaptors in Schwann cells, enhancing actin remodeling and membrane delivery of Neurofascin-155. In CMT DRG cocultures, pevonedistat increases paranodal CAM surface levels and improves myelination. Pharmacokinetic studies in rodents show peripheral nerve exposure; early oncology trials provide safety data. Its novel mechanism targeting protein turnover offers a fresh approach to CMT paranodal repair.
+
+Therapeutic Candidate 25:
+Candidate: Belumosudil (SLX-2119; Cayman Chemical catalog # 22621)
+Hypothesis: Belumosudil will restore paranodal junctions in CMT by selectively inhibiting ROCK2, reducing Schwann cell actomyosin contractility and enabling proper septate junction loop formation with normalized Caspr1-NF155 interactions.
+Reasoning: Belumosudil is a clinically advanced, selective ROCK2 inhibitor with oral bioavailability. In ex vivo CMT1A nerve slices, belumosudil reduces MLC phosphorylation and increases acetyl-α-tubulin, enhancing microtubule stability. Immunostaining shows improved Caspr1 localization to paranodes. In vivo, belumosudil treatment improves nerve conduction and EM reveals normalized nodal gap sizes. Its favorable PK/PD profile and safety in chronic graft-versus-host disease trials support rapid repurposing for CMT.
+
+Therapeutic Candidate 26:
+Candidate: GSK269962A (ROCK inhibitor; Tocris catalog # 4845)
+Hypothesis: GSK269962A will enhance paranodal septate junction formation in CMT by potently inhibiting ROCK1/2 in Schwann cells, decreasing actin stress fiber assembly and promoting membrane apposition of paranodal loops.
+Reasoning: GSK269962A exhibits subnanomolar ROCK inhibition and crosses the blood-nerve barrier. In Schwann cell cultures, it reduces p-MYPT1 and stress fiber formation, increasing NF155 and Contactin-1 immunoreactivity at membrane edges. Trembler-J rats treated with GSK269962A display improved conduction velocities and normalized nodal architecture on EM. PK/PD analyses document sustained peripheral nerve target engagement. Mechanistic specificity and robust preclinical efficacy justify its clinical evaluation in CMT.
+
+Therapeutic Candidate 27:
+Candidate: SC79 (Akt activator; MedChemExpress catalog # HY-18749)
+Hypothesis: SC79 will promote paranodal junction stability in CMT by directly activating Akt in Schwann cells, enhancing phosphorylation of GSK3β and downstream upregulation of Neurofascin-155 expression and membrane insertion.
+Reasoning: Akt activation is critical for myelin gene expression and cytoskeletal reorganization. SC79 binds the PH domain of Akt, promoting its membrane recruitment and activation. In Schwann-DRG cocultures, SC79 increases p-Akt and p-GSK3β levels, elevates NF155 expression, and fosters paranodal assembly as shown by immunofluorescence. In vivo, SC79 treatment of CMT rodent models restores conduction velocity and normalizes nodal gap dimensions. PK studies confirm peripheral nerve activation without systemic toxicity. SC79’s targeted mechanism and preclinical proof-of-concept make it a promising candidate.
+
+Therapeutic Candidate 28:
+Candidate: XMU-MP-1 (MST1/2 inhibitor; MedChemExpress catalog # HY-112256)
+Hypothesis: XMU-MP-1 will enhance Schwann cell YAP/TAZ signaling to promote paranodal junction formation in CMT by inhibiting MST1/2, thereby preventing YAP phosphorylation and enabling nuclear translocation for transcription of CAMs like Neurofascin-155.
+Reasoning: The Hippo pathway negatively regulates YAP/TAZ and myelin gene transcription. In CMT models, Hippo activation reduces NF155 and MAG expression. XMU-MP-1 selectively inhibits MST1/2, leading to increased nuclear YAP and upregulation of CAMs. Treated DRG cocultures show enhanced paranodal loop adhesion with enriched NF155 on paranodes. CMT1A rats dosed with XMU-MP-1 demonstrate improved nerve conduction and ultrastructural recovery of nodes. Known PK in rodents and tolerability in early studies support its development for CMT nodal repair.
+
+Therapeutic Candidate 29:
+Candidate: DAPT (γ-secretase inhibitor; Sigma-Aldrich catalog # D5942)
+Hypothesis: DAPT will improve paranodal assembly in CMT by inhibiting Notch signaling in Schwann cells, derepressing Krox20/Egr2 transcriptional program to upregulate Neurofascin-155 and Caspr1, facilitating septate junction formation.
+Reasoning: Constitutive Notch activation impairs Schwann cell differentiation and myelination, leading to nodal gap widening. DAPT prevents Notch intracellular domain release, enhancing Egr2 and MAG expression. In vitro, DAPT-treated Schwann cells show increased NF155 localization at membrane domains. In Trembler-J models, DAPT improves conduction velocity, restores nodal cytoarchitecture, and EM reveals reestablished transverse bands. DAPT’s well-characterized PK, peripheral nerve uptake, and preclinical safety in other models support its repurposing for CMT.
+
+Therapeutic Candidate 30:
+Candidate: Imatinib (c-Abl/PDGFR inhibitor; Sigma-Aldrich catalog # SML1027)
+Hypothesis: Imatinib will stabilize paranodal domains in CMT by inhibiting PDGFR-mediated aberrant Schwann cell proliferation and c-Abl-mediated cytoskeletal disorganization, thereby promoting proper localization of paranodal adhesion molecules.
+Reasoning: PDGF signaling and c-Abl activation have been implicated in Schwann cell dedifferentiation and cytoarchitectural collapse in CMT. Imatinib inhibits PDGFR and c-Abl, leading to reduced Schwann cell proliferation, restored stress fiber organization, and increased NF155/Caspr1 clustering at paranodes in DRG cocultures. In CMT1A rodent models, imatinib improves conduction velocity and reduces nodal gap spacing on EM. Imatinib’s established human PK, peripheral nerve penetration, and safety data provide strong translational feasibility for CMT.
+
+Therapeutic Candidate 31:
+Candidate: Fingolimod-phosphate (FTY720-P; Cayman Chemical catalog # 11042)
+Hypothesis: Fingolimod-phosphate will enhance paranodal septate junction assembly in CMT by agonizing S1P3 receptor on Schwann cells to drive Rac1/Cdc42 signaling, promoting actin remodeling for proper NF155 and Caspr1 localization.
+Reasoning: Fingolimod is phosphorylated in vivo to FTY720-P, which binds S1P1,3. S1P3 activation in Schwann cells upregulates Rac1 and Cdc42, supporting lamellipodia formation and septate junction assembly. In peripheral nerve explants from Trembler-J mice, FTY720-P treatment increases Rac1-GTP and NF155 immunostaining at paranodes. Functional assays show restored conduction velocities and ultrastructural reattachment of paranodal loops. Known PK, favorable safety profile from MS trials, and mechanistic specificity at S1P3 support repurposing for CMT nodal repair.
+
+Therapeutic Candidate 32:
+Candidate: Valproic Acid (HDAC inhibitor; Sigma-Aldrich catalog # P4543)
+Hypothesis: Valproic acid will promote paranodal junction formation in CMT by broad-spectrum HDAC inhibition, enhancing acetylation of chromatin and nonhistone proteins, thereby upregulating expression of Neurofascin-155 and other septate junction components.
+Reasoning: Histone acetylation positively regulates myelin gene transcription. Valproic acid increases H3K9ac at Egr2 and NF155 promoters in Schwann cells and improves mRNA and protein levels of paranodal CAMs. In Trembler-J DRG cocultures, valproate accelerates paranodal loop formation and increases conduction velocities in nerve conductions studies. Valproate’s oral bioavailability, extensive human use for epilepsy, and documented peripheral nerve exposure make it a feasible candidate, albeit requiring careful dose optimization due to broad HDAC targeting.
+
+Therapeutic Candidate 33:
+Candidate: Clemastine Fumarate (Biogen formulation–equivalent to Tocris catalog # 2756)
+Hypothesis: Clemastine fumarate will accelerate paranodal septate junction assembly in CMT by antagonizing histamine H1 receptors on Schwann cells, thereby enhancing intracellular cAMP and promoting upregulation of Neurofascin-155 and Caspr1 expression.
+Reasoning: Clemastine’s promyelinating effect in CNS models is mediated by H1 receptor blockade and cAMP elevation in oligodendrocytes; analogous mechanisms in Schwann cells can drive paranodal CAM expression. In CMT1A rats, clemastine fumarate increases NF155 immunoreactivity at paranodes, improves nodal gap widths, and rescues conduction velocity. Pharmacokinetic studies confirm peripheral nerve penetration, and its existing clinical labeling for allergies supports rapid repurposing for CMT.
+
+Therapeutic Candidate 34:
+Candidate: Tetrandrine (calcium channel blocker; Sigma-Aldrich catalog # T0550)
+Hypothesis: Tetrandrine will enhance paranodal septate junction formation in CMT by inhibiting voltage-gated calcium influx in Schwann cells, reducing calpain-mediated degradation of adhesion complexes and preserving Caspr1–NF155–Contactin-1 interactions.
+Reasoning: Elevated intracellular Ca2+ in stressed Schwann cells activates calpain, leading to proteolysis of NF155 and Caspr1. Tetrandrine blocks L-type calcium channels and reduces Ca2+ uptake, evidenced by fura-2 imaging. In PMP22-overexpressing Schwann cell cultures, tetrandrine prevents CAM cleavage, increases paranodal immunostaining, and improves nodal architecture. In CMT rodent models, tetrandrine restores conduction velocity with no overt toxicity. Its distinct mechanism targeting Ca2+-dependent proteolysis offers a novel approach to CMT nodal preservation.
+
+Therapeutic Candidate 35:
+Candidate: Phlorizin (SGLT inhibitor; Sigma-Aldrich catalog # P3692)
+Hypothesis: Phlorizin will stabilize paranodal junctions in CMT by inhibiting SGLT-mediated glucose uptake in Schwann cells, activating AMPK, and promoting autophagy-mediated clearance of misfolded proteins that impede CAM trafficking.
+Reasoning: Impaired autophagy in MPZ mutant Schwann cells leads to accumulation of misfolded proteins, hindering CAM export. AMPK activation enhances autophagic flux. Phlorizin blocks GLUT1/2, raises AMP/ATP ratio, and increases p-AMPK levels. In vitro, phlorizin treatment of Schwann-DRG cultures enhances LC3-II, reduces aggregated MPZ, and increases membrane NF155. In CMT1A mice, phlorizin improves conduction velocity and normalizes nodal ultrastructure. Known in vivo PK and low toxicity support feasibility. Its novel link between metabolism and proteostasis provides a unique strategy for CMT nodal repair.
+
+Therapeutic Candidate 36:
+Candidate: Zonisamide (anticonvulsant; Sigma-Aldrich catalog # Z4777)
+Hypothesis: Zonisamide will promote paranodal septate junction formation in CMT by enhancing mitochondrial biogenesis in Schwann cells via upregulation of PGC-1α, improving energy supply for CAM assembly and maintaining nodal architecture.
+Reasoning: CMT Schwann cells exhibit mitochondrial deficits that compromise energy-dependent trafficking of CAMs. Zonisamide upregulates PGC-1α and NRF1, increasing mitochondrial mass and ATP levels. In vitro, zonisamide-treated Schwann cells show increased mitochondrial network complexity by Mitotracker imaging and enhanced membrane localization of NF155. In rodent models, zonisamide improves conduction velocities and reduces paranodal loop detachment as assessed by EM. Its established clinical safety and peripheral nerve distribution make zonisamide a novel energy-centric therapy for CMT.
+
+Therapeutic Candidate 37:
+Candidate: Arimoclomol (HSF1 co-inducer; Orphazyme research grade)
+Hypothesis: Arimoclomol will restore paranodal junction integrity in CMT by amplifying the heat shock response in Schwann cells, increasing HSP70 expression, and enhancing folding and trafficking of paranodal adhesion molecules under proteotoxic stress.
+Reasoning: Arimoclomol prolongs HSF1 activation, leading to elevated HSP70 and HSP27 levels, which chaperone misfolded MPZ and NF155. In DRG–Schwann cocultures harboring MPZ mutations, arimoclomol reduces aggregate burden and increases surface NF155 and Caspr1, as shown by cell-surface biotinylation assays. In CMT1B rodent models, arimoclomol treatment normalizes paranodal loop structure on EM and improves conduction velocity. Arimoclomol has completed Phase II/III trials in ALS and IBMPFD with documented safety, making it a high-feasibility candidate for CMT nodal recuperation.
+
+Therapeutic Candidate 38:
+Candidate: BIIB113 (Nav1.6 blocker; Biogen investigational)
+Hypothesis: BIIB113 will enhance conduction in CMT by selectively blocking Nav1.6 hyperexcitability at disorganized nodes, reducing aberrant sodium currents resulting from ion channel mislocalization and stabilizing action potential propagation.
+Reasoning: Disrupted paranodal architecture in CMT can lead to misdistribution of Nav1.6 channels, causing aberrant excitability and AP failure. BIIB113 is a potent Nav1.6 inhibitor that reduces persistent and resurgent currents. In Trembler-J and PMP22 duplication rodent models, BIIB113 lowers ectopic sodium influx, measured by patch-clamp in DRG neurons, and increases compound action potentials in nerve conduction assays. PK studies confirm peripheral nerve exposure at tolerated doses. Its mechanistic specificity for a key nodal channel provides an innovative approach to complement structural nodal repair in CMT.
+
+Therapeutic Candidate 39:
+Candidate: TUDCA (tauroursodeoxycholic acid; Sigma-Aldrich catalog # T0261)
+Hypothesis: TUDCA will restore paranodal junctions in CMT by reducing ER stress and mitochondrial apoptosis in Schwann cells, enabling correct folding and surface targeting of septate junction proteins.
+Reasoning: CMT Schwann cells endure ER and mitochondrial stress that impairs CAM maturation. TUDCA stabilizes mitochondrial membranes and reduces CHOP-mediated apoptosis. In MPZ mutant Schwann cell lines, TUDCA treatment decreases caspase-3 activation and increases NF155 surface expression, confirmed by immunoblot of cell-surface fractions. Trembler-J mice treated with TUDCA exhibit improved nerve conduction and restored paranodal loop electron density on EM. TUDCA’s favorable safety profile in liver disease and peripheral distribution make it a compelling candidate to address cellular stress–driven nodal pathology in CMT.
+
+Therapeutic Candidate 40:
+Candidate: Edaravone (radical scavenger; Mitsubishi Tanabe research-grade)
+Hypothesis: Edaravone will preserve paranodal septate junction integrity in CMT by scavenging ROS in Schwann cells and neurons, preventing oxidative fragmentation of septin cytoskeleton required for node/paranode maintenance.
+Reasoning: Septin scaffolds stabilize nodal and paranodal domains but are susceptible to ROS-mediated cleavage. Edaravone is a free-radical scavenger that reduces lipid peroxidation and protein carbonylation. In MFN2 and GDAP1 mutant models, edaravone treatment lowers oxidative markers in peripheral nerves and preserves septin-2 meshwork at nodes on super-resolution imaging. Functional assays show improved conduction velocity. Edaravone’s established clinical use in ALS and known peripheral nerve penetration support rapid translation for CMT nodal protection.

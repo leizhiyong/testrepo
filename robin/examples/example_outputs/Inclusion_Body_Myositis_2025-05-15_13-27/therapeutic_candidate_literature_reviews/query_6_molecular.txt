@@ -1,0 +1,34 @@
+Query: Molecular pathogenesis of Inclusion Body Myositis AND genetic and functional evidence linking proteostasis dysregulation, rimmed vacuoles, TDP-43 and β-amyloid inclusions to contractile dysfunction in patient muscle fibers, in vitro and in vivo studies analyzing morphological and functional correlates
+
+Inclusion Body Myositis (IBM) is a complex, multifactorial muscle disease where both inflammatory and non‐inflammatory mechanisms drive contractile dysfunction. Central to its molecular pathogenesis is dysregulation of proteostasis, a failure in cellular protein quality control mechanisms that leads to the abnormal accumulation of misfolded proteins. Genetic and functional evidence indicates that mutations or rare variants in genes crucial for protein degradation and autophagy (e.g., SQSTM1 and VCP) predispose affected muscle fibers to develop rimmed vacuoles and aggregates containing TDP-43 and β-amyloid. These genetic risk factors are mechanistically linked to impaired ubiquitin-proteasome system function and defective autophagy pathways, ultimately promoting cellular toxicity and muscle fiber degeneration (mccord2023investigatingtheinfluence pages 248-250, mccord2023investigatingtheinfluence pages 26-30).
+
+Rimmed vacuoles, a hallmark morphological feature in sIBM, are found in the cytoplasm of muscle fibers and are enriched with protein aggregates including TDP-43, p62, and β-amyloid. The formation of these vacuoles reflects an imbalance between protein synthesis and degradation. On a molecular level, TDP-43, an RNA/DNA-binding protein, exhibits mislocalization from the nucleus to the sarcoplasm, undergoes aberrant phosphorylation, cleavage into fragments (25-35 kDa), and ubiquitination. These modifications compromise its normal function in mRNA splicing and transport, and its aggregation has been closely associated with muscle fiber degeneration (mccord2023investigatingtheinfluence pages 122-125, mccord2023investigatingtheinfluence pages 235-238).
+
+In vitro studies have provided crucial insights into these pathological processes. Using 2D myotube cultures and more physiologically relevant 3D myobundles, researchers have modeled the formation of TDP-43 and p62 aggregates, as well as explored the effects of inflammatory cytokines on muscle contractility. Although cytokine treatments such as IL-1β and IFNγ modestly modulate aspects such as actinin striation and calcium handling, they do not fully reproduce the large inclusion bodies seen in patient tissue. Conversely, co-culture with cytotoxic T cell lines like TALL-104 can induce alterations in TDP-43 localization and muscle cell viability, thereby linking immune cell-mediated injury to pathological protein alterations and eventual contractile dysfunction (mccord2023investigatingtheinfluence pages 12-14, mccord2023investigatingtheinfluence pages 232-235).
+
+In vivo evidence further supports the direct correlation between these morphological abnormalities and functional impairment. Experimental models including transgenic mice overexpressing either wild-type TDP-43 or mutant APP have demonstrated that protein aggregates—notably those accumulating within rimmed vacuoles—are associated with reduced active force generation and altered muscle fiber kinetics. These studies show that proteostasis collapse, combined with mitochondrial abnormalities (such as decreased cytochrome c oxidase activity and increased mtDNA deletions), results in diminished contractile performance of affected fibers (mccord2023investigatingtheinfluence pages 243-246, mccord2023investigatingtheinfluence pages 30-33, tedesco2021gainoftoxic pages 60-63).
+
+Taken together, both in vitro and in vivo investigations of sIBM reveal that proteostasis dysregulation—evidenced by the accumulation of TDP-43 fragments, p62 puncta, and β-amyloid aggregates within rimmed vacuoles—directly contributes to the contractile dysfunction observed in patient muscle fibers. Morphological assessments, ranging from immunohistochemical detection of protein inclusions to electron microscopy studies of vacuolar structures, align with functional correlates measured through force kinetics evaluations and calcium handling assays. This integrative evidence underscores a pathogenic cascade in which genetic predisposition, proteostatic failure, and immune-mediated injury converge to impair muscle contractility and promote disease progression (mccord2023investigatingtheinfluence pages 257-259, mccord2023investigatingtheinfluence pages 261-264).
+
+References:
+1. (mccord2023investigatingtheinfluence pages 122-125): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+2. (mccord2023investigatingtheinfluence pages 232-235): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+3. (mccord2023investigatingtheinfluence pages 243-246): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+4. (mccord2023investigatingtheinfluence pages 248-250): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+5. (mccord2023investigatingtheinfluence pages 257-259): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+6. (mccord2023investigatingtheinfluence pages 261-264): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+7. (tedesco2021gainoftoxic pages 60-63): B Tedesco. Gain of toxic function of chaperone assisted selective autophagy members in neuromuscular diseases: a characterization of …. Unknown journal, 2021.
+
+8. (mccord2023investigatingtheinfluence pages 12-14): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+9. (mccord2023investigatingtheinfluence pages 235-238): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+10. (mccord2023investigatingtheinfluence pages 26-30): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.
+
+11. (mccord2023investigatingtheinfluence pages 30-33): B McCord. Investigating the influence of inflammatory mediators on non-inflammatory features of sporadic inclusion body myositis in vitro. Unknown journal, 2023.

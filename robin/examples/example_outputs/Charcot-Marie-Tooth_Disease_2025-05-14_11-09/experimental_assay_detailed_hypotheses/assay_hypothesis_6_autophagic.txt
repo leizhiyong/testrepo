@@ -1,0 +1,47 @@
+Hypothesis: Autophagic flux assay
+
+Query: You are a professional biomedical researcher, having experience in early-stage drug discovery and validation in vitro. Your task is to evaluate cell culture assays that would be used to evaluate drugs to treat Charcot-Marie-Tooth Disease.
+        Given the following assay, do a comprehensive literature review to evaluate if this assay would be useful for testing therapeutics for Charcot-Marie-Tooth Disease. Search relevant literature across
+        biomedical, clinical, and biochemical literature about the disease or therapeutic landscape. Don't look up specific drugs, but any relevant scientific information that may inform assay development.Strategy: Autophagic flux assay
+Reasoning: MPZ and PMP22 misfolding trigger autophagy in Schwann cells; expression of an mCherry-GFP-LC3 tandem reporter allows quantification of autophagosome formation and lysosomal fusion rates to identify modulators of autophagic clearance (Finkbeiner 2020; Jerath & Shy 2015).Provide your response in the following format, like an evaluation for a scientific proposal:
+        Assay Overview: Explain the assay idea, including the following key points: which aspect of the disease pathogenesis does the assay model, what measurements will be taken from the assay and how they will be taken, which cells or other biological material are used in the assay.
+        Biomedical Evidence: Make a compelling argument for how the aspect of the disease represented in the assay is central to the pathogenesis of the disease. Make sure to consider both the biomedical and clinical literature.
+        Previous Use: Explain how this assay has previously been used for drug discovery (if this has been done). Explain any key scientific discoveries which have been made using this assay.
+        Overall Evaluation: Strengths and weaknesses of this assay for testing therapeutics for Charcot-Marie-Tooth Disease.
+
+Assay Overview:
+The proposed autophagic flux assay leverages the mCherry-GFP-LC3 tandem reporter to monitor the dynamics of autophagy in Schwann cells affected by Charcot-Marie-Tooth (CMT) disease. In this assay, the reporter is expressed in disease-relevant cell cultures (e.g., primary Schwann cells or hiPSC-derived Schwann cells) to model the impact of MPZ and PMP22 misfolding on proteostasis. The construct allows the visualization of LC3‐positive autophagosomes through the dual fluorescence signals: GFP signal is quenched upon lysosomal fusion due to the acidic environment while the mCherry signal persists, thereby enabling discrimination between autophagosomes and autolysosomes. Quantitative metrics such as puncta count and the ratio of mCherry to GFP fluorescence provide data on autophagosome formation and lysosomal fusion rates. This assay specifically models the degradation pathway implicated in the clearance of misfolded proteins in Schwann cells—a central pathogenic mechanism in CMT (chittoorvinod2015induciblehsp70is pages 1-2, kim2017molecularmechanismsof pages 14-19).
+
+Biomedical Evidence:
+A substantial body of literature supports that misfolding of myelin proteins, notably PMP22 and MPZ, triggers proteostatic stress, which in turn activates autophagy in Schwann cells. Disruption in protein quality control systems, including the autophagy pathway, is a hallmark of CMT pathology, as abnormal accumulation of misfolded proteins contributes to demyelination and Schwann cell dysfunction. Autophagy not only serves as a degradation mechanism to clear misfolded proteins but also influences myelin maintenance and turnover. Elevated autophagic flux has been observed under conditions of proteotoxic stress induced by mutant forms of PMP22 and aberrant MPZ in various in vitro models, emphasizing the mechanistic link between autophagy impairment and CMT disease progression (kim2017molecularmechanismsof pages 28-33, kim2017molecularmechanismsof pages 38-43). Clinically, these molecular perturbations translate into the demyelination and axonal atrophy seen in CMT patients, confirming that targeting autophagy modulation is a therapeutically relevant strategy (miressi2020hereditaryperipheralneuropathies pages 262-265).
+
+Previous Use:
+The mCherry-GFP-LC3 tandem reporter assay is a well-established method employed in various neurodegenerative and neuropathic disease models. It has been used to monitor autophagic flux in patient-derived fibroblasts and hiPSC-derived neurons, notably in studies of Leber Hereditary Optic Neuropathy (LHON) where autophagy regulation and mitophagy were carefully quantified (cavaliere2024usinghipscderivedneural pages 56-59, cavaliere2024usinghipscderivedneural pages 37-40). In the context of CMT, research using similar approaches has demonstrated that pharmacological activation of autophagy can ameliorate protein aggregation and improve Schwann cell function. Furthermore, disease modeling studies using hiPSC-derived Schwann cells from CMT patients have highlighted the value of dynamic autophagy readouts in identifying potential therapeutic modulators (mukherjeeclavin2017modelingcharcotmarie pages 45-53, juneja2019challengesinmodelling pages 6-7).
+
+Overall Evaluation:
+One of the major strengths of this assay lies in its ability to provide a dynamic, quantitative measure of autophagic flux, which is directly implicated in the cellular processing of misfolded myelin proteins in CMT. The use of a fluorescent reporter enables live-cell imaging and high-content screening, making it an attractive platform for early-stage drug discovery. Additionally, the assay’s translational relevance is underscored by its successful application in patient-derived cell models that recapitulate aspects of CMT pathogenesis (perrone2019theautophagysignaling pages 18-18).
+
+However, there are several weaknesses to consider. The generation of fully mature and myelinating Schwann cells from hiPSCs remains challenging, which might affect the assay’s physiological relevance (juneja2019challengesinmodelling pages 6-7). Moreover, technical issues such as variability in transfection efficiency and reporter expression, as well as potential photobleaching during fluorescence microscopy, could impact data consistency and assay throughput. Thus, while the assay is robust in measuring autophagic flux, careful optimization and standardization across different cell models will be necessary for its successful application in drug discovery pipelines for CMT (kim2017molecularmechanismsof pages 145-150).
+
+References:
+1. (chittoorvinod2015induciblehsp70is pages 1-2): Vinita G. Chittoor-Vinod, Sooyeon Lee, Sarah M. Judge, and Lucia Notterpek. Inducible hsp70 is critical in preventing the aggregation and enhancing the processing of pmp22. ASN NEURO, Feb 2015. URL: https://doi.org/10.1177/1759091415569909, doi:10.1177/1759091415569909. This article has 43 citations and is from a peer-reviewed journal.
+
+2. (kim2017molecularmechanismsof pages 14-19): Jihyun Kim. Molecular mechanisms of myelin dysfunctions in the nervous system. Unknown journal, 2017. URL: https://doi.org/10.7282/t3xg9v76, doi:10.7282/t3xg9v76. This article has 0 citations.
+
+3. (cavaliere2024usinghipscderivedneural pages 56-59): A Cavaliere. Using hipsc-derived neural cells to explore mitochondrial abnormalities in leber hereditary optic neuropathy. Unknown journal, 2024.
+
+4. (juneja2019challengesinmodelling pages 6-7): Manisha Juneja, Joshua Burns, Mario A Saporta, and Vincent Timmerman. Challenges in modelling the charcot-marie-tooth neuropathies for therapy development. Journal of Neurology, Neurosurgery &amp; Psychiatry, 90:58-67, Jul 2019. URL: https://doi.org/10.1136/jnnp-2018-318834, doi:10.1136/jnnp-2018-318834. This article has 92 citations.
+
+5. (kim2017molecularmechanismsof pages 145-150): Jihyun Kim. Molecular mechanisms of myelin dysfunctions in the nervous system. Unknown journal, 2017. URL: https://doi.org/10.7282/t3xg9v76, doi:10.7282/t3xg9v76. This article has 0 citations.
+
+6. (kim2017molecularmechanismsof pages 28-33): Jihyun Kim. Molecular mechanisms of myelin dysfunctions in the nervous system. Unknown journal, 2017. URL: https://doi.org/10.7282/t3xg9v76, doi:10.7282/t3xg9v76. This article has 0 citations.
+
+7. (kim2017molecularmechanismsof pages 38-43): Jihyun Kim. Molecular mechanisms of myelin dysfunctions in the nervous system. Unknown journal, 2017. URL: https://doi.org/10.7282/t3xg9v76, doi:10.7282/t3xg9v76. This article has 0 citations.
+
+8. (miressi2020hereditaryperipheralneuropathies pages 262-265): F Miressi. Hereditary peripheral neuropathies: from molecular genetics to a cellular model of hipsc-derived motor neurons. Unknown journal, 2020.
+
+9. (mukherjeeclavin2017modelingcharcotmarie pages 45-53): B Mukherjee-Clavin. Modeling charcot marie tooth 1a with human pluripotent stem cells. Unknown journal, 2017.
+
+10. (perrone2019theautophagysignaling pages 18-18): Lorena Perrone, Tiziana Squillaro, Filomena Napolitano, Chiara Terracciano, Simone Sampaolo, and Mariarosa Anna Beatrice Melone. The autophagy signaling pathway: a potential multifunctional therapeutic target of curcumin in neurological and neuromuscular diseases. Nutrients, 11:1881, Aug 2019. URL: https://doi.org/10.3390/nu11081881, doi:10.3390/nu11081881. This article has 47 citations and is from a peer-reviewed journal.
+
+11. (cavaliere2024usinghipscderivedneural pages 37-40): A Cavaliere. Using hipsc-derived neural cells to explore mitochondrial abnormalities in leber hereditary optic neuropathy. Unknown journal, 2024.

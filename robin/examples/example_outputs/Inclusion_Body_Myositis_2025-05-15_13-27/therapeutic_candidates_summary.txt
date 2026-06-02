@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: Rapamycin (Sirolimus)
+Hypothesis: Inhibition of mTORC1 by rapamycin will restore autophagic flux in IBM patient-derived myotubes, facilitating clearance of TDP-43 and β-amyloid aggregates, reducing ER stress, and thereby improving sarcomere organization and contractile force.
+Reasoning: mTORC1 hyperactivity is implicated in autophagy inhibition in IBM. Rapamycin (catalog no. R0395, Sigma-Aldrich) has well-characterized pharmacokinetics and safety profiles in humans. In related muscle disease models, rapamycin enhanced autophagy, reduced protein aggregates, and improved contractility. The drug crosses muscle tissue and has been used in solid organ transplant patients with manageable side effects. Target validation: mTORC1 inhibition reverses proteostasis defects in vitro and in vivo. Mechanistic specificity: direct FKBP12-rapamycin binding to mTORC1. Developmental feasibility: oral formulation, established dosing, ongoing trials (NCT04789070). Novelty: while rapamycin has immunosuppressive use, its repurposing to directly modulate autophagy in IBM patient-derived myotubes is underexplored.
+
+Therapeutic Candidate 2:
+Candidate: Arimoclomol
+Hypothesis: Co-induction of heat shock proteins by arimoclomol will enhance chaperone-assisted selective autophagy in IBM myotubes, reducing p62 and TDP-43 aggregates, restoring mitochondrial function, and thereby increasing contractile amplitude.
+Reasoning: Arimoclomol amplifies HSP70 expression under stress, improving proteostasis in models of proteinopathy. In IBM xenograft and myoblast cultures, HSP co-induction reduced aggregates and mitochondrial defects. The compound has favorable PK/PD in humans and has completed Phase II trials in ALS. Mechanistic specificity: binds HSF1 co-activator site to prolong HSP70 transcription. Developmental feasibility: oral, well-tolerated, known safety. Novelty: first application to directly upregulate chaperones in IBM myotubes to improve contractility.
+
+Therapeutic Candidate 3:
+Candidate: Spermidine
+Hypothesis: As a natural polyamine autophagy inducer, spermidine will activate transcription factor EB (TFEB) in IBM patient-derived myotubes, enhancing lysosomal biogenesis, clearing protein inclusions, and improving force generation.
+Reasoning: Spermidine has been shown (NCT04823806) to induce autophagy in human cells, with safety data in pilot studies. In muscle aging and DMD models, it enhanced clearance of aggregates and restored contractility. Mechanistically, spermidine inhibits EP300 acetyltransferase to activate autophagy. Feasibility: oral nutritional supplement, well-documented ADME, low toxicity. Target validation: TFEB activation linked to proteostasis improvement in vitro. This repurposed approach is novel in IBM.
+
+Therapeutic Candidate 4:
+Candidate: SMER28
+Hypothesis: SMER28, a small-molecule enhancer of rapamycin-induced autophagy, will synergize with basal autophagy pathways in IBM myotubes to promote clearance of rimmed vacuole contents and rescue contractile dysfunction.
+Reasoning: Identified in phenotypic screens, SMER28 enhances autophagic flux independent of mTOR. In neuronal models of protein aggregation, it reduced α-synuclein deposits and improved cellular function. Mechanistic specificity: targets beclin-1/VPS34 complex. Preclinical data show efficacy in clearing aggregates, with preliminary ADME and toxicity profiling in rodents. Translation: patient-derived myotube assays can confirm improved sarcomere function. Feasibility: active small molecule scaffold, synthetic route established. Novelty: first application of mTOR-independent autophagy enhancer in IBM.
+
+Therapeutic Candidate 5:
+Candidate: Urolithin A
+Hypothesis: Urolithin A will activate mitophagy in IBM myotubes by upregulating PINK1/Parkin pathways, reducing dysfunctional mitochondria, alleviating ROS-mediated sarcomere damage, and restoring muscle force.
+Reasoning: In preclinical studies of aging muscle, urolithin A improved mitochondrial quality and muscle function. It drives mitophagy via TFEB and PGC-1α pathways. Phase I human trials demonstrate safety and oral bioavailability. Target validation: mitophagy induction correlates with contractile recovery in ex vivo muscle preparations. Mechanistic specificity: directly promotes autophagosome-lysosome fusion around mitochondria. Developmental feasibility: nutritional supplement with well-characterized PK. Novelty: repurposing mitophagy inducer to tackle mitochondrial defects in IBM.
+
+Therapeutic Candidate 6:
+Candidate: Metformin
+Hypothesis: Activation of AMPK by metformin will inhibit mTORC1 and stimulate autophagy in IBM myotubes, reducing protein aggregates, normalizing mitochondrial biogenesis, and improving contractile kinetics.
+Reasoning: Metformin has robust safety data and muscle tissue penetration. In mdx and aged muscle models, metformin restored autophagy, improved mitochondrial function, and enhanced contractility. Mechanistically, metformin activates AMPK via mitochondrial complex I inhibition. Feasibility: oral, generic, known human PK/PD. Target validation: AMPK-mTORC1 axis central to proteostasis. Novelty: direct application of a widely used anti-diabetic drug to IBM autophagy dysregulation.
+
+Therapeutic Candidate 7:
+Candidate: Trehalose
+Hypothesis: Trehalose will induce autophagy via TFEB nuclear translocation in IBM patient myotubes, promoting aggregate clearance and restoring contractile amplitude.
+Reasoning: Trehalose, a disaccharide autophagy inducer, has shown efficacy in neurodegenerative and muscular dystrophy models by reducing protein inclusions and preserving function. Mechanistic specificity: stabilizes lysosomal membranes and activates TFEB. Preclinical safety: high tolerability in rodents; early human data in neuropathy trials. Developmental feasibility: food-grade compound with known ADME. Novelty: direct use of an osmolyte to correct proteostasis in IBM skeletal muscle.
+
+Therapeutic Candidate 8:
+Candidate: Tofacitinib
+Hypothesis: JAK1/3 inhibition by tofacitinib will suppress type I interferon and pro-inflammatory cytokine signaling in IBM myotubes, reducing NF-κB activation, muscle atrophy gene expression, and improving contractile performance.
+Reasoning: IBM muscle shows type I interferon signature. Tofacitinib (Xeljanz®) has established human safety, PK, and anti-inflammatory efficacy in rheumatoid arthritis. Preclinical myotube co-culture with IFNβ demonstrated restored calcium handling upon JAK inhibition. Mechanistic specificity: reversible ATP-competitive JAK1/3 binding. Feasibility: oral, well-studied. Novelty: first small-molecule JAK inhibitor targeting inflammatory signaling in IBM muscle to enhance contractility.
+
+Therapeutic Candidate 9:
+Candidate: Ruxolitinib
+Hypothesis: Ruxolitinib-mediated JAK1/2 blockade will attenuate IFNγ and IFNα-induced pro-inflammatory gene expression in IBM myotubes, decrease proteasome-mediated muscle degradation, and restore contractile amplitude.
+Reasoning: Ruxolitinib (Jakafi®) reduces interferon-driven pathology in myeloproliferative neoplasms and SLE models. IBM has elevated IFN-driven MHC I expression in myofibers. In vitro, JAK1/2 inhibition rescues cytokine-induced atrophy markers. Well-characterized PK, safety, adult dosing. Mechanistic specificity: targets JAK1/2 catalytic sites. Developmental feasibility: marketed drug, repurposing opportunity. Novelty: modulating cytokine-mediated contractile impairment in IBM.
+
+Therapeutic Candidate 10:
+Candidate: MCC950
+Hypothesis: Inhibition of NLRP3 inflammasome by MCC950 will reduce IL-1β maturation in IBM myotubes, prevent caspase-1–driven proteostasis disruption, and improve sarcomere function and contractility.
+Reasoning: NLRP3 activation contributes to IL-1β release in IBM. MCC950 specifically blocks NLRP3 ATPase activity and has reversed inflammasome-mediated damage in muscle inflammation models. Preclinical rodent studies demonstrate reduced pyroptosis and improved muscle force. Orally bioavailable, with acceptable safety in Phase I. Mechanistic specificity: direct binding to NLRP3 NACHT domain. Feasibility: synthetic small molecule. Novelty: first use of NLRP3 inhibitor to correct inflammasome-driven contractile deficits in IBM.
+
+Therapeutic Candidate 11:
+Candidate: IU1
+Hypothesis: Inhibition of USP14 deubiquitinase by IU1 will enhance proteasome activity in IBM myotubes, accelerating degradation of ubiquitinated TDP-43 species, reducing aggregates, and increasing contractile force.
+Reasoning: IU1 selectively inhibits USP14, a proteasomal DUB, leading to increased proteasomal throughput. In neurodegenerative models, IU1 cleared misfolded proteins and improved cell viability. Mechanistic specificity: binds USP14 active site. Preliminary ADME in mice shows muscle penetration and tolerability. Target validation: proteasome activation counters aggregate accumulation in vitro. Developmental feasibility: small‐molecule scaffold optimized for potency. Novelty: targeted proteasome modulation to reverse IBM proteinopathy.
+
+Therapeutic Candidate 12:
+Candidate: Celastrol
+Hypothesis: Celastrol will upregulate HSF1-dependent heat shock response in IBM myotubes, promoting clearance of misfolded TDP-43 and restoring sarcomere structure and contractile function.
+Reasoning: Celastrol, a triterpenoid from Tripterygium wilfordii, induces HSP70 and HSP27 expression. In muscular dystrophy models, it reduced protein aggregates and improved muscle strength. Mechanistic specificity: activates HSF1 via HSP90 inhibition. Preclinical safety: tolerability in rodent models at sub-µmol doses. Feasibility: orally bioavailable in nanoformulations. Novelty: harnessing an HSR in IBM skeletal muscle to counter proteostasis collapse.
+
+Therapeutic Candidate 13:
+Candidate: Geranylgeranylacetone (GGA)
+Hypothesis: GGA-induced HSP70 upregulation will alleviate proteotoxic stress in IBM myotubes, reduce p62-positive vacuoles, and enhance contractile amplitude.
+Reasoning: GGA, a gastric ulcer drug, safely induces HSP70 in muscle cells. In preclinical myopathy models, GGA reduced degenerative changes and improved function. Mechanistic specificity: modulates HSF1 activity. Known PK in humans with oral dosing. Target validation: HSP induction correlates with aggregate clearance. Developmental feasibility: generic, well-tolerated. Novelty: repurposed gastroprotective to treat IBM proteostasis defects.
+
+Therapeutic Candidate 14:
+Candidate: BGP-15
+Hypothesis: BGP-15-mediated induction of HSP72 and inhibition of PARP will improve mitochondrial function and proteostasis in IBM myotubes, reducing aggregates and normalizing contractility.
+Reasoning: BGP-15, a small molecule co-inducing HSP72, improved muscle function in dystrophy and sepsis models. It modulates insulin sensitivity and PARP1 to reduce oxidative stress. Mechanism: HSF1 activation and PARP1 inhibition. Phase II trial data in metabolic diseases show safety. Feasibility: oral, micromolar potency. Novelty: dual HSP induction and oxidative stress reduction to restore contractile function in IBM.
+
+Therapeutic Candidate 15:
+Candidate: SRT1720
+Hypothesis: Activation of SIRT1 by SRT1720 in IBM myotubes will stimulate mitochondrial biogenesis, enhance autophagy, and reduce proteotoxic stress, thereby improving sarcomere integrity and force generation.
+Reasoning: SRT1720 is a potent SIRT1 activator with preclinical efficacy in metabolic and neurodegenerative models, promoting mitophagy and autophagy. Mechanistic specificity: allosteric activation of SIRT1 deacetylase. Rodent PK: orally bioavailable, crosses muscle tissue. Target validation: SIRT1 upregulation improves muscle function in aging. Feasibility: defined small molecule. Novelty: applying SIRT1 activation to IBM-associated mitochondrial and proteostasis defects.
+
+Therapeutic Candidate 16:
+Candidate: TCH-165
+Hypothesis: TCH-165 will directly activate the 20S proteasome in IBM myotubes, accelerating degradation of misfolded proteins and restoring contractile amplitude.
+Reasoning: TCH-165 is a small-molecule proteasome activator that enhances the peptide channel opening of 20S core. In cellular models of proteinopathy, it reduced aggregate burden. Mechanistically specific to α-ring gate modulation. Preclinical ADME: favorable muscle distribution in rodent PK studies. Feasibility: chemical scaffold amenable to optimization. Novelty: direct proteasome activation for IBM therapy.
+
+Therapeutic Candidate 17:
+Candidate: Anle138b
+Hypothesis: Anle138b will inhibit oligomerization of misfolded proteins (TDP-43, β-amyloid) in IBM myotubes, preventing aggregate formation, preserving sarcomere integrity, and improving contractility.
+Reasoning: Anle138b is a broad-spectrum oligomer modulator shown to block toxic species in prion and α-synuclein models. Mechanistic specificity: binds hydrophobic oligomer interfaces. Preclinical bioavailability and safety in rodents. Target validation: reduces aggregate-driven toxicity and preserves cell function in vitro. Feasibility: oral, small molecule. Novelty: first oligomer modulator targeting TDP-43 aggregates in IBM muscle.
+
+Therapeutic Candidate 18:
+Candidate: Roflumilast
+Hypothesis: PDE4 inhibition by roflumilast will elevate cAMP in IBM myotubes, reduce TNFα and IL-1β production, enhance PKA-mediated autophagy induction, and improve contractile performance.
+Reasoning: Roflumilast (Daliresp®) is FDA-approved for COPD with known muscle PK. Elevated cAMP promotes autophagy via PKA-dependent phosphorylation of ULK1. In inflammatory myopathy models, PDE4 inhibitors suppressed cytokine release and improved muscle histology. Mechanistic specificity: selective PDE4 inhibition. Feasibility: oral tablet, known safety. Novelty: leveraging cAMP-mediated autophagy and anti-inflammation in IBM skeletal muscle.
+
+Therapeutic Candidate 19:
+Candidate: Reldesemtiv (CK-2127107)
+Hypothesis: Selective activation of fast skeletal troponin by reldesemtiv will increase calcium sensitivity in IBM myotubes, compensating for contractile deficits despite underlying proteostasis defects.
+Reasoning: Reldesemtiv is a next-generation fast skeletal troponin activator in Phase III for ALS, with robust safety and PK. Mechanistically, it prolongs actin-myosin cross-bridge formation. Preclinical rodent studies show enhanced muscle force under fatigue. Developmental feasibility: oral, clinical-grade. Novelty: direct contractility enhancer for IBM, bypassing upstream pathology to improve function.
+
+Therapeutic Candidate 20:
+Candidate: ML-SA1
+Hypothesis: Activation of lysosomal TRPML1 channels by ML-SA1 will enhance lysosomal calcium release in IBM myotubes, promote TFEB nuclear translocation, restore lysosomal function, clear aggregates, and improve contractility.
+Reasoning: ML-SA1 is a potent activator of TRPML1, boosting lysosomal biogenesis and autophagy demonstrated in Niemann-Pick models. Mechanistically specific to TRPML1. Rodent PK studies show muscle distribution. Feasibility: synthetic small molecule. Novelty: direct lysosomal calcium modulation to correct autophagy block in IBM.
+
+Therapeutic Candidate 21:
+Candidate: Pexidartinib
+Hypothesis: CSF1R inhibition by pexidartinib will reduce macrophage-mediated inflammation in IBM muscle tissue, decrease TNFα/IL-1β production, limit proteotoxic stress, and improve myotube contractility.
+Reasoning: Pexidartinib (Turalio®) is FDA-approved for tenosynovial giant cell tumor, with known muscle distribution. CSF1R blockade depletes pro-inflammatory macrophages in tissue. Preclinical arthritis and fibrosis models show reduced cytokine milieu and improved tissue function. Mechanistically specific to CSF1R kinase. Novelty: targeting innate immune cells in IBM to relieve secondary proteostasis impairment and contractile dysfunction.
+
+Therapeutic Candidate 22:
+Candidate: Sulforaphane
+Hypothesis: Nrf2 activation by sulforaphane will induce antioxidant and proteostasis genes in IBM myotubes, reduce oxidative stress–driven aggregate formation, and enhance contractile performance.
+Reasoning: Sulforaphane from cruciferous vegetables is a potent Nrf2 inducer. In muscle atrophy models, it reduced ROS, upregulated phase II enzymes, and improved function. Mechanistic specificity: modifies Keap1 cysteines to release Nrf2. Feasibility: orally bioavailable supplement, known human safety. Novelty: bolstering endogenous antioxidative and proteostatic defenses in IBM.
+
+Therapeutic Candidate 23:
+Candidate: Dimethyl Fumarate
+Hypothesis: Through Nrf2 pathway activation and immunomodulation, dimethyl fumarate will reduce oxidative stress and inflammatory cytokine production in IBM myotubes, improving proteostasis and contractility.
+Reasoning: Tecfidera® is approved for MS, with robust PK and safety. It modifies Keap1 and inhibits NF-κB. In inflammatory myopathy models, it reduced muscle inflammation and preserved fiber function. Mechanistic specificity: covalent cysteine modification in Keap1 and IκB kinases. Feasibility: oral delayed-release. Novelty: repurposing DMF to address combined oxidative and inflammatory pathology in IBM.
+
+Therapeutic Candidate 24:
+Candidate: MLN120B
+Hypothesis: Selective IKKβ inhibition by MLN120B will block NF-κB–mediated transcription of atrophy genes in IBM myotubes, preventing MuRF-1/Atrogin-1 upregulation and preserving contractile function.
+Reasoning: MLN120B has preclinical efficacy in inflammatory disease models by inhibiting IKKβ kinase activity. Mechanistic specificity: ATP-competitive IKKβ blockade. In myotube atrophy assays, NF-κB inhibition rescues sarcomere integrity. Developmental feasibility: small-molecule with known rodent PK. Novelty: direct blockade of a key inflammatory transcriptional hub in IBM to protect muscle.
+
+Therapeutic Candidate 25:
+Candidate: RAD140 (Testolone)
+Hypothesis: Selective androgen receptor modulation by RAD140 will stimulate anabolic pathways in IBM myotubes, increasing muscle protein synthesis, improving fiber size, and enhancing contractility without androgenic side effects.
+Reasoning: RAD140 is a SARM in Phase I trials for muscle wasting, with anabolic effects in muscle and bone but minimal prostate activity. Mechanistically, it binds AR and recruits co-activators for muscle-specific transcription. Preclinical rodent studies show increased muscle mass and strength. Feasibility: oral, potent. Novelty: first SARM use to counteract IBM-associated muscle atrophy and contractile decline.
+
+Therapeutic Candidate 26:
+Candidate: Tauroursodeoxycholic Acid (TUDCA)
+Hypothesis: TUDCA will alleviate ER stress and unfolded protein response activation in IBM myotubes, reducing CHOP-mediated apoptosis, improving proteostasis, and restoring contractile strength.
+Reasoning: TUDCA, a bile acid derivative, is a chemical chaperone that reduces ER stress in ALS and diabetes models. Mechanistic specificity: stabilizes ER membranes and improves protein folding. Human safety: used for cholestatic liver diseases, well-tolerated. Target validation: ER stress markers correlate with IBM pathology. Feasibility: oral, existing drug. Novelty: chemical chaperone to directly relieve ER stress in IBM.
+
+Therapeutic Candidate 27:
+Candidate: Elamipretide (SS-31)
+Hypothesis: Mitochondrial-targeted peptide elamipretide will bind cardiolipin in IBM myotubes, restore mitochondrial supercomplex stability, reduce ROS, and improve ATP-dependent contractile force.
+Reasoning: Elamipretide has advanced to Phase III in mitochondrial disease and heart failure, with documented safety and muscle mitochondrial targeting. Mechanistic specificity: binds mitochondrial inner membrane to stabilize cardiolipin. Preclinical rodent PK: muscle uptake demonstrated. Target validation: mitochondrial defects drive IBM contractile weakness. Feasibility: subcutaneous or IV, established formulations. Novelty: mitochondrial membrane stabilization in IBM muscle.
+
+Therapeutic Candidate 28:
+Candidate: Fasudil
+Hypothesis: Rho kinase inhibition by fasudil will enhance myotube contractility by improving cytoskeletal organization and reducing inflammatory cell infiltration in IBM muscle tissue.
+Reasoning: Fasudil, approved in Japan for cerebral vasospasm, inhibits ROCK1/2, modulating cytoskeletal dynamics and reducing NF-κB–mediated inflammation. In dystrophy models, ROCK inhibition improved muscle force and reduced fibrosis. Mechanism: ATP-competitive ROCK binding. Human safety: IV and oral data exist. Feasibility: small molecule, known PK. Novelty: targeting cytoskeletal and inflammatory pathways to improve IBM contractility.
+
+Therapeutic Candidate 29:
+Candidate: 20-Hydroxyecdysone (BIO101)
+Hypothesis: 20-Hydroxyecdysone will stimulate PI3K/Akt signaling in IBM myotubes to promote protein synthesis, counteract atrophy, and increase contractile amplitude.
+Reasoning: BIO101, an ecdysteroid, has shown anabolic effects in Phase II trials in sarcopenia. Mechanistic specificity: activates Akt/mTORC2 without triggering androgenic pathways. Preclinical rodent studies show increased muscle fiber size and strength. Feasibility: oral, plant-derived supplement. Novelty: steroid-independent anabolic agent to restore IBM muscle contractility.
+
+Therapeutic Candidate 30:
+Candidate: Selinexor
+Hypothesis: Inhibition of XPO1-mediated nuclear export by selinexor will retain TDP-43 and other RNA-binding proteins in the nucleus of IBM myotubes, preventing cytoplasmic aggregation and restoring proteostasis and contractile function.
+Reasoning: Selinexor (Xpovio®) is a selective inhibitor of nuclear export approved for multiple myeloma, with known muscle tissue exposure. In neuronal models, XPO1 inhibition reduced cytoplasmic TDP-43 inclusions and improved cell survival. Mechanistic specificity: covalent binding to XPO1 Cys528. Preclinical ADME: oral bioavailability, muscle uptake. Feasibility: existing clinical drug. Novelty: targeting nucleocytoplasmic transport to correct IBM TDP-43 pathology.

@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: TG2 Enzymatic Inhibition
+Reasoning: Employs a cell‐based fluorescent activity probe (e.g., 5‐biotinamidopentylamine) in Caco-2 monolayers to directly quantify TG2-mediated gliadin deamidation and transamidation under calcium-rich conditions. Rapid microplate detection of probe incorporation allows high-throughput screening of small molecules that block TG2 activity. This strategy mirrors lumenal enzyme–substrate interactions and has been validated with first-in-class TG2 inhibitors (Büchold et al., 2022; Kim et al., 2019).
+
+Assay Candidate 2:
+Strategy: Barrier Integrity Restoration
+Reasoning: Monitors transepithelial electrical resistance (TEER) across polarized Caco-2 or T84 monolayers following gliadin challenge. Drug candidates are assessed for their ability to prevent TEER decline, providing a label-free, real-time readout of tight junction protection. This assay directly models zonulin-mediated permeability changes and has been used to characterize larazotide acetate and related compounds (Khaleghi et al., 2016; Cardoso-Silva et al., 2019).
+
+Assay Candidate 3:
+Strategy: Paracellular Permeability Blockade
+Reasoning: Quantifies FITC-dextran flux across gliadin-treated enterocyte monolayers in Transwell systems to measure paracellular leakage. The decrease in tracer passage upon treatment indicates restoration of tight junction function. This complementary approach to TEER offers size-selective permeability data and correlates with in vivo intestinal barrier status (Cardoso-Silva et al., 2019; Odenwald and Turner, 2017).
+
+Assay Candidate 4:
+Strategy: Epithelial Apoptosis Prevention
+Reasoning: Measures caspase-3/7 activity in Caco-2 cells or patient-derived intestinal organoids following exposure to gliadin and pro-inflammatory cytokines. Fluorogenic substrates yield a rapid quantitative readout of enterocyte apoptosis, enabling direct assessment of a compound's ability to protect against epithelial cell death, a key pathological endpoint in celiac disease (Perez et al., 2021).
+
+Assay Candidate 5:
+Strategy: NF-κB Signaling Suppression
+Reasoning: Uses Caco-2 or HT-29 cells stably transfected with an NF-κB luciferase reporter to detect gliadin- or cytokine-induced pro-inflammatory signaling. Luminescence output provides a high-dynamic-range, kinetic measurement of drug effects on NF-κB activation. This platform has been applied to screen anti-inflammatory agents in gut epithelial models (Dias et al., 2020; Perez et al., 2021).
+
+Assay Candidate 6:
+Strategy: Gliadin Uptake Inhibition
+Reasoning: Employs fluorescently labeled immunodominant gliadin peptides (e.g., 33-mer) and quantifies their internalization in IECs or HLA-DQ2–expressing B cells via flow cytometry or high-content imaging. Rapid evaluation of drug candidates that block endocytic uptake of gliadin provides mechanistic insight into the initial step of antigen entry (Amundsen et al., 2023).
+
+Assay Candidate 7:
+Strategy: Peptide–MHC Presentation Blockade
+Reasoning: Detects surface display of deamidated gliadin–HLA-DQ2 complexes on APC lines using fluorescent tetramers or conformation-specific antibodies. Flow cytometric quantitation of complex formation enables direct assessment of compounds that interfere with peptide loading onto MHC class II, a critical determinant of T-cell activation (Levescot et al., 2022; Amundsen et al., 2023).
+
+Assay Candidate 8:
+Strategy: T-cell Activation Suppression
+Reasoning: Co-cultures deamidated gliadin-loaded HLA-DQ2-positive APCs with gluten-specific CD4+ T-cell hybridomas and measures IL-2 secretion by ELISA. This functional readout of TCR engagement provides a direct, quantitative endpoint to evaluate drug efficacy in blocking antigen presentation and subsequent T-cell activation (Amundsen et al., 2023; Johnson et al., 2024).
+
+Assay Candidate 9:
+Strategy: Pro-inflammatory Cytokine Modulation
+Reasoning: Implements a co-culture of intestinal epithelial cells and intraepithelial lymphocytes (IELs) challenged with gliadin, followed by multiplex bead-based quantification of IL-15, IFN-γ, IL-21, and chemokines. Simultaneous detection of multiple cytokines offers a systems-level view of drug impact on the inflammatory milieu driving celiac pathology (Kooy-Winkelaar et al., 2017; Brown et al., 2018).
+
+Assay Candidate 10:
+Strategy: Gliadin Modification Profiling
+Reasoning: Applies LC-MS/MS peptidomics to cell culture supernatants after gliadin and TG2 co-incubation in the presence of inhibitors, quantifying deamidated and cross-linked peptide species. This molecular-level assay validates target engagement and provides precise measurements of drug inhibition of pathogenic epitope formation (Kim et al., 2019).

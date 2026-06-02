@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: AMG 487 (CXCR3 antagonist)
+Hypothesis: By competitively binding to the CXCR3 receptor on enterocytes, AMG 487 will block gliadin-induced CXCR3–MyD88 signaling, prevent zonulin release, and thereby preserve tight junction integrity and reduce paracellular permeability in celiac disease.
+Reasoning: CXCR3 is genetically and functionally validated in gliadin-driven zonulin release. AMG 487 (catalog #SML0887, Sigma) is a potent small‐molecule CXCR3 antagonist with demonstrated efficacy in blocking CXCR3‐mediated signaling in preclinical inflammation models. In gliadin-challenge organoid assays, AMG 487 should prevent MyD88 recruitment downstream of CXCR3, abrogate zonulin secretion, and maintain ZO-1/occludin localization as measured by TEER and FITC-dextran flux. Its oral bioavailability, selectivity profile versus other chemokine receptors, and prior human safety data in oncology trials support rapid translation to celiac models.
+
+Therapeutic Candidate 2:
+Candidate: ENMD-1068 (PAR2 antagonist)
+Hypothesis: ENMD-1068 will antagonize PAR2 on intestinal epithelial cells, blocking zonulin/PAR2‐EGFR transactivation and downstream PKCα activation, thus preventing actin cytoskeletal rearrangement and tight junction disassembly in response to gluten.
+Reasoning: PAR2 is a key effector downstream of zonulin in barrier dysfunction. ENMD-1068 is a selective small‐molecule PAR2 antagonist (IC50 ~16 μM) validated in epithelial inflammation models. By inhibiting PAR2 cleavage and subsequent EGFR transactivation, ENMD-1068 should block PLC‐mediated Ca2+ flux and PKCα‐dependent phosphorylation of occludin/ZO-1, preserving junctional structure in Caco-2 and organoid gluten challenge assays. Its defined mechanism and preclinical pharmacokinetics facilitate dose selection for in vivo testing in HLA-DQ8 mice.
+
+Therapeutic Candidate 3:
+Candidate: AG1478 (EGFR tyrosine kinase inhibitor)
+Hypothesis: AG1478 will inhibit EGFR tyrosine kinase activity that is transactivated by PAR2 in response to zonulin, blocking downstream PLC and PKCα signaling, thereby maintaining intestinal tight junction integrity during gluten exposure.
+Reasoning: EGFR transactivation is essential for zonulin/PAR2-driven barrier loss. AG1478 (catalog #A-1478, LC Laboratories) is a well‐characterized ATP‐competitive EGFR inhibitor with nanomolar potency. In gliadin-challenged Caco-2 monolayers and organoids, AG1478 should prevent EGFR phosphorylation, reduce PLCγ activation, and inhibit PKCα‐mediated TJ protein phosphorylation and actin reorganization. Preclinical EGFR inhibitor data show favorable gut distribution and reversible modulation of epithelial signaling, supporting translational feasibility.
+
+Therapeutic Candidate 4:
+Candidate: Gö6976 (PKCα inhibitor)
+Hypothesis: Gö6976 will selectively inhibit PKCα in epithelial cells downstream of zonulin‐EGFR‐PLC signaling, preventing phosphorylation and internalization of ZO-1 and occludin, thus preserving barrier function under gliadin challenge.
+Reasoning: PKCα is a critical node controlling TJ protein phosphorylation and cytoskeletal remodeling. Gö6976 (catalog #G116, Sigma) exhibits submicromolar PKCα inhibition with minimal effect on other PKC isoforms. In gluten-exposed intestinal organoids, Gö6976 should block PKCα‐mediated disassembly of tight junctions, maintain TEER, and reduce FITC-dextran permeability. Pharmacological targeting of PKCα offers mechanistic specificity and has shown acceptable pharmacokinetics in prior rodent barrier studies.
+
+Therapeutic Candidate 5:
+Candidate: ML-7 (MLCK inhibitor)
+Hypothesis: ML-7 will inhibit myosin light chain kinase, blocking actomyosin contraction that drives tight junction opening in response to proinflammatory and gliadin-induced signals, thereby restoring paracellular seal in celiac models.
+Reasoning: MLCK activation downstream of PKC and cytokine signaling destabilizes TJs via perijunctional actomyosin contraction. ML-7 (catalog #475981, EMD Millipore) is a potent MLCK inhibitor (IC50 ~300 nM) proven to reduce barrier leak in inflammatory models. Applied to gliadin-treated Caco-2 monolayers and patient‐derived organoids, ML-7 should prevent phosphorylation of myosin light chain, maintain ZO-1/occludin localization, and normalize TEER. Its specificity and documented intestinal distribution make ML-7 a compelling candidate for preclinical celiac barrier restoration.
+
+Therapeutic Candidate 6:
+Candidate: LY294002 (PI3K inhibitor)
+Hypothesis: LY294002 will inhibit PI3K/Akt signaling implicated in gliadin‐induced disruption of tight junction protein localization, promoting ZO-1 membrane residency and reinforcing barrier integrity under gliadin exposure.
+Reasoning: PI3K/Akt pathway modulates TJ assembly and has been linked to protective responses against barrier disruption. LY294002 (catalog #70920, Cayman) is a widely used PI3K inhibitor with nanomolar potency. In gluten-challenged epithelial systems, LY294002 should attenuate Akt phosphorylation, stabilize ZO-1 at the membrane, and reduce paracellular permeability. Its established in vitro profiling, BBB exclusion, and reversible action support feasibility for proof‐of‐concept studies in organoid and mouse celiac models.
+
+Therapeutic Candidate 7:
+Candidate: ZED1227 (TG2 inhibitor)
+Hypothesis: ZED1227 will inhibit tissue transglutaminase-2 (TG2) activity in the intestinal mucosa, preventing gliadin deamidation, reducing gliadin immunogenicity, secondary cytokine release, and consequent barrier breakdown.
+Reasoning: TG2 is genetically and functionally validated in celiac pathogenesis. ZED1227 is a potent, selective reversible TG2 inhibitor under clinical investigation. By blocking deamidation of gliadin peptides, ZED1227 reduces T‐cell activation and IL-15 overproduction, indirectly protecting tight junction proteins from cytokine‐induced disruption. Preclinical rodent studies demonstrate mucosal TG2 inhibition and attenuation of villous atrophy. ZED1227’s localized luminal activity and favorable safety profile support its testing in barrier-focused celiac models.
+
+Therapeutic Candidate 8:
+Candidate: AMG 714 (anti-IL-15 monoclonal antibody)
+Hypothesis: AMG 714 will neutralize IL-15 in the lamina propria, preventing IEL activation and cytokine‐mediated disruption of tight junctions, thereby reducing epithelial apoptosis and restoring barrier integrity in celiac disease.
+Reasoning: IL-15 plays a pivotal role in IEL‐driven epithelial damage in celiac disease. AMG 714 (also called PRV-015) is a humanized anti-IL-15 mAb with demonstrated target engagement in phase II trials. By blocking IL-15, AMG 714 should reduce IEL cytotoxicity and downstream TNF-α/IFN-γ release, limit MLCK upregulation, and stabilize TJ proteins under gluten challenge. Its human safety data and mechanistic specificity for IL-15 validate AMG 714 as a translational candidate to protect the epithelial barrier.
+
+Therapeutic Candidate 9:
+Candidate: Tofacitinib (JAK inhibitor)
+Hypothesis: Tofacitinib will inhibit JAK1/3 signaling downstream of IL-15 and IFN-γ receptors on enterocytes, reducing proinflammatory STAT activation, MLCK induction, and tight junction disassembly induced by gluten-triggered cytokines.
+Reasoning: Cytokine‐mediated barrier dysfunction in celiac disease is mediated via JAK/STAT. Tofacitinib is an FDA‐approved JAK1/3 inhibitor with established oral bioavailability and mucosal penetration. In gliadin‐exposed organoids, tofacitinib should block STAT1/3 phosphorylation, decrease MLCK expression, and preserve TEER. Its known ADME/Tox profile and clinical experience in inflammatory diseases support its repurposing for barrier preservation in celiac pathology.
+
+Therapeutic Candidate 10:
+Candidate: BAY 11-7082 (IKK/NF-κB inhibitor)
+Hypothesis: BAY 11-7082 will inhibit IκB kinase, preventing NF-κB activation in epithelial cells exposed to gliadin and proinflammatory cytokines, thereby reducing transcription of MLCK, IL-15, and other mediators of tight junction disruption.
+Reasoning: NF-κB drives expression of key genes that mediate barrier loss. BAY 11-7082 is a covalent IKK inhibitor extensively used to block NF-κB in vitro at low micromolar concentrations. By preventing degradation of IκBα in Caco-2 and organoid models, BAY 11-7082 should reduce MLCK upregulation and IL-15 transcription, normalize TJ protein expression, and maintain barrier function. Its well‐characterized mechanism and pharmacology support feasibility for preclinical testing.
+
+Therapeutic Candidate 11:
+Candidate: 4-Phenylbutyric acid (4-PBA)
+Hypothesis: 4-PBA will act as a chemical chaperone to ameliorate ER stress in enterocytes under gliadin stress, restore proper folding and trafficking of tight junction proteins, and reduce barrier leak in celiac disease.
+Reasoning: ER stress and UPR activation contribute to epithelial dysfunction in celiac disease. 4-PBA is an FDA‐approved chemical chaperone that reduces ER stress and restores proteostasis. In gliadin‐treated organoids, 4-PBA should decrease markers of UPR (e.g., CHOP, XBP1s), improve ZO-1/occludin expression, and rescue TEER. Its oral administration, safety record in urea cycle disorders, and capacity to target ER stress validate feasibility for celiac barrier protection.
+
+Therapeutic Candidate 12:
+Candidate: Spermidine
+Hypothesis: Spermidine will activate autophagy pathways in intestinal epithelial cells, facilitating clearance of damaged proteins and organelles induced by gliadin, reducing cellular stress and supporting tight junction maintenance in celiac disease.
+Reasoning: Defective autophagy exacerbates barrier dysfunction in celiac models. Spermidine is an endogenous polyamine that induces autophagy via inhibition of EP300 and activation of TFEB. In gliadin-challenged Caco-2 cells, spermidine should enhance LC3B lipidation, clear misfolded protein aggregates, reduce UPR markers, and stabilize ZO-1/occludin at cell borders. Its dietary availability, oral bioavailability, and preclinical safety in aging models underscore translational potential.
+
+Therapeutic Candidate 13:
+Candidate: Dimethyl fumarate (DMF)
+Hypothesis: DMF will activate the Nrf2 antioxidant pathway in enterocytes, upregulate phase II enzymes, and reduce oxidative stress–induced phosphorylation of tight junction proteins under gliadin and cytokine challenge, thereby preserving barrier integrity.
+Reasoning: Oxidative stress contributes to TJ disruption in celiac disease. DMF is an FDA-approved Nrf2 activator that increases cellular glutathione and antioxidant defenses. In gluten‐exposed epithelial cultures, DMF should reduce ROS, prevent NF-κB activation, and maintain occludin/ZO-1 localization. Its human safety profile, oral dosing, and preclinical efficacy in inflammatory bowel models support repurposing for celiac barrier protection.
+
+Therapeutic Candidate 14:
+Candidate: Sodium butyrate
+Hypothesis: Sodium butyrate will act via GPR41/GPR43 signaling and HDAC inhibition to upregulate tight junction protein expression, reduce inflammatory cytokine release, and enhance barrier function in gluten-challenged intestinal epithelium.
+Reasoning: SCFAs like butyrate are microbiome-derived metabolites crucial for barrier homeostasis. Sodium butyrate modulates gene expression epigenetically and through GPCRs. In organoid models, it should increase claudin-1, occludin, and ZO-1 transcription, decrease IL-15 and TNF-α levels, and restore TEER after gliadin exposure. Its endogenous nature, safety in clinical studies, and defined signaling mechanisms make sodium butyrate a strong translational candidate.
+
+Therapeutic Candidate 15:
+Candidate: BL-7010 (gliadin-binding polymer)
+Hypothesis: BL-7010 will sequester α-gliadin peptides in the intestinal lumen, preventing their interaction with epithelial receptors (CXCR3) and subsequent zonulin release, thereby safeguarding tight junctions from gliadin-induced disruption.
+Reasoning: BL-7010 is a synthetic copolymer shown to bind immunogenic gliadin peptides with high affinity. In HLA-DQ8 mouse models, BL-7010 reduced gliadin-induced mucosal damage and maintained ZO-1 localization. Its lack of systemic absorption and luminal mode of action minimize off-target effects. By blocking the earliest gliadin–receptor interactions, BL-7010 directly prevents barrier impairment.
+
+Therapeutic Candidate 16:
+Candidate: Latiglutenase (ALV003)
+Hypothesis: ALV003, a combination of two prolyl endopeptidases, will enzymatically degrade immunotoxic gliadin peptides in the lumen, reducing zonulin release and cytokine-driven tight junction disruption in celiac patients.
+Reasoning: Latiglutenase has demonstrated safety and activity in preclinical and early human gluten challenge studies. By cleaving proline-rich gliadin sequences, it prevents the activation of CXCR3 and subsequent zonulin pathway, thus preserving TEER and reducing inflammatory cytokines in organoid assays. Its clinical stage status and defined mechanism validate its feasibility as an adjunct barrier-protective therapy.
+
+Therapeutic Candidate 17:
+Candidate: Aspergillus niger prolyl endopeptidase (AN-PEP)
+Hypothesis: AN-PEP will degrade immunogenic gliadin 33-mer peptides in the gastrointestinal tract before epithelial contact, reducing zonulin-mediated barrier disruption and downstream inflammatory responses.
+Reasoning: AN-PEP is a well‐characterized, orally active prolyl endopeptidase that efficiently degrades immunotoxic gliadin fragments. In ex vivo organoid models, AN-PEP pre-treatment of gliadin prevents TEER reduction and occludin mislocalization. Its prior human safety data in gluten challenge studies and robust enzyme kinetics support its rapid translation as a barrier-protective agent.
+
+Therapeutic Candidate 18:
+Candidate: Bifidobacterium longum CECT 7347
+Hypothesis: B. longum CECT 7347 will modulate the gut microbiota to increase SCFA production and secrete protective soluble factors that reinforce tight junctions, reduce zonulin levels, and attenuate gliadin-induced permeability in celiac disease.
+Reasoning: Probiotic B. longum CECT 7347 has been shown in rodent and in vitro studies to restore TEER, normalize ZO-1 distribution, and lower IL-6/TNF-α after gliadin exposure. Its genome encodes pathways for butyrate production and mucin‐adhesion, supporting epithelial barrier reinforcement. Given its GRAS status and prior safety in human trials, this strain is a feasible live biotherapeutic candidate for celiac barrier support.
+
+Therapeutic Candidate 19:
+Candidate: Lactobacillus casei ATCC 9595
+Hypothesis: L. casei ATCC 9595 will secrete bioactive metabolites that downregulate MLCK and PKCα activation, maintain tight junction protein expression, and reduce gliadin-induced epithelial permeability.
+Reasoning: L. casei ATCC 9595 has demonstrated efficacy in Caco-2 models by preserving TEER and preventing ZO-1 delocalization under gliadin challenge. Its secretome includes peptides that inhibit inflammatory kinase activation. As a well‐studied probiotic with clinical safety data, L. casei ATCC 9595 offers a live biotherapeutic approach targeting barrier preservation in celiac disease.
+
+Therapeutic Candidate 20:
+Candidate: Obeticholic acid (OCA)
+Hypothesis: OCA, an FXR agonist, will enhance expression of barrier-protective genes (e.g., claudin-3, mucins), suppress proinflammatory cytokine production, and reduce zonulin release in gliadin-exposed intestinal epithelium.
+Reasoning: FXR regulates intestinal epithelial homeostasis and mucosal immunity. OCA is an FDA‐approved semi-synthetic bile acid derivative with potent FXR agonism. In gut organoid and rodent studies, OCA upregulated tight junction proteins, decreased IL-15 and TNF-α, and improved barrier function. Its oral bioavailability, safety in cholestatic liver disease trials, and specific modulation of epithelial gene expression support testing in celiac barrier models.
+
+Therapeutic Candidate 21:
+Candidate: TAK-242 (Resatorvid, TLR4 antagonist)
+Hypothesis: TAK-242 will inhibit TLR4 signaling on enterocytes and resident immune cells, reduce MyD88/NF-κB activation triggered by gluten‐induced DAMPs, and thereby prevent cytokine‐mediated tight junction disruption and paracellular leak.
+Reasoning: Gluten‐induced epithelial stress releases DAMPs that activate TLR4/MyD88, amplifying inflammation and barrier loss. TAK-242 is a small‐molecule TLR4 inhibitor that blocks TLR4–MD2 interaction. In gliadin-challenged epithelial cultures, TAK-242 should reduce NF-κB nuclear translocation, lower IL-15 and MLCK expression, and stabilize TEER. Prior safety data in sepsis trials and defined target engagement support its translational potential.
+
+Therapeutic Candidate 22:
+Candidate: N-Acetylcysteine (NAC)
+Hypothesis: NAC will replenish intracellular glutathione, scavenge reactive oxygen species generated by gliadin and cytokine signaling, and prevent oxidative modification of tight junction proteins, thus preserving barrier integrity.
+Reasoning: Oxidative stress is implicated in celiac barrier dysfunction. NAC is a clinically used mucolytic and antioxidant with oral and intravenous formulations. In gliadin-exposed Caco-2 monolayers, NAC should reduce ROS, inhibit redox-sensitive kinase activation (e.g., PKC, MLCK), and maintain occludin/ZO-1 expression. Its safety, low cost, and well-known pharmacokinetics facilitate rapid preclinical and clinical evaluation in celiac barrier protection.
+
+Therapeutic Candidate 23:
+Candidate: Rifaximin
+Hypothesis: Rifaximin will activate the pregnane X receptor (PXR) in enterocytes, upregulate barrier-protective xenobiotic‐metabolizing enzymes, strengthen tight junctions, and modulate gut microbiota to reduce gliadin-induced permeability.
+Reasoning: PXR agonism has been shown to enhance ZO-1 and claudin-1 expression and reduce inflammation. Rifaximin is an approved non-absorbable antibiotic and PXR agonist with established use in IBS. In gluten-challenge organoids, rifaximin should induce PXR target genes, decrease TNF-α levels, and preserve TEER. Its dual action on microbiota and epithelial signaling provides a unique barrier-protective mechanism with proven safety.
+
+Therapeutic Candidate 24:
+Candidate: Diphenyleneiodonium chloride (DPI)
+Hypothesis: DPI will inhibit NADPH oxidase (NOX) complexes in enterocytes, reduce gliadin- and cytokine-induced ROS production, and thereby prevent oxidative damage and tight junction disassembly.
+Reasoning: NOX‐derived ROS contribute to cytokine-driven barrier dysfunction in celiac disease. DPI is a broad NOX inhibitor that blocks superoxide generation. In gliadin‐exposed epithelial models, DPI should diminish ROS, reduce MLCK and NF-κB activation, and maintain occludin/ZO-1 localization. Although DPI has off-target effects, its rapid action on ROS generation makes it a valuable research tool to validate ROS as a celiac barrier target.
+
+Therapeutic Candidate 25:
+Candidate: Apigenin
+Hypothesis: Apigenin will inhibit MLCK and NF-κB activation in intestinal epithelial cells, reduce proinflammatory cytokine release, and strengthen tight junctions during gluten exposure.
+Reasoning: Apigenin, a dietary flavone, downregulates MLCK transcription and NF-κB signaling in epithelial inflammation models. In gliadin-challenged organoids, apigenin should reduce MLCK expression, preserve ZO-1 and occludin localization, and normalize TEER. Its known low toxicity, oral bioavailability, and capacity to cross cell membranes support its development as a nutraceutical barrier-protective agent for celiac disease.
+
+Therapeutic Candidate 26:
+Candidate: Curcumin
+Hypothesis: Curcumin will modulate PKC and NF-κB pathways in enterocytes, suppress gliadin-induced zonulin release, and promote tight junction protein expression to restore epithelial barrier function.
+Reasoning: Curcumin has documented anti-inflammatory effects in gut epithelium via inhibition of PKCα and IKK. In gluten-challenge Caco-2 and organoid systems, curcumin should reduce zonulin secretion, prevent actin rearrangement, and maintain occludin/ZO-1 integrity. Its extensive safety data, oral formulations, and multiple molecular targets make curcumin a promising adjunctive therapy for barrier preservation in celiac patients.
+
+Therapeutic Candidate 27:
+Candidate: Oleanolic acid
+Hypothesis: Oleanolic acid will activate PPARα and PXR in intestinal epithelial cells, inducing transcription of tight junction and antioxidant genes, reducing cytokine-induced barrier loss under gliadin challenge.
+Reasoning: Oleanolic acid is a natural triterpenoid with PPARα/PXR agonist activity that enhances epithelial barrier function. In rodent colitis models, it upregulated claudin-1, occludin, and antioxidant enzymes. In gliadin-treated organoids, it should similarly restore TJ protein levels, reduce IL-15/TNF-α production, and normalize TEER. Its favorable safety in human herbal use and oral bioavailability support preclinical celiac studies.
+
+Therapeutic Candidate 28:
+Candidate: Quercetin
+Hypothesis: Quercetin will inhibit MLCK and ER stress signaling in enterocytes, upregulate tight junction proteins, and mitigate gliadin-induced barrier dysfunction.
+Reasoning: Quercetin is a flavonol known to inhibit MLCK expression and alleviate ER stress via UPR modulation. In gluten-challenged Caco-2 monolayers and organoids, quercetin should reduce CHOP and phospho-MLC levels, preserve ZO-1 distribution, and maintain TEER. Its well‐characterized pharmacokinetics and clinical use as a supplement provide a translational path for celiac barrier therapy.
+
+Therapeutic Candidate 29:
+Candidate: Epigallocatechin gallate (EGCG)
+Hypothesis: EGCG will reduce zonulin release by competing with gliadin for CXCR3 binding, inhibit PI3K/Akt and NF-κB pathways, and directly stabilize tight junction proteins in celiac enterocytes.
+Reasoning: EGCG (Sigma G5982) forms insoluble complexes with gliadin, limiting its receptor interactions. Additionally, EGCG inhibits PI3K/Akt and NF-κB signaling in epithelial cells. In gliadin-treated organoids, EGCG should reduce CXCR3-mediated zonulin secretion, lower Akt and IKK phosphorylation, and maintain occludin/ZO-1. Its safety as a dietary polyphenol and multiple barrier-protective mechanisms justify its selection for mechanistic studies.
+
+Therapeutic Candidate 30:
+Candidate: Resveratrol
+Hypothesis: Resveratrol will activate SIRT1 and Nrf2 in enterocytes, reduce cytokine-driven MLCK induction and oxidative stress, and promote tight junction protein expression to restore barrier integrity under gluten challenge.
+Reasoning: Resveratrol stimulates SIRT1-mediated deacetylation of NF-κB p65 and activates Nrf2 in epithelial cells, reducing inflammatory and oxidative responses. In celiac organoids, resveratrol should inhibit IL-15/TNF-α production, downregulate MLCK, increase claudin-4 and occludin, and normalize TEER. Its extensive human safety data and oral bioavailability make resveratrol a feasible candidate for barrier-protective studies in celiac disease.

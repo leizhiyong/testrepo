@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: C75 (Sigma-Aldrich catalog #C9492)
+Hypothesis: C75, a fatty acid synthase inhibitor, will reduce malonyl-CoA levels in NASH hepatocytes, thereby relieving malonyl-CoA–mediated inhibition of carnitine palmitoyltransferase 1 (CPT1) and enhancing mitochondrial fatty acid β-oxidation to decrease steatosis.
+Reasoning: C75 has been shown in rodent NASH models to inhibit FAS and lower malonyl-CoA, resulting in increased CPT1 activity and reduced hepatic triglyceride accumulation. Genetic evidence links malonyl-CoA accumulation to NASH severity, and functional assays confirm C75 engages FAS with nanomolar potency. Pharmacokinetic studies demonstrate adequate hepatic exposure in mice with an acceptable safety margin. By directly targeting the FAS–malonyl-CoA–CPT1 axis, C75 offers a mechanistically specific approach to restore β-oxidation in diseased hepatocytes.
+
+Therapeutic Candidate 2:
+Candidate: Pemafibrate (Kowa Pharmaceuticals)
+Hypothesis: Pemafibrate, a selective PPARα modulator, will transcriptionally upregulate mitochondrial β-oxidation genes (e.g., CPT1A, ACOX1) in NASH hepatocytes, resulting in enhanced fatty acid catabolism, decreased lipid accumulation, and reduced inflammation.
+Reasoning: Pemafibrate exhibits PPARα activation potency (EC50 ∼1 nM) with high receptor selectivity, leading to robust upregulation of β-oxidation enzymes in preclinical rodent NASH models. Genetic loss of PPARα exacerbates steatosis, validating the receptor’s role in fatty acid metabolism. Early clinical studies show pemafibrate lowers ALT/AST and improves lipid profiles without significant off-target effects. Its oral bioavailability and favorable ADME make it a feasible candidate for NASH therapy, offering a precise nuclear receptor–driven mechanism.
+
+Therapeutic Candidate 3:
+Candidate: Elafibranor (Genfit)
+Hypothesis: As a dual PPARα/δ agonist, elafibranor will synergistically activate both receptors to coordinate mitochondrial and peroxisomal β-oxidation gene expression, reducing hepatocyte lipid load and attenuating NASH-associated inflammation and fibrosis.
+Reasoning: Elafibranor’s dual PPARα/δ agonism (EC50 α: 0.45 μM; δ: 1.3 μM) improves fatty acid oxidation and anti-inflammatory gene networks in rodent NASH models. Functional studies confirm target engagement via coactivator recruitment assays and upregulation of ACOX1, CPT1A, and PDK4. Clinical phase II trials reported reductions in ALT, CRP, and histological NASH resolution. Its balanced receptor profile and demonstrated translational efficacy underscore its mechanistic specificity and developmental tractability.
+
+Therapeutic Candidate 4:
+Candidate: Saroglitazar (Zydus Cadila)
+Hypothesis: Saroglitazar, a PPARα/γ agonist, will enhance β-oxidation through PPARα activation while PPARγ engagement improves insulin sensitivity, together reducing hepatocyte lipid burden and inflammatory signaling in NASH.
+Reasoning: Saroglitazar demonstrates PPARα EC50 ∼3 nM and PPARγ EC50 ∼38 nM, with preclinical NASH models showing decreased steatosis, inflammation, and fibrosis. PPARα validation confirms increased CPT1A and ACOX1 expression, while PPARγ activation improves adiponectin levels, reducing hepatic lipotoxicity. Clinical data in NAFLD patients show improved ALT, AST, and metabolic parameters with an acceptable safety profile. Its dual-receptor specificity provides a mechanistic rationale for coordinated metabolic and anti-inflammatory effects.
+
+Therapeutic Candidate 5:
+Candidate: Seladelpar (Medivir)
+Hypothesis: Seladelpar, a selective PPARδ agonist, will drive hepatocyte expression of fatty acid oxidation enzymes (e.g., CPT1A, ECH1) and increase mitochondrial oxidative capacity, thereby lowering lipid accumulation and inflammatory cytokine production in NASH.
+Reasoning: Seladelpar exhibits high selectivity for PPARδ (EC50 ∼20 nM) and induces FAO genes in primary human hepatocytes. Rodent NASH models treated with seladelpar show decreased hepatic triglycerides and fibrosis markers. Genetic deletion of PPARδ worsens steatosis, validating its role. Preliminary human studies in metabolic syndrome patients demonstrate improved lipid profiles without significant adverse events. Its oral dosing and receptor-specific mechanism make seladelpar a promising NASH candidate.
+
+Therapeutic Candidate 6:
+Candidate: PXL770 (Mydicar)
+Hypothesis: PXL770, a direct AMPK activator, will phosphorylate and inhibit ACC, decrease malonyl-CoA, disinhibit CPT1, and boost mitochondrial β-oxidation in NASH hepatocytes to reduce steatosis and inflammation.
+Reasoning: In phase 1b studies, PXL770 achieved plasma exposure sufficient for liver AMPK activation, resulting in decreased de novo lipogenesis and improved insulin sensitivity. Preclinical rodent NASH models show PXL770 lowers hepatic triglycerides, reduces ALT/AST, and decreases inflammatory cytokines. ACC inhibition is confirmed by increased p-ACC in liver biopsies. Its direct AMPK activation offers mechanistic specificity and translational PK/PD alignment for NASH therapy.
+
+Therapeutic Candidate 7:
+Candidate: A-769662 (Tocris Bioscience, Cat. #3748)
+Hypothesis: A-769662, a selective allosteric AMPK activator, will enhance phosphorylation of ACC in NASH hepatocytes, lower malonyl-CoA levels, upregulate CPT1 activity, and thereby promote mitochondrial β-oxidation to ameliorate hepatic steatosis.
+Reasoning: A-769662 binds the AMPK β subunit, activating the kinase at low micromolar concentrations, and has demonstrated efficacy in reducing hepatic lipid content in rodent high-fat diet models. ACC phosphorylation and downstream FAO induction are confirmed by Western blot and respirometry assays. Human hepatocyte studies show improved mitochondrial respiration after treatment. Its well-characterized selectivity profile and in vivo tolerability support its repurposing for NASH.
+
+Therapeutic Candidate 8:
+Candidate: ZLN005 (Sigma-Aldrich, Cat. #SML1555)
+Hypothesis: ZLN005, a PGC1α transcriptional activator, will enhance mitochondrial biogenesis and upregulate β-oxidation enzyme expression in NASH hepatocytes, leading to improved fatty acid catabolism and reduced lipid deposition.
+Reasoning: ZLN005 increases PGC1α mRNA and protein in HepG2 cells, boosting mitochondrial DNA content and oxygen consumption. In rodent steatosis models, ZLN005 reduces liver triglycerides and inflammation markers. Target validation includes ChIP showing enhanced PGC1α binding to FAO gene promoters. Its oral bioavailability and clear mechanistic link to mitochondrial enhancement make it a feasible NASH therapeutic candidate.
+
+Therapeutic Candidate 9:
+Candidate: SRT1720 (Cayman Chemical, Cat. #12010)
+Hypothesis: SRT1720, a SIRT1 activator, will deacetylate and activate PGC1α in NASH hepatocytes, augmenting mitochondrial β-oxidation and antioxidant defenses to decrease steatosis and oxidative damage.
+Reasoning: SRT1720 enhances SIRT1 activity (EC50 ∼0.16 μM) and reduces hepatic lipid accumulation in mouse high-fat diet models. Mechanistic assays confirm deacetylation of PGC1α and upregulation of CPT1A and MCAD. Oxidative stress markers decrease in treated animals, validating dual metabolic and antioxidant benefits. PK studies indicate adequate liver exposure, and safety data show tolerable dosing in rodents, supporting developmental feasibility.
+
+Therapeutic Candidate 10:
+Candidate: Nicotinamide Riboside (NR, ChromaDex Niagen)
+Hypothesis: NR supplementation will elevate NAD+ levels in NASH hepatocytes, activate SIRT1/SIRT3 pathways, enhance mitochondrial function and β-oxidation capacity, thereby reducing lipid accumulation and inflammation.
+Reasoning: NR raises hepatic NAD+ pools, leading to SIRT1-mediated deacetylation of PGC1α and SIRT3-mediated activation of mitochondrial enzymes. In preclinical NASH models, NR reduces steatosis, fibrosis markers, and improves mitochondrial respiration. Early human trials in NAFLD show improved metabolic biomarkers with good tolerability. Its status as a dietary supplement with established safety profile accelerates clinical translation.
+
+Therapeutic Candidate 11:
+Candidate: Nicotinamide Mononucleotide (NMN, Cayman Chemical #B119460)
+Hypothesis: NMN, an NAD+ precursor, will restore NAD+ levels in NASH hepatocytes, drive SIRT1/SIRT3 activation, and enhance mitochondrial β-oxidation and biogenesis, thereby mitigating steatosis and oxidative stress.
+Reasoning: NMN administration increases NAD+ in liver tissue, leading to improved mitochondrial function in high-fat diet–fed mice. Functional assays reveal enhanced oxygen consumption and upregulation of β-oxidation genes. Rodent safety and PK studies show good bioavailability and no significant toxicity. NMN’s direct role in NAD+ salvage renders it a mechanistically specific and developmentally feasible NASH intervention.
+
+Therapeutic Candidate 12:
+Candidate: BAM15 (Sigma-Aldrich, Cat. #SML0763)
+Hypothesis: BAM15, a mitochondrial protonophore, will subtly uncouple oxidative phosphorylation in NASH hepatocytes to boost substrate oxidation rates and increase fatty acid β-oxidation without inducing hyperthermia, thereby reducing hepatic lipid overload.
+Reasoning: BAM15 increases mitochondrial respiration and fatty acid oxidation in hepatocyte cultures and mouse models without the safety liabilities of classic uncouplers. It lowers hepatic triglycerides and improves insulin sensitivity in diet-induced obese mice. Mechanistic specificity is confirmed by increased oxygen consumption and decreased membrane potential. Favorable rodent safety and PK profiles support its repurposing as a targeted mitochondrial modulator in NASH.
+
+Therapeutic Candidate 13:
+Candidate: MitoQ (Antipodean Pharmaceuticals)
+Hypothesis: MitoQ, a mitochondria-targeted antioxidant, will scavenge reactive oxygen species in NASH hepatocytes, prevent oxidative inactivation of β-oxidation enzymes, preserve mitochondrial integrity, and thereby facilitate sustained fatty acid oxidation.
+Reasoning: MitoQ accumulates in mitochondria and reduces oxidative stress markers in rodent NASH models, preserving CPT1 and ACAD activity. Studies show improved mitochondrial respiration, reduced steatosis, and attenuated inflammation. Phase II trials in metabolic diseases demonstrate safety and target engagement. By protecting mitochondrial β-oxidation machinery, MitoQ addresses a root cause of NASH progression.
+
+Therapeutic Candidate 14:
+Candidate: Urolithin A (MITOPURE, Amazentis)
+Hypothesis: Urolithin A will induce mitophagy in NASH hepatocytes via Parkin/PINK1 activation, clear dysfunctional mitochondria, and stimulate mitochondrial biogenesis, resulting in enhanced fatty acid β-oxidation and reduced hepatic lipid burden.
+Reasoning: Urolithin A improves mitochondrial health in aged rodents and enhances oxygen consumption in hepatocytes. In obese mouse models, urolithin A reduces liver triglycerides and inflammation. Mechanistic assays confirm upregulation of PINK1/Parkin and increased mitophagy flux. Human phase I trials show safety and target engagement. This mitophagy-centric approach offers a novel modality to restore β-oxidation in NASH.
+
+Therapeutic Candidate 15:
+Candidate: Sulforaphane (Sigma-Aldrich, Cat. #S4441)
+Hypothesis: Sulforaphane, an Nrf2 activator, will upregulate antioxidant and phase II detoxification enzymes in NASH hepatocytes, reduce oxidative damage to β-oxidation enzymes, and indirectly support enhanced fatty acid oxidation and lipid clearance.
+Reasoning: Sulforaphane activates Nrf2 with nanomolar potency, leading to increased expression of GSTs, SODs, and catalase in hepatocytes. Rodent NASH models treated with sulforaphane show reduced steatosis, fibrosis, and improved mitochondrial respiration. Direct target engagement is confirmed by ARE luciferase assays. Its favorable safety profile in human trials for other indications supports feasibility for NASH repurposing.
+
+Therapeutic Candidate 16:
+Candidate: GW501516 (Sigma-Aldrich, Cat. #PZ0265)
+Hypothesis: GW501516, a potent PPARδ agonist, will enhance expression of fatty acid oxidation genes and increase mitochondrial oxidative capacity in NASH hepatocytes, leading to decreased lipid accumulation and inflammation.
+Reasoning: GW501516 activates PPARδ at subnanomolar concentrations and induces CPT1A, ACOX1, and PDK4 in hepatocyte assays. In high-fat diet rodent models, it lowers liver triglycerides and improves metabolic parameters. Target validation includes reporter assays and ChIP for PPARδ binding at FAO promoters. While safety concerns exist in oncology, short-course NASH regimens may offer a favorable risk/benefit, and its profound metabolic effects justify further evaluation.
+
+Therapeutic Candidate 17:
+Candidate: Resmetirom (MGL-3196, Madrigal Pharmaceuticals)
+Hypothesis: Resmetirom, a selective thyroid hormone receptor β agonist, will activate THRβ in hepatocytes to upregulate genes involved in mitochondrial β-oxidation (e.g., CPT1A, DIO1), enhancing fatty acid catabolism and reducing steatosis in NASH.
+Reasoning: Resmetirom has demonstrated potent THRβ activation (EC50 ∼1 nM) with liver specificity, driving mitochondrial FAO gene expression in human hepatocytes. Clinical phase II trials show significant reductions in liver fat by MRI-PDFF and improvements in liver enzymes. Animal models reveal enhanced oxygen consumption and decreased fibrosis. Its clear receptor-specific mechanism and clinical proof-of-concept support its candidacy for NASH.
+
+Therapeutic Candidate 18:
+Candidate: VK2809 (Viking Therapeutics)
+Hypothesis: VK2809, a liver-targeted THRβ agonist prodrug, will selectively activate THRβ in hepatocytes, elevate β-oxidation gene expression, and enhance mitochondrial fatty acid oxidation to ameliorate NASH histopathology.
+Reasoning: VK2809 is converted in the liver to its active form, showing THRβ EC50 of 0.24 nM, and minimal systemic THRα activation, reducing off-target cardiac effects. In rodent NASH models, VK2809 decreases hepatic triglycerides, fibrosis markers, and improves lipid profiles. Early human data indicate significant liver fat reduction and safety. Its prodrug design and receptor specificity underpin targeted mitochondrial modulation in NASH.
+
+Therapeutic Candidate 19:
+Candidate: Cilofexor (GS-9674, Gilead Sciences)
+Hypothesis: Cilofexor, an FXR agonist, will upregulate FGF19 signaling in hepatocytes, suppress lipogenesis, and indirectly enhance mitochondrial β-oxidation by reducing malonyl-CoA levels, thereby ameliorating steatosis and inflammation in NASH.
+Reasoning: FXR activation by cilofexor (EC50 ∼37 nM) reduces SREBP-1c and ACC expression, lowering malonyl-CoA and relieving CPT1 inhibition. Phase II trials report decreases in hepatic fat and markers of inflammation and fibrosis. Preclinical models confirm target engagement via SHP induction and bile acid profiling. Its oral bioavailability and translational biomarker changes support mechanistic specificity for balancing lipid metabolism.
+
+Therapeutic Candidate 20:
+Candidate: Tropifexor (LJN452, Novartis)
+Hypothesis: Tropifexor, a potent non-steroidal FXR agonist, will activate hepatic FXR to suppress de novo lipogenesis, decrease malonyl-CoA, and thereby facilitate mitochondrial β-oxidation and lipid clearance in NASH.
+Reasoning: Tropifexor exhibits subnanomolar FXR activation (EC50 ∼0.2 nM) and reduces hepatic steatosis and fibrosis in rodent NASH models. Clinical studies show improvements in liver enzymes and PDFF with acceptable tolerability. Mechanistic assays confirm induction of SHP and repression of SREBP-1c. Its potency and translational biomarker responses underscore its potential to rebalance hepatocyte lipid metabolism.
+
+Therapeutic Candidate 21:
+Candidate: EDP-305 (Enanta Pharmaceuticals)
+Hypothesis: EDP-305, a potent FXR agonist, will induce hepatic FXR target genes to suppress lipogenesis, reduce malonyl-CoA, and indirectly promote CPT1-mediated mitochondrial β-oxidation in NASH hepatocytes.
+Reasoning: EDP-305 activates FXR with EC50 ∼3 nM, leading to SHP upregulation and SREBP-1c suppression in hepatocyte models. In vivo, it reduces liver triglycerides, inflammation, and fibrosis in rodent NASH. Phase I studies demonstrate favorable PK with high liver exposure and manageable pruritus rates. Its well-characterized PD biomarkers support its mechanistic specificity for modulating lipid homeostasis via FXR.
+
+Therapeutic Candidate 22:
+Candidate: Pegbelfermin (BMS-986036, BMS)
+Hypothesis: Pegbelfermin, a PEGylated FGF21 analog, will enhance hepatic fatty acid oxidation by activating FGFR1/β-Klotho in hepatocytes, increasing expression of β-oxidation enzymes and improving mitochondrial function to reduce steatosis.
+Reasoning: FGF21 signaling upregulates PPARα and induces CPT1A and ACOX1 expression, promoting FAO. Pegbelfermin shows robust reductions in liver fat and fibrosis biomarkers in phase II NASH trials. Rodent studies confirm increased oxygen consumption and mitochondrial biogenesis. Its engineered stability and dosing feasibility make it a novel endocrine approach to correct metabolic dysregulation in NASH.
+
+Therapeutic Candidate 23:
+Candidate: Bempedoic Acid (Esperion Therapeutics)
+Hypothesis: Bempedoic acid, an ATP-citrate lyase inhibitor, will decrease hepatic acetyl-CoA and malonyl-CoA synthesis, relieving CPT1 inhibition and promoting mitochondrial β-oxidation in NASH hepatocytes.
+Reasoning: ACL inhibition by bempedoic acid reduces lipogenesis precursors and has shown LDL-C reduction in humans. Preclinical rodent studies indicate improved hepatic lipid profiles and increased FAO gene expression. Target engagement is confirmed by decreased citrate flux. Oral dosing and human safety data in hyperlipidemia support repurposing for NASH to shift substrate flux toward β-oxidation.
+
+Therapeutic Candidate 24:
+Candidate: SR9009 (Cayman Chemical, Cat. #10013104)
+Hypothesis: SR9009, a Rev-Erbα agonist, will enhance circadian regulation of lipid metabolism in NASH hepatocytes, upregulate β-oxidation genes, and improve mitochondrial function to alleviate steatosis.
+Reasoning: SR9009 activates Rev-Erbα leading to repression of lipogenic genes and induction of CPT1A and MCAD in hepatocyte models. Diet-induced obese mice treated with SR9009 exhibit reduced liver fat and inflammation. Mechanistic studies show direct promoter occupancy by Rev-Erbα. Its oral bioavailability and established rodent safety profile suggest feasibility for NASH application.
+
+Therapeutic Candidate 25:
+Candidate: XCT790 (Tocris Bioscience, Cat. #4392)
+Hypothesis: XCT790, an inverse agonist of ERRα, will relieve ERRα-mediated repression of mitochondrial biogenesis and FAO gene expression in NASH hepatocytes, leading to increased mitochondrial content and β-oxidation capacity.
+Reasoning: ERRα inhibition by XCT790 in hepatocyte cultures increases PGC1α and CPT1A expression, boosting mitochondrial respiration. In rodent metabolic syndrome models, XCT790 reduces hepatic triglycerides and improves insulin sensitivity. Direct binding assays confirm target engagement. The selective modulation of ERRα offers a precise mechanism to enhance mitochondrial function in NASH.
+
+Therapeutic Candidate 26:
+Candidate: Metformin (generic)
+Hypothesis: Metformin, via hepatic AMPK activation, will inhibit ACC, decrease malonyl-CoA, and disinhibit CPT1 in NASH hepatocytes, enhancing β-oxidation and reducing lipid accumulation.
+Reasoning: Metformin activates AMPK at clinically relevant concentrations, leading to ACC phosphorylation and increased FAO in primary human hepatocytes. Epidemiological data link metformin use to lower incidence of NAFLD progression. Rodent NASH models demonstrate reduced steatosis with metformin. Its well-characterized safety, PK, and widespread clinical use support rapid repurposing for NASH.
+
+Therapeutic Candidate 27:
+Candidate: Empagliflozin (Boehringer Ingelheim)
+Hypothesis: Empagliflozin, an SGLT2 inhibitor, will improve hepatic β-oxidation in NASH hepatocytes indirectly by promoting caloric loss, reducing substrate overload, activating AMPK, and enhancing mitochondrial fatty acid oxidation.
+Reasoning: Empagliflozin lowers glucose and induces mild ketosis, shifting substrate utilization toward fatty acids. Rodent NASH models treated with empagliflozin show decreased liver steatosis and improved AMPK activation. Clinical trials in diabetes patients demonstrate reductions in liver fat measured by MRI-PDFF. Its established safety and metabolic benefits support investigation in NASH for β-oxidation enhancement.
+
+Therapeutic Candidate 28:
+Candidate: Honokiol (Sigma-Aldrich, Cat. #H4910)
+Hypothesis: Honokiol, a natural biphenolic compound, will activate SIRT3 in NASH hepatocytes, enhancing deacetylation and activation of mitochondrial β-oxidation enzymes, increasing fatty acid breakdown and reducing steatosis.
+Reasoning: Honokiol increases SIRT3 activity and reduces acetylation of LCAD in rodent liver, enhancing FAO flux. High-fat diet mice treated with honokiol show improved mitochondrial respiration and decreased liver triglycerides. Mechanistic validation includes increased SIRT3 expression and enzymatic activity. Its natural origin, oral bioavailability, and multi-faceted effects on mitochondrial metabolism make it a unique candidate for NASH.
+
+Therapeutic Candidate 29:
+Candidate: Mito-TEMPO (Sigma-Aldrich, Cat. #SML0737)
+Hypothesis: Mito-TEMPO, a mitochondria-targeted superoxide scavenger, will reduce oxidative inactivation of β-oxidation enzymes in NASH hepatocytes, preserve mitochondrial function, and thereby support sustained fatty acid oxidation.
+Reasoning: Mito-TEMPO accumulates in mitochondria and lowers ROS levels in hepatocyte cultures, restoring CPT1 and ACAD activities. In rodent NASH models, it reduces hepatic oxidative stress, steatosis, and fibrosis markers. Biochemical assays confirm decreased protein carbonylation on β-oxidation enzymes. Its proven in vivo tolerability in oxidative stress models supports evaluation in NASH.
+
+Therapeutic Candidate 30:
+Candidate: Aldafermin (NGM282, NGM Biopharmaceuticals)
+Hypothesis: Aldafermin, an FGF19 analog, will signal through FGFR4/β-Klotho in hepatocytes to suppress lipogenesis and enhance mitochondrial β-oxidation gene expression, reducing steatosis and inflammation in NASH.
+Reasoning: FGF19 analogs induce PPARα and CYP7A1 suppression, decreasing lipid synthesis and increasing FAO markers in preclinical models. Aldafermin reduces liver fat and fibrosis biomarkers in phase II NASH trials. Target engagement is verified by increased serum FGF19 and reduced C4 levels. Its engineered stability and demonstrated PK/PD profile support its development as a mitochondrial metabolism modulator in NASH.

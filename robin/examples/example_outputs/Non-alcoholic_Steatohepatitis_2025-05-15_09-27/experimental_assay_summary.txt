@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Steatosis quantification assay
+Reasoning: Quantify intracellular triglyceride accumulation in primary human hepatocytes or HepaRG cells using fluorescent lipid dyes (e.g., BODIPY) and automated imaging. This simple, high‐content readout directly measures lipid droplet burden under FFA challenge and has been validated as a rapid screen for anti‐steatotic compounds (Bessone et al., 2019; Gurevich et al., 2020).
+
+Assay Candidate 2:
+Strategy: Lipogenesis flux assay
+Reasoning: Measure de novo lipogenesis by tracking incorporation of stable isotope‐labeled acetate or glucose into fatty acids in hepatocyte cultures. Direct quantification of newly synthesized lipids by mass spectrometry provides a fast, quantitative endpoint reflecting ACC and FASN activity, as described in Li et al. (2023) and Gapp et al. (2020).
+
+Assay Candidate 3:
+Strategy: Fatty acid oxidation assay
+Reasoning: Assess mitochondrial and peroxisomal β‐oxidation in hepatocytes via real‐time oxygen consumption measurements in the presence of palmitate using a Seahorse analyzer. This functional readout directly reports CPT1A and PPARα activity, facilitating rapid evaluation of compounds that restore fatty acid catabolism (Steensels et al., 2020; Chakravarthy & Neuschwander‐Tetri, 2020).
+
+Assay Candidate 4:
+Strategy: Insulin signaling assay
+Reasoning: Evaluate restoration of insulin sensitivity by quantifying insulin‐stimulated AKT phosphorylation in FFA‐sensitized hepatocytes through high‐throughput immunoassays. This direct functional readout links cellular insulin response with drug efficacy and is grounded in established models of insulin resistance in NASH (Sakurai et al., 2021; Bessone et al., 2019).
+
+Assay Candidate 5:
+Strategy: SREBP1c transcriptional reporter
+Reasoning: Use hepatocyte lines stably expressing a luciferase reporter under control of an SREBP1c‐responsive promoter to monitor lipogenic transcriptional activity. Luciferase output provides a fast, sensitive measure of pathway modulation by candidate drugs, as applied in recent phenotypic screens (Li et al., 2023; Boeckmans et al., 2022).
+
+Assay Candidate 6:
+Strategy: PNPLA3 functional assay
+Reasoning: Overexpress wild‐type or I148M PNPLA3 in hepatocytes and measure triglyceride hydrolysis using colorimetric or fluorescent substrate assays. Differential activity between variants provides mechanistic insight into lipid droplet remodeling and identifies compounds that rescue PNPLA3‐driven steatosis (Filali‐Mouncef et al., 2022; Bessone et al., 2019).
+
+Assay Candidate 7:
+Strategy: Kupffer cell cytokine release assay
+Reasoning: Stimulate Kupffer cell cultures or monocyte‐derived macrophages with LPS or palmitate and quantify secreted TNFα, IL‐1β, and IL‐6 by multiplex ELISA. This rapid cytokine readout captures TLR‐driven inflammasome activation and enables evaluation of anti‐inflammatory drug effects (Chen et al., 2020; Cha et al., 2018).
+
+Assay Candidate 8:
+Strategy: Hepatic stellate cell activation assay
+Reasoning: Expose human LX‐2 stellate cells to TGFβ or macrophage‐conditioned medium and quantify α‐SMA and collagen I expression by high‐content immunofluorescence. This direct fibrogenic endpoint measures stellate cell transdifferentiation and screens anti‐fibrotic candidates with rapid, quantitative outputs (Carter & Friedman, 2022; Méndez‐Sánchez et al., 2020).
+
+Assay Candidate 9:
+Strategy: ER stress response assay
+Reasoning: Treat hepatocytes with saturated FFAs to induce lipotoxic ER stress and measure CHOP expression or XBP1 mRNA splicing by qPCR or reporter constructs. This readout directly interrogates UPR sensor activation (PERK, ATF6, IRE1α) and allows rapid assessment of compounds alleviating ER stress (Ajoolabady et al., 2023; Lee et al., 2022).
+
+Assay Candidate 10:
+Strategy: Hepatocyte-stellate co-culture fibrosis assay
+Reasoning: Co-culture primary hepatocytes with stellate cells on ECM‐coated plates and induce injury with FFAs and LPS. Quantify collagen deposition via Sirius Red staining and automated image analysis to capture cell–cell cross‐talk and fibrogenic outcomes in a biologically relevant 2D model (Rezvani et al., 2023; Rafiei et al., 2023).

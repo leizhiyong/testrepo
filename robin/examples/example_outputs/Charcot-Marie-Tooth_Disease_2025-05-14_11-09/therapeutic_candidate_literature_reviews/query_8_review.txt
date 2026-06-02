@@ -1,0 +1,46 @@
+Query: Review current understanding of Schwann cell–axon signaling pathways necessary for nodal and paranodal domain assembly, including roles of extracellular matrix components and integrin signaling, to identify druggable targets for restoring axoglial architecture
+
+The current understanding of Schwann cell–axon signaling pathways essential for nodal and paranodal domain assembly has advanced considerably, with key roles played by molecular interactions that coordinate the spatial organization of ion channels, adhesion proteins, and cytoskeletal elements. (bolino2021myelinbiology pages 2-4)
+
+At the nodal region, clustering of sodium channels (primarily Nav1.6) and recruitment of scaffold proteins such as ankyrin-G are driven by axonal cell adhesion molecules like neurofascin 186 and the secreted glycoprotein gliomedin produced by Schwann cells; these molecules interact with extracellular matrix (ECM) components to form the correct microenvironment essential for rapid nerve conduction. (bolino2021myelinbiology pages 2-4)
+
+Paranodal domain assembly is critically dependent on septate-like junctions formed by the interaction of axonal proteins (Caspr, contactin) with Schwann cell-specific neurofascin isoforms (NF155), creating a barrier that restricts the lateral diffusion of juxtaparanodal potassium channels and thus stabilizes the nodal structure. (fledrich2019axoglialinterdependencein pages 7-8)
+
+Extracellular matrix components, including laminins and proteoglycans such as phosphocan and tenascin, are intimately involved in this process by engaging integrin receptors on Schwann cells; integrin-mediated signaling modulates cytoskeletal dynamics and reinforces the adhesion between the Schwann cell basal lamina and the axolemma. (taveggia2022beyondwrappingcanonical pages 3-4)
+
+Integrin signaling not only facilitates the assembly of paranodal junctions but also coordinates with intracellular pathways, such as those mediated by focal adhesion kinase (FAK) and ILK, to maintain Cajal bands and longitudinal cytoplasmic channels that are vital for myelin maintenance and intracellular trafficking. (wilson2021schwanncellinteractions pages 4-5)
+
+The NRG1 type III–ErbB signaling axis is another pivotal mechanism in Schwann cell biology, where axon-derived neuregulin interacts with ErbB2/3 receptors on Schwann cells, triggering downstream cascades (PI3K/AKT/mTOR and ERK pathways) that regulate myelin thickness and, indirectly, the organization of nodal domains. (bolino2021myelinbiology pages 6-7)
+
+Parallel to these well‐characterized pathways, mitochondrial dynamics modulated by proteins such as MFN2 and GDAP1, along with ion channel regulation by SCN11A, have been implicated in maintaining axoglial integrity, further underscoring their potential as druggable targets. (OpenTargets Search: peripheral neuropathy,Charcot-Marie-Tooth disease)
+
+Recent evidence also indicates that cytoskeletal regulators (such as gelsolin encoded by GSN) and gap junction components (such as connexin 31 encoded by GJB3) contribute to the fine-tuning of Schwann cell–axon interactions; disruptions in these molecules are associated with peripheral neuropathies, marking them as candidates for therapeutic intervention. (jalkh2021implicationoflxrs pages 169-171)
+
+Moreover, genetic and animal model data underscore the importance of MPZ, a major structural protein of the myelin sheath, not only as a structural component but also as a regulator of axoglial signaling interfaces, with mutations in MPZ leading to profound myelin defects and hypomyelination observed in conditions like Charcot-Marie-Tooth disease. (bolino2021myelinbiology pages 11-12)
+
+The integration of ECM interactions with integrin signaling is emerging as a prime therapeutic avenue; targeting integrin contacts or modulating ECM composition through pharmacological agents could potentially restore proper node and paranode architecture, thereby improving nerve conduction and axon stability in demyelinating diseases. (taveggia2022beyondwrappingcanonical pages 12-14)
+
+In summary, the multifaceted signaling network involving NRG1-ErbB interactions, integrin-ECM adhesion, cytoskeletal regulation, and mitochondrial dynamics represents a spectrum of druggable targets. A therapeutic strategy that combines modulation of these pathways could ameliorate disruptions in axoglial architecture seen in peripheral neuropathies by restoring proper nodal and paranodal domain assembly. (maria2021schwanncellsrestrict pages 25-29, naniong2022lumancreb3isa pages 26-29)
+
+References:
+1. (OpenTargets Search: peripheral neuropathy,Charcot-Marie-Tooth disease): Open Targets Query (peripheral neuropathy,Charcot-Marie-Tooth disease, 30 results). Ochoa, D. et al. (2023). The next-generation Open Targets Platform: reimagined, redesigned, rebuilt. Nucleic Acids Research.
+
+2. (bolino2021myelinbiology pages 11-12): Alessandra Bolino. Myelin biology. Neurotherapeutics, 18:2169-2184, Oct 2021. URL: https://doi.org/10.1007/s13311-021-01083-w, doi:10.1007/s13311-021-01083-w. This article has 24 citations and is from a peer-reviewed journal.
+
+3. (bolino2021myelinbiology pages 6-7): Alessandra Bolino. Myelin biology. Neurotherapeutics, 18:2169-2184, Oct 2021. URL: https://doi.org/10.1007/s13311-021-01083-w, doi:10.1007/s13311-021-01083-w. This article has 24 citations and is from a peer-reviewed journal.
+
+4. (fledrich2019axoglialinterdependencein pages 7-8): Robert Fledrich, Theresa Kungl, Klaus-Armin Nave, and Ruth M. Stassart. Axo-glial interdependence in peripheral nerve development. Development, Nov 2019. URL: https://doi.org/10.1242/dev.151704, doi:10.1242/dev.151704. This article has 43 citations and is from a domain leading peer-reviewed journal.
+
+5. (taveggia2022beyondwrappingcanonical pages 12-14): Carla Taveggia and M. Laura Feltri. Beyond wrapping: canonical and noncanonical functions of schwann cells. Annual Review of Neuroscience, 45:561-580, Jul 2022. URL: https://doi.org/10.1146/annurev-neuro-110920-030610, doi:10.1146/annurev-neuro-110920-030610. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+6. (taveggia2022beyondwrappingcanonical pages 3-4): Carla Taveggia and M. Laura Feltri. Beyond wrapping: canonical and noncanonical functions of schwann cells. Annual Review of Neuroscience, 45:561-580, Jul 2022. URL: https://doi.org/10.1146/annurev-neuro-110920-030610, doi:10.1146/annurev-neuro-110920-030610. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+7. (wilson2021schwanncellinteractions pages 4-5): Emma R. Wilson, Gustavo Della‐Flora Nunes, Michael R. Weaver, Luciana R. Frick, and M. Laura Feltri. Schwann cell interactions during the development of the peripheral nervous system. Developmental Neurobiology, 81:464-489, May 2021. URL: https://doi.org/10.1002/dneu.22744, doi:10.1002/dneu.22744. This article has 67 citations and is from a peer-reviewed journal.
+
+8. (bolino2021myelinbiology pages 2-4): Alessandra Bolino. Myelin biology. Neurotherapeutics, 18:2169-2184, Oct 2021. URL: https://doi.org/10.1007/s13311-021-01083-w, doi:10.1007/s13311-021-01083-w. This article has 24 citations and is from a peer-reviewed journal.
+
+9. (jalkh2021implicationoflxrs pages 169-171): T El Jalkh. Implication of lxrs in the myelination of the peripheral nervous system. Unknown journal, 2021.
+
+10. (maria2021schwanncellsrestrict pages 25-29): Eichel Maria. Schwann cells restrict axonal diameters via CMTM6. PhD thesis, University Goettingen Repository, 2021. URL: https://doi.org/10.53846/goediss-8581, doi:10.53846/goediss-8581.
+
+11. (naniong2022lumancreb3isa pages 26-29): JM Naniong. Luman/creb3 is a novel regulator of survival and myelinating capacity of myelinating glial cells. Unknown journal, 2022.

@@ -1,0 +1,26 @@
+Query: Reports on repurposed FDA-approved compounds or advanced chemical probes evaluated for preservation or restoration of cochlear hair cell mechanotransduction in aged mouse and rat models of ARHL, with target engagement assays, functional rescue readouts, dose–response curves, and preliminary safety data
+
+Several repurposed agents and chemical probes—such as rapamycin (an mTOR inhibitor), metformin (an AMPK activator), and nicotinamide riboside (a NAD⁺ booster)—have been evaluated in aged rodent models for their ability to delay age‐related hearing loss by protecting or preserving cochlear hair cells. These studies demonstrate promising activation of pathways (e.g., autophagy, Akt signaling, and sirtuin activation) that are linked with improved cochlear cell survival and delayed progression of ARHL (ege2024theroleof pages 13-14).
+
+However, despite these encouraging findings on auditory preservation, no study to date has provided a comprehensive pharmacologic characterization of these compounds with respect to the direct preservation or restoration of cochlear hair cell mechanotransduction. In the available reports, endpoints such as target engagement assays, functional rescue readouts specifically quantifying mechanotransduction, detailed dose–response curves, and preliminary safety data in aged mouse or rat ARHL models are notably absent (ege2024theroleof pages 17-18, breglio2017mechanismsofclinical pages 47-52).
+
+Furthermore, while some clinical trials have repurposed FDA-approved drugs (e.g., montelukast for Meniere’s disease) to address auditory symptoms in humans, these investigations did not include preclinical evaluations that focus on the mechanistic underpinnings of hair cell mechanotransduction or provide rigorous pharmacodynamic and toxicological readouts in aged rodent models (Clinical Trials Search: repurposed FDA-approved OR chemical probe AND cochlear hair cell mechanotransduction AND age-related hearing loss AND dose-response).
+
+Likewise, additional interventions—such as polyphenols like resveratrol and senotherapeutics—have been examined for their broader impact on oxidative stress and cellular senescence in the aging cochlea (ege2024theroleof pages 14-16). Despite these studies hinting at potential molecular benefits and improvements in high-frequency hearing preservation, they similarly do not offer detailed assessments of target engagement or dose–response curves specifically for restoring mechanotransduction function at the level of cochlear hair cells (ege2024theroleof pages 16-17).
+
+Finally, review articles and compilations of preclinical data, including those by Uribe and colleagues, underscore that while there is an abundance of evidence linking these interventions to overall auditory benefits (e.g., reduced apoptosis, improved threshold sensitivity), no data have yet established a clear, quantitative rescue of cochlear hair cell mechanotransduction with comprehensive pharmacologic and safety profiling in aged rodent models of ARHL (uribe2017molecularmechanismsof pages 137-138).
+
+Thus, although several repurposed FDA-approved compounds and advanced chemical probes appear to modify key molecular aging pathways in the cochlea, the literature does not report any instance where these have been evaluated with full sets of target engagement assays, functional rescue readouts, dose–response curves, and preliminary safety data that specifically confirm preservation or restoration of cochlear hair cell mechanotransduction in aged mouse or rat ARHL models (ege2024theroleof pages 17-18).
+
+References:
+1. (ege2024theroleof pages 13-14): Tuba Ege, Litao Tao, and Brian J. North. The role of molecular and cellular aging pathways on age-related hearing loss. International Journal of Molecular Sciences, 25:9705, Sep 2024. URL: https://doi.org/10.3390/ijms25179705, doi:10.3390/ijms25179705. This article has 4 citations and is from a peer-reviewed journal.
+
+2. (ege2024theroleof pages 17-18): Tuba Ege, Litao Tao, and Brian J. North. The role of molecular and cellular aging pathways on age-related hearing loss. International Journal of Molecular Sciences, 25:9705, Sep 2024. URL: https://doi.org/10.3390/ijms25179705, doi:10.3390/ijms25179705. This article has 4 citations and is from a peer-reviewed journal.
+
+3. (breglio2017mechanismsofclinical pages 47-52): A Breglio. Mechanisms of clinical ototoxicity and inner ear protection. Unknown journal, 2017.
+
+4. (ege2024theroleof pages 14-16): Tuba Ege, Litao Tao, and Brian J. North. The role of molecular and cellular aging pathways on age-related hearing loss. International Journal of Molecular Sciences, 25:9705, Sep 2024. URL: https://doi.org/10.3390/ijms25179705, doi:10.3390/ijms25179705. This article has 4 citations and is from a peer-reviewed journal.
+
+5. (ege2024theroleof pages 16-17): Tuba Ege, Litao Tao, and Brian J. North. The role of molecular and cellular aging pathways on age-related hearing loss. International Journal of Molecular Sciences, 25:9705, Sep 2024. URL: https://doi.org/10.3390/ijms25179705, doi:10.3390/ijms25179705. This article has 4 citations and is from a peer-reviewed journal.
+
+6. (uribe2017molecularmechanismsof pages 137-138): PM Uribe. Molecular mechanisms of drug-and noise-induced hair cell death and protection. Unknown journal, 2017.

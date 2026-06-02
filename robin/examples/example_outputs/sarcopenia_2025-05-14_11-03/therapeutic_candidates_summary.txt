@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: CDN1163 (CAS 1088261-38-9)
+Hypothesis: CDN1163 selectively binds and stabilizes the SERCA1/2 ATPase in aged human myotubes, boosting sarcoplasmic reticulum Ca²⁺ uptake rates, normalizing cytosolic Ca²⁺ levels, and thereby restoring the amplitude and kinetics of Ca²⁺ transients impaired in sarcopenia.
+Reasoning: Strong genetic and functional validation demonstrates that SERCA downregulation in aging muscle drives prolonged cytosolic Ca²⁺, impaired relaxation, and atrophy. Qaisar et al. (Redox Biol, 2019) showed that CDN1163 restores SERCA ATPase activity in Sod1⁻/⁻ mice, reduces oxidative stress, and rescues ex vivo twitch/tetanic force. Developmental feasibility is supported by its small-molecule nature, cell permeability, and favorable selectivity in a 160-target off-target panel. Mechanistic specificity is established by direct enhancement of SERCA’s Ca²⁺ affinity, unlike broad antioxidants. Its novelty lies in being the first in vivo-validated small-molecule SERCA activator for age-related muscle weakness.
+
+Therapeutic Candidate 2:
+Candidate: ARM210 (S48168)
+Hypothesis: ARM210, a benzothiazepine Rycal, reconstitutes the FKBP12–RyR1 interaction in aged myotubes by binding the RyR1 oxidation-sensitive domain, reducing pathological SR Ca²⁺ leak, and increasing evoked Ca²⁺ transient amplitude and fatigue resistance.
+Reasoning: RyR1 oxidation and FKBP12 dissociation cause chronic Ca²⁺ leak in sarcopenia. Beaufils et al. (2022) and Marks et al. (2023) demonstrated that ARM210 stabilizes RyR1 in aged rodents, enhances Ca²⁺ transient amplitude, and improves muscle strength in vivo. The compound has documented rodent PK, oral bioavailability, and muscle penetration. Mechanistically, ARM210 acts specifically on RyR1, without inhibiting RyR2, offering a targeted approach distinct from non-specific channel blockers. Its translational promise is underscored by its progression into preclinical large-animal studies.
+
+Therapeutic Candidate 3:
+Candidate: S107 (K201/JTV519)
+Hypothesis: S107 binds near the FKBP12 regulatory site on RyR1 in aged skeletal myotubes, reinstating FKBP12 association, curbing chronic SR Ca²⁺ leak, and thereby recovering both the amplitude and reliability of excitation-contraction–coupled Ca²⁺ transients.
+Reasoning: Rebbeck et al. (Sci Rep, 2020) provided FRET-based screening evidence that S107 enhances FKBP12–RyR1 binding and reduces leak in human myofibers. Subsequent ex vivo tests confirm its ability to elevate Ca²⁺ transient amplitude while preserving fatigue resistance. The small molecule is orally bioavailable, has known safety in rodent studies, and its mechanism is precisely channel stabilization rather than broad Ca²⁺ modulation. Its novelty rests on repurposing a cardioprotective Rycal for aging muscle Ca²⁺ homeostasis.
+
+Therapeutic Candidate 4:
+Candidate: Myricetin (Sigma-Aldrich M-7379)
+Hypothesis: Myricetin directly interacts with RyR1 in aged human myotubes to allosterically enhance calmodulin binding, diminishing pathological SR Ca²⁺ leak and boosting stimulus-evoked Ca²⁺ transient amplitude and contractile force.
+Reasoning: High-throughput FRET screening (Rebbeck et al., 2020) identified myricetin as a RyR1 leak suppressor in mechanically skinned fibers. It preferentially stabilizes RyR1 over RyR2, limiting off-target cardiac effects. Its flavonoid scaffold confers good cell penetration and modifiable PK. Mechanistic specificity is supported by direct RyR1 modulation rather than antioxidant action. Although natural, myricetin’s novel application to sarcopenia leverages existing safety data and offers a feasible repurposing path.
+
+Therapeutic Candidate 5:
+Candidate: Chloroxine (Sigma-Aldrich C-9878)
+Hypothesis: Chloroxine binds to the RyR1 calmodulin-interaction domain in aged myotubes, strengthening calmodulin association, reducing SR Ca²⁺ leak, and restoring the amplitude and fidelity of Ca²⁺ transients during excitation-contraction coupling.
+Reasoning: Secondary screening of RyR1 modulators (Rebbeck et al., 2020) revealed chloroxine’s ability to lower Ca²⁺ leak in skinned skeletal fibers. Its quinoline core yields good tissue distribution and oral bioavailability. Mechanistic specificity is conferred by targeted modulation of calmodulin–RyR1 interactions, distinct from broad channel pore blockers. Its novelty lies in repurposing an antibacterial agent to correct age-related excitation–contraction defects in muscle.
+
+Therapeutic Candidate 6:
+Candidate: CK-2127107 (Reldesemtiv)
+Hypothesis: CK-2127107 binds the fast skeletal troponin complex in aged human myotubes, slowing Ca²⁺ dissociation from troponin C, thereby enhancing Ca²⁺ sensitivity of the contractile apparatus and improving submaximal twitch force in sarcopenic muscle.
+Reasoning: Calder et al. (J Med Chem, 2016) demonstrated CK-2127107’s mechanism in rodent and human fast fibers, with Phase I safety and oral PK data. Its specificity for fast troponin I/C complexes spares slow skeletal and cardiac muscle, reducing off-target risk. Troponin activation bypasses Ca²⁺ handling defects, directly improving contractility in atrophied fibers. This represents a mechanistically distinct intervention with strong translational feasibility.
+
+Therapeutic Candidate 7:
+Candidate: Tirasemtiv
+Hypothesis: Tirasemtiv selectively binds to fast skeletal troponin C in aged myotubes, increasing Ca²⁺ sensitivity and prolonging the force-generating state of the actomyosin complex, thereby restoring twitch force and reducing fatigue in sarcopenic muscle.
+Reasoning: Preclinical and Phase II trials in ALS patients confirmed tirasemtiv’s effect on neuromuscular Ca²⁺ sensitivity and endurance. Its oral bioavailability, established ADME, and known tolerability profile facilitate repurposing. Mechanistically, it complements Ca²⁺ transient deficits by direct troponin modulation, offering an orthogonal strategy to SERCA or RyR targeting with robust translational validation.
+
+Therapeutic Candidate 8:
+Candidate: BGP-15 (O-(3-piperidino-2-hydroxy-1-propyl)nicotinic acid amidoxime)
+Hypothesis: BGP-15, a heat shock protein co-inducer, increases HSP70 and HSP90 expression in aged myotubes, stabilizing SERCA and RyR1 conformations, enhancing SR Ca²⁺ uptake and reducing leak, thus normalizing Ca²⁺ transient amplitude and kinetics.
+Reasoning: BGP-15 has shown efficacy in diabetic and heart failure models by improving SR Ca²⁺ handling via HSP induction. Its small molecular weight, oral PK, and safety in Phase I trials support development. Mechanistic specificity stems from chaperone-mediated stabilization of Ca²⁺ channels rather than direct antioxidant or channel blockade. This novel chaperone approach targets multiple Ca²⁺ handling proteins involved in sarcopenia.
+
+Therapeutic Candidate 9:
+Candidate: 78-c (CD38 inhibitor)
+Hypothesis: The small molecule 78-c (N-(4-(4-bromophenyl)thiazol-2-yl)acetamide) inhibits CD38 in aged human myotubes, preserving intracellular NAD⁺ levels, enhancing SERCA2 acetyl-deacetylation via SIRT1, improving SR Ca²⁺ reuptake, and restoring Ca²⁺ transient amplitude.
+Reasoning: CD38 upregulation in aging depletes NAD⁺, impairing SIRT1-mediated deacetylation of SERCA (Xu & Van Remmen, 2021). 78-c exhibits potent CD38 inhibition in rodents, elevates NAD⁺, and improves muscle function. Its small-molecule nature, documented rodent PK, and favorable safety profile make it developmentally tractable. Mechanistic specificity is achieved through NAD⁺ axis restoration, indirectly correcting SERCA dysfunction in sarcopenia.
+
+Therapeutic Candidate 10:
+Candidate: SRT2104
+Hypothesis: SRT2104, a selective SIRT1 activator, deacetylates and activates SERCA2a/2b in aged myotubes, accelerating SR Ca²⁺ uptake, enhancing Ca²⁺ transient clearance, and mitigating cytosolic Ca²⁺ overload that drives sarcopenic weakness.
+Reasoning: SRT2104 has advanced into clinical trials for metabolic and aging-related diseases, with known human PK and safety. SIRT1 activation has been shown to deacetylate SERCA, improving its function (Xu & Van Remmen, 2021). Its oral bioavailability and developmental pedigree support rapid translation. Mechanistic specificity arises from direct modulation of a regulatory post-translational modification on SERCA rather than general antioxidant pathways.
+
+Therapeutic Candidate 11:
+Candidate: Apelin-13 analog (Aib2-Apelin-13)
+Hypothesis: Aib2-Apelin-13, a stabilized apelin receptor agonist, enhances IP₃-mediated SR Ca²⁺ release and mitochondrial Ca²⁺ uptake in aged myotubes, improving Ca²⁺ transient amplitude and coupling excitation to energy production, thus preserving contractile function.
+Reasoning: Apelin levels decline with age, contributing to sarcopenia. Apelin receptor activation restores Ca²⁺ flux (Conte et al., 2024) and mitochondrial bioenergetics. Aib2-Apelin-13 resists proteolysis, has documented plasma half-life extensions, and signals specifically via APJ receptor in muscle. Mechanistically, it targets ER–mitochondrial Ca²⁺ exchange, a validated sarcopenia driver, offering a novel peptide therapeutic approach.
+
+Therapeutic Candidate 12:
+Candidate: Urolithin A
+Hypothesis: Urolithin A, a gut microbiome-derived metabolite, induces mitophagy and restores mitochondrial–SR contact sites in aged myotubes, normalizing mitochondrial Ca²⁺ uptake and enhancing overall Ca²⁺ transient kinetics and contractile endurance.
+Reasoning: Early clinical studies in elderly subjects show urolithin A improves muscle endurance and mitochondrial health. Its mechanism includes restoration of MAM integrity, crucial for coupling SR Ca²⁺ release to mitochondrial uptake (Dong & Maturana, 2025). Developmentally, it is orally bioavailable with human PK data. It acts indirectly on Ca²⁺ handling via organelle homeostasis, a novel strategy grounded in strong preclinical and emerging clinical evidence.
+
+Therapeutic Candidate 13:
+Candidate: Spermidine
+Hypothesis: Spermidine supplementation in aged human myotubes enhances autophagy-mediated turnover of oxidized RyR1 and SERCA, reducing SR Ca²⁺ leak and improving reuptake kinetics, thereby increasing Ca²⁺ transient amplitude and contractile output.
+Reasoning: Spermidine extends lifespan and improves muscle function in aging models via autophagy induction. By clearing oxidized Ca²⁺ handling proteins (Michelucci et al., 2021), it restores channel function. It is orally bioavailable with human safety data. Mechanistic specificity arises from targeted removal of damaged proteins rather than broad antioxidant activity, offering a distinct, validated route to normalize Ca²⁺ handling in sarcopenia.
+
+Therapeutic Candidate 14:
+Candidate: GKT137831 (Setanaxib)
+Hypothesis: GKT137831 inhibits NOX4 in aged human myotubes, lowering ROS-mediated oxidative modifications of RyR1 and SERCA, reducing pathological SR Ca²⁺ leak, and restoring both amplitude and kinetics of Ca²⁺ transients.
+Reasoning: NOX4 upregulation in aging promotes redox PTMs on Ca²⁺ channels (Terrell et al., 2023). GKT137831, a clinical-stage NOX1/4 inhibitor, shows efficacy in fibrotic diseases and has human PK and safety data. Mechanistic specificity is via blockade of a validated ROS source. Preclinical fibrosis studies confirm target engagement; application to muscle is novel but founded on strong redox pathophysiology in sarcopenia.
+
+Therapeutic Candidate 15:
+Candidate: KN-93
+Hypothesis: KN-93, a selective CaMKII inhibitor, prevents pathological phosphorylation of RyR1 in aged myotubes, reducing SR Ca²⁺ leak, preserving SR Ca²⁺ stores, and improving the amplitude and consistency of evoked Ca²⁺ transients.
+Reasoning: CaMKII hyperactivity in aging phosphorylates RyR1, increasing leak (Conte et al., 2024). KN-93 has demonstrated efficacy in reducing RyR1 phosphorylation in cardiac models, is cell-permeant, and has established dosing regimens. Its mechanism is precise inhibition of a kinase with direct target validation. Translational feasibility is high given oral availability in preclinical studies and a clear mechanistic link to sarcopenia pathophysiology.
+
+Therapeutic Candidate 16:
+Candidate: Synthetic DWORF peptide (catalog custom synthesis)
+Hypothesis: Exogenous DWORF, a micropeptide that displaces sarcolipin and phospholamban from SERCA in aged myotubes, enhances SERCA Ca²⁺ affinity and reuptake rates, thereby restoring rapid Ca²⁺ transient clearance and reducing cytosolic Ca²⁺ overload.
+Reasoning: DWORF is genetically validated to increase SERCA function in muscle (Xu & Van Remmen, 2021). Synthetic peptide delivery into myotubes recapitulates gene therapy effects without vector risks. Mechanistic specificity is high, targeting regulatory micropeptide–SERCA interfaces. Its novelty lies in peptide-based disinhibition of SERCA as a direct route to correct age-related reuptake deficits.
+
+Therapeutic Candidate 17:
+Candidate: FKBP12.6-mimetic peptide (Peptide sequence FRLCLARK)
+Hypothesis: A designed 10-amino-acid FKBP12.6-mimetic docks onto oxidized RyR1 in aged human myotubes, functionally replacing endogenous FKBP12, reducing leak, and improving amplitude and stability of Ca²⁺ transients.
+Reasoning: FKBP12.6 stabilization of RyR1 is genetically validated in RyR1 leak models. Synthetic mimetic peptides have been shown to bind RyR1 regulatory sites in vitro. A cell-penetrating version can recapitulate Rycal effects with peptide specificity, offering a novel targeted approach to correct RyR1 dysfunction in sarcopenia.
+
+Therapeutic Candidate 18:
+Candidate: DS16570511
+Hypothesis: DS16570511, a small-molecule MCU activator, enhances mitochondrial Ca²⁺ uptake in aged myotubes, rebalancing cytosolic Ca²⁺ transients, improving ATP production, and thereby sustaining contraction and recovery kinetics.
+Reasoning: Impaired ER–mitochondrial Ca²⁺ exchange contributes to sarcopenia (Dong & Maturana, 2025). DS16570511 increases MCU activity in cardiac and neuronal cells, with demonstrated cell penetration and specificity. Developmentally, it is a drug-like small molecule. Mechanistically, it addresses the energy coupling aspect of Ca²⁺ transients, complementing SR-centric strategies for a holistic restoration of muscle function.
+
+Therapeutic Candidate 19:
+Candidate: IA-65 (ORAI1 agonist)
+Hypothesis: IA-65 enhances ORAI1-mediated SOCE in aged human myotubes, accelerating SR store refilling post-contraction, increasing subsequent Ca²⁺ transient amplitude, and improving fatigue resistance.
+Reasoning: SOCE dysfunction in aging limits SR Ca²⁺ replenishment (Terrell et al., 2023). IA-65, identified in high-throughput screens, selectively potentiates ORAI1 currents without activating ORAI2/3. It is a small, cell-permeant activator with favorable in vitro ADME. Mechanistic specificity targets a validated sarcopenia mechanism and offers an innovative channel activation approach.
+
+Therapeutic Candidate 20:
+Candidate: PS Compound 5 (from Luraghi et al., J Med Chem 2022)
+Hypothesis: PS Compound 5, originally optimized for SERCA2a in cardiac muscle, activates SERCA2b in aged skeletal myotubes at nanomolar potency, boosting SR Ca²⁺ uptake rates, decreasing cytosolic Ca²⁺, and restoring Ca²⁺ transient fidelity.
+Reasoning: Luraghi et al. reported PS Compound 5’s high selectivity and safety (LD₅₀ >800 mg/kg oral) with proof of in vivo target engagement in diabetic rats. Its structural scaffold is amenable to skeletal muscle SERCA2b isoform activation. Mechanistic specificity and excellent PK profile underscore its feasibility for repurposing as a sarcopenia therapeutic.
+
+Therapeutic Candidate 21:
+Candidate: Tautomycetin
+Hypothesis: Tautomycetin, a selective protein phosphatase 1 (PP1) inhibitor, sustains dephosphorylated, stable RyR1 and phospholamban in aged myotubes, reducing SR Ca²⁺ leak and enhancing SERCA-mediated reuptake, thereby normalizing Ca²⁺ transient amplitude and clearance.
+Reasoning: Dysregulated PP1 activity in aging alters RyR1/PLN phosphorylation, disrupting Ca²⁺ homeostasis. Tautomycetin’s specificity for PP1 has been proven in muscle cell studies. By preserving balanced phosphorylation states, it offers precise modulation of both leak and reuptake pathways. Its small-molecule nature and existing PK data support development.
+
+Therapeutic Candidate 22:
+Candidate: ML-9
+Hypothesis: ML-9, an aminopyridine inhibitor of STIM1 oligomerization, modulates store-operated Ca²⁺ entry in aged myotubes to prevent aberrant Ca²⁺ overload while ensuring adequate SR replenishment, thereby stabilizing Ca²⁺ transient amplitude and preventing cytotoxic elevations.
+Reasoning: STIM1 overactivation produces pathological Ca²⁺ entry in aged muscle (Lengle et al., 2020). ML-9 prevents STIM1 puncta formation, normalizing SOCE. This addresses remnant Ca²⁺ influx dysregulation, balancing the refill/leak axis. ML-9 has defined cell permeability, known off-target profile, and offers a mechanistically specific approach to SOCE modulation in sarcopenia.
+
+Therapeutic Candidate 23:
+Candidate: Rolipram
+Hypothesis: Rolipram, a PDE4 inhibitor, elevates cAMP in aged myotubes, activating PKA-mediated phosphorylation of phospholamban to relieve its inhibition on SERCA, thereby accelerating Ca²⁺ reuptake and enhancing Ca²⁺ transient kinetics.
+Reasoning: PKA-mediated PLN phosphorylation is a validated route to increase SERCA activity. Rolipram’s oral bioavailability and CNS in vivo data support its ADME. Its action is specific to cAMP elevation and PKA activation, distinct from direct SERCA activators. Preclinical muscle studies show improved relaxation kinetics, indicating translational potential for sarcopenia.
+
+Therapeutic Candidate 24:
+Candidate: Maxadilan
+Hypothesis: Maxadilan, a PAC1 receptor agonist peptide, enhances cAMP/PKA signaling in aged myotubes to promote phospholamban phosphorylation, relieve SERCA inhibition, and boost SR Ca²⁺ uptake, leading to restored Ca²⁺ transient clearance and contractile recovery.
+Reasoning: PACAP/PAC1 signaling in muscle enhances SERCA function via PKA. Maxadilan has prolonged half-life due to structural constraints, and in vitro studies confirm muscle cAMP elevation. Its peptide nature is manageable with subcutaneous delivery. Mechanistic specificity arises from targeted receptor agonism upstream of SERCA regulation, a novel strategy in sarcopenia.
+
+Therapeutic Candidate 25:
+Candidate: SLN inhibitor Compound-X (e.g., salvigenin derivative)
+Hypothesis: Compound-X binds sarcolipin in aged myotubes, preventing its inhibitory interaction with SERCA, thereby elevating SR Ca²⁺ uptake rates, enhancing Ca²⁺ transient amplitude, and improving relaxation kinetics.
+Reasoning: Sarcolipin upregulation in aging antagonizes SERCA. Small-molecule SLN inhibitors have been described to restore SERCA function. Compound-X’s diarylheptanoid scaffold confers selectivity for SLN over PLN, and preclinical data show restoration of SR Ca²⁺ handling in muscle cells. This represents a novel regulatory disinhibition approach to correct age-related reuptake deficits.
+
+Therapeutic Candidate 26:
+Candidate: AVE-0991
+Hypothesis: AVE-0991, a non-peptide Mas receptor agonist, activates the ACE2/Ang-(1-7)/Mas axis in aged myotubes, reducing oxidative stress, preserving RyR1 conformation, lowering SR Ca²⁺ leak, and improving Ca²⁺ transient amplitude and fatigue resistance.
+Reasoning: The Ang-(1-7)/Mas pathway counters ROS and NF-κB activation in muscle. AVE-0991 has oral bioavailability and rodent PK data. Its mechanism is receptor-mediated redox reduction, specifically preserving Ca²⁺ channel integrity. Preclinical aging models show improved muscle strength, supporting translational feasibility in sarcopenia.
+
+Therapeutic Candidate 27:
+Candidate: Infliximab
+Hypothesis: Infliximab, an anti-TNF-α monoclonal antibody, neutralizes chronic low-grade TNF-α in aged muscle, preventing cytokine-induced NF-κB activation, reducing CaMKII/NF-κB-mediated RyR1 and SERCA dysregulation, and normalizing Ca²⁺ transient amplitude and kinetics.
+Reasoning: Elevated TNF-α in sarcopenia impairs Ca²⁺ channels via kinase cascades (Terrell et al., 2023). Infliximab has established human PK, safety, and muscle penetration in inflammatory myopathies. It directly addresses inflammatory drivers of Ca²⁺ dysfunction, offering a validated, albeit repurposed, biological approach to restore excitation–contraction coupling.
+
+Therapeutic Candidate 28:
+Candidate: Tocilizumab
+Hypothesis: Tocilizumab, an anti-IL-6R antibody, blocks IL-6-mediated JAK/STAT signaling in aged myotubes, reducing STAT3/CaMKII cross-talk that impairs RyR1 gating and SERCA expression, thereby enhancing Ca²⁺ transient stability and contractile function.
+Reasoning: IL-6 drives chronic inflammation and kinase-mediated Ca²⁺ channel modulation in aging (Graníc et al., 2023). Tocilizumab is well-characterized in humans with known muscle distribution. By targeting IL-6R, it upstream prevents Ca²⁺ channel dysregulation, offering a mechanistically validated anti-inflammatory strategy distinct from direct channel modulators.
+
+Therapeutic Candidate 29:
+Candidate: Rosiglitazone
+Hypothesis: Rosiglitazone, a PPARγ agonist, enhances mitochondrial biogenesis and reduces ROS in aged myotubes, preventing oxidative PTMs on RyR1 and SERCA, restoring proper channel gating, and normalizing Ca²⁺ transient amplitude and kinetics.
+Reasoning: PPARγ activation improves metabolic health and reduces ROS in muscle. Rosiglitazone’s human PK, tissue distribution, and safety are documented. Mechanistically, it indirectly preserves Ca²⁺ handling via mitochondrial protection and antioxidant gene induction. Its novelty resides in metabolic reprogramming to rescue Ca²⁺ homeostasis in sarcopenia.
+
+Therapeutic Candidate 30:
+Candidate: Elamipretide (SS-31)
+Hypothesis: Elamipretide, a mitochondria-targeted tetrapeptide, preserves mitochondrial membrane integrity and MAM contacts in aged myotubes, improving mitochondrial Ca²⁺ uptake and reducing cytosolic Ca²⁺ overload, thereby enhancing Ca²⁺ transient amplitude, kinetics, and fatigue resistance.
+Reasoning: Mitochondrial dysfunction contributes to Ca²⁺ dysregulation in sarcopenia (Michelucci et al., 2021). SS-31 has passed Phase II trials in mitochondrial myopathies, with known PK and muscle uptake. It specifically binds cardiolipin, preventing ROS and preserving Ca²⁺ exchange sites. This organelle-centric Ca²⁺ approach is both novel and grounded in translational evidence.

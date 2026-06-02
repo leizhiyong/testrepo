@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Satellite cell proliferation assay
+Reasoning: Quantify drug effects on aged human primary myoblast expansion by measuring Pax7+ cell counts and Ki67 incorporation. Satellite cell dysfunction is a key driver of sarcopenia (Aversa et al. 2019), and rapid immunofluorescence readouts of proliferation versus senescence markers (p16, p21) enable high‐throughput screening of compounds that restore regenerative capacity.
+
+Assay Candidate 2:
+Strategy: Myotube diameter rescue assay
+Reasoning: Induce atrophy in differentiated C2C12 myotubes with dexamethasone (40% diameter loss) and assess candidate drug rescue by automated high‐content imaging of myosin heavy chain–stained myotube thickness. This direct morphometric endpoint correlates with muscle wasting in vivo and offers a simple, fast readout (Allen et al. 2022).
+
+Assay Candidate 3:
+Strategy: Protein synthesis (SUnSET) assay
+Reasoning: Measure translational recovery by puromycin incorporation into nascent peptides in C2C12 or primary myotubes treated with test compounds. The SUnSET method provides a nonradioactive, quantifiable readout of mTOR‐dependent protein synthesis, addressing anabolic resistance central to sarcopenia (Gheller 2020).
+
+Assay Candidate 4:
+Strategy: Ubiquitin ligase reporter assay
+Reasoning: Use a luciferase reporter under control of the MuRF1 or Atrogin-1 promoter in myotubes to screen for inhibitors of UPS‐mediated proteolysis. Fast luminescence readout directly reflects E3 ligase transcription, a hallmark of muscle atrophy (LeBrasseur et al. 2019).
+
+Assay Candidate 5:
+Strategy: Autophagy flux assay
+Reasoning: Employ tandem GFP-mCherry-LC3 expression in C2C12 myotubes to monitor autophagosome maturation and lysosomal clearance upon drug treatment. Restoration of autophagy flux is critical for proteostasis in aging muscle (Xia et al. 2021), and ratiometric fluorescence allows rapid, single‐cell quantification.
+
+Assay Candidate 6:
+Strategy: Mitochondrial respiration assay
+Reasoning: Use Seahorse extracellular flux analysis in differentiated myotubes to measure basal and maximal OCR after treatment. Mitochondrial dysfunction contributes to sarcopenia (Canfora et al. 2022), and real‐time respiration metrics provide direct functional assessment of bioenergetic improvement.
+
+Assay Candidate 7:
+Strategy: ROS quantification assay
+Reasoning: Quantify intracellular reactive oxygen species in myotubes using DCFDA fluorescence following oxidative stress challenge and drug treatment. Elevated ROS drives muscle degeneration in aging (Gorza et al. 2021), and plate‐reader fluorescence offers a rapid, scalable oxidative stress endpoint.
+
+Assay Candidate 8:
+Strategy: Calcium transient assay
+Reasoning: Monitor excitation–contraction coupling in electrically stimulated C2C12 or iPSC‐derived myotubes using Fluo-4 AM live‐cell imaging. Calcium flux amplitude and kinetics are direct functional indicators of contractile health, enabling rapid screening of compounds that restore calcium handling in sarcopenic muscle (Wang et al. 2025).
+
+Assay Candidate 9:
+Strategy: Neuromuscular junction co‐culture assay
+Reasoning: Co‐culture C2C12 myotubes with motor neuron spheroids and quantify α-bungarotoxin–labeled AChR cluster formation and synaptic connectivity by automated imaging. NMJ degeneration is central to sarcopenia (Sorge et al. 2021), and this assay directly measures synapse integrity and functional rescue.
+
+Assay Candidate 10:
+Strategy: Inflammatory signaling inhibition assay
+Reasoning: Treat myotubes with TNF-α or IL-6 to activate NF-κB/STAT3 pathways and measure phospho‐p65 or phospho‐STAT3 by high‐content immunofluorescence. Screening for compounds that attenuate cytokine‐induced signaling offers a rapid, biologically relevant approach to counteract inflammaging in sarcopenia (Rao et al. 2022).

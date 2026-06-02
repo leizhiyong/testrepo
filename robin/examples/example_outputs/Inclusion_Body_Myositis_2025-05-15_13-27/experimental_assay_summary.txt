@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Beta-secretase activity assay
+Reasoning: Quantifying BACE-mediated APP cleavage in human myotubes under IFN-γ and IL-1β stimulation provides a rapid fluorescent readout of amyloidogenic processing. This assay directly measures Aβ42 production via a fluorogenic BACE substrate and can evaluate inhibitors in a proinflammatory context (guglielmi2024sporadicinclusionbody; needham2017advancesininclusion).
+
+Assay Candidate 2:
+Strategy: Phospho-tau quantification assay
+Reasoning: An AlphaLISA or ELISA targeting phosphorylated tau epitopes (e.g., p-Ser202/Thr205) in cytokine-treated muscle cells delivers a sensitive, plate-based measurement of pathological tau phosphorylation. Small-molecule modulators of GSK-3β or CDK5 can be screened for their ability to reduce hyperphosphorylation (gonzalezchapa2023theemergingrole; guglielmi2024sporadicinclusionbody).
+
+Assay Candidate 3:
+Strategy: TDP-43 localization reporter assay
+Reasoning: Expressing a GFP-TDP-43 fusion in differentiating myotubes and quantifying nuclear versus cytoplasmic fluorescence by automated imaging yields a fast, direct measure of TDP-43 mislocalization under inflammatory stress. Compounds that restore nuclear retention can be identified in a 96-well format (mccord2023investigatingtheinfluence; needham2017advancesininclusion).
+
+Assay Candidate 4:
+Strategy: Mitochondrial membrane potential assay
+Reasoning: TMRE or JC-1 staining in human skeletal muscle cells treated with proinflammatory cytokines provides a live-cell fluorescent readout of Δψm. Screening mitochondrial protective agents reveals rapid effects on bioenergetic health and ROS production (gonzalezchapa2023theemergingrole; mcleish2024exploringtheassociation).
+
+Assay Candidate 5:
+Strategy: UPR reporter assay
+Reasoning: An XBP1-luciferase or CHOP-GFP reporter stably integrated into myoblasts offers a quantifiable luminescent/fluorescent readout of ER stress activation upon proteostatic challenge. This enables rapid screening of chemical chaperones or UPR modulators in a high-throughput format (needham2017advancesininclusion; spicer2018investigatingtheeffects).
+
+Assay Candidate 6:
+Strategy: Myotube contractility assay
+Reasoning: Applying electrical field stimulation to iPSC-derived myotubes cultured on flexible substrates combined with video-based analysis quantifies contraction amplitude and frequency. This physiologically relevant functional endpoint accelerates identification of drugs that restore contractile deficits seen in IBM models (zschuntzsch2022theevolutionof; zschuntzsch2022theevolutionof).
+
+Assay Candidate 7:
+Strategy: Immune co-culture apoptosis assay
+Reasoning: Co-culturing primary human myotubes with autologous CD8+ T cells under IFN-γ/TNF-α exposure, followed by high-content imaging of cleaved caspase-3 or TUNEL, quantifies muscle cell death driven by cytotoxic infiltration. This mechanistic assay tests immunomodulators that interrupt the T-cell–myotube cytotoxic axis (kamiya2023musclefibernecroptosis; mccord2023investigatingtheinfluence).
+
+Assay Candidate 8:
+Strategy: Autophagic flux imaging assay
+Reasoning: GFP-LC3 cleavage and puncta formation quantified by live-cell imaging in the presence and absence of bafilomycin A1 directly assess autophagic dynamics in myotubes under proteostatic stress. Screening autophagy inducers or lysosomal enhancers yields rapid, multiparametric flux data (spicer2018investigatingtheeffects; bhattarai2017functionalroleof).
+
+Assay Candidate 9:
+Strategy: Proteasome catalytic activity assay
+Reasoning: Measuring chymotrypsin-like, trypsin-like, and caspase-like activities in cell lysates using fluorogenic peptides provides a direct enzymatic readout of UPS function in muscle cells stressed by protein aggregates. This plate-based assay rapidly identifies modulators of proteasome efficiency (bhattarai2017functionalroleof; overa2019trim32butnot).
+
+Assay Candidate 10:
+Strategy: High-content aggregate quantification
+Reasoning: Automated immunofluorescence for amyloid-β oligomers, phospho-tau, and TDP-43 in differentiating myoblasts with image segmentation (e.g., AggreCount) enables multiparametric analysis of aggregate number, size, and distribution. This scalable assay assesses proteostasis modulators in a disease-relevant model (forveille2021highthroughputscreening; klickstein2020aggrecountanunbiaseda).

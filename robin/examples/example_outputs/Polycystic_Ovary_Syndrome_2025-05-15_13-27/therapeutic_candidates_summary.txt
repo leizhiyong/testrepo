@@ -1,0 +1,144 @@
+Therapeutic Candidate 1:
+Candidate: A-769662 (Sigma-Aldrich catalog #SML0035)
+Hypothesis: Direct allosteric activation of AMPK by A-769662 in PCOS-derived granulosa cells will restore suppressed AMPK activity, leading to enhanced PI3K/Akt phosphorylation, increased GLUT4 translocation, and improved insulin-stimulated glucose uptake, thereby reversing ovarian insulin resistance.
+Reasoning: AMPK hypoactivity is a hallmark of PCOS granulosa cells, contributing to impaired insulin signaling. A-769662 is a well-validated small molecule that selectively activates AMPKβ1-containing heterotrimers (Cool et al., 2006), with demonstrated efficacy in rodent insulin resistance models. Preclinical data indicate A-769662 restores downstream Akt phosphorylation and glucose uptake in muscle and hepatic cells. Its cell permeability and favorable pharmacokinetic properties support translational feasibility. Mechanistically, direct binding to the AMPK β-subunit avoids upstream kinase dependence, ensuring specificity. Use in ovarian cell assays represents a novel application, with potential to validate AMPK as a therapeutic target in PCOS. Development pathways can leverage existing safety and ADME data from metabolic studies, accelerating repurposing into PCOS-focused trials.
+
+Therapeutic Candidate 2:
+Candidate: SRT1720 (Cayman Chemical catalog #10009164)
+Hypothesis: SRT1720-mediated activation of SIRT1 in PCOS-derived theca cells will deacetylate and activate LKB1, amplify AMPK signaling, reduce IRS-1 serine phosphorylation, and enhance insulin receptor downstream PI3K/Akt-dependent glucose uptake.
+Reasoning: SIRT1 downregulation contributes to insulin resistance in PCOS. SRT1720 is a potent, cell-permeable SIRT1 activator with confirmed in vivo efficacy in metabolic disease models, improving insulin sensitivity and reducing systemic inflammation (Milne et al., 2007). In ovarian contexts, SIRT1 activation deacetylates LKB1, promoting AMPK activation, which inhibits serine kinases (e.g., JNK) responsible for IRS-1 inhibition. Preclinical studies in adipocytes and hepatocytes support improved PI3K/Akt signaling and GLUT4 translocation. SRT1720’s documented pharmacodynamics and ADME profile facilitate rapid progression to ovarian cell assays, offering mechanistic specificity by targeting the SIRT1/LKB1/AMPK axis, a novel approach in PCOS therapy.
+
+Therapeutic Candidate 3:
+Candidate: Everolimus (Novartis; FDA-approved mTOR inhibitor)
+Hypothesis: Everolimus will inhibit hyperactive mTORC1 in PCOS granulosa cells, relieving negative feedback on insulin receptor substrates, restoring PI3K/Akt signaling, and promoting GLUT4 translocation to correct insulin resistance.
+Reasoning: mTORC1 overactivation in PCOS ovarian cells contributes to aberrant insulin signaling and follicular arrest. Everolimus binds FKBP12 to block mTORC1 kinase activity, a mechanism validated in preclinical PCOS rodent models showing improved ovarian insulin sensitivity and normalized folliculogenesis. Clinical data on everolimus demonstrate well-characterized PK/PD and safety profiles in transplant and oncology patients. Mechanistic specificity to mTORC1 offers targeted restoration of insulin receptor cascades by reducing p70S6K-mediated IRS-1 serine phosphorylation. Given its developmental feasibility and repurposing potential, everolimus represents a novel intervention to rebalance ovarian insulin signaling in PCOS.
+
+Therapeutic Candidate 4:
+Candidate: Trodusquemine (MSI-1436; Tocris Bioscience catalog #5993)
+Hypothesis: Trodusquemine will selectively inhibit PTP1B in PCOS-derived granulosa cells, enhancing insulin receptor phosphorylation, boosting downstream PI3K/Akt signaling, and increasing GLUT4-mediated glucose uptake to alleviate ovarian insulin resistance.
+Reasoning: PTP1B is a validated negative regulator of insulin receptor signaling, with elevated activity in insulin-resistant tissues. Trodusquemine is a naturally derived, selective allosteric PTP1B inhibitor that improves insulin sensitivity in diabetic rodent models without off-target effects. Preclinical safety and ADME data support its translational potential. Mechanistic specificity ensures amplification of insulin receptor tyrosine phosphorylation and downstream metabolic functions. Applying trodusquemine to PCOS ovarian cell assays addresses a critical gap in target validation and offers a high-value, novel approach to restore ovarian insulin sensitivity.
+
+Therapeutic Candidate 5:
+Candidate: AdipoRon (Enzo Life Sciences catalog #BML-SA298)
+Hypothesis: Activation of adiponectin receptors AdipoR1/AdipoR2 by AdipoRon in PCOS granulosa cells will trigger AMPK and PPARα pathways, suppress inflammatory JNK/IKK signaling, and enhance PI3K/Akt-mediated insulin signaling and glucose uptake.
+Reasoning: Reduced circulating adiponectin and receptor activity are implicated in PCOS insulin resistance. AdipoRon is a small molecule agonist of AdipoR1/2 that replicates adiponectin’s insulin-sensitizing effects in skeletal muscle and hepatic cells via AMPK and PPARα activation. In vivo studies demonstrate improved glucose homeostasis and anti-inflammatory benefits. Mechanistic specificity to adiponectin receptors provides a direct route to enhance AMPK-PI3K/Akt crosstalk in ovarian cells. Known oral bioavailability and safety in rodent models support rapid development for PCOS applications.
+
+Therapeutic Candidate 6:
+Candidate: SC79 (Sigma-Aldrich catalog #S7944)
+Hypothesis: SC79 will allosterically activate Akt in PCOS-derived theca cells, bypassing upstream insulin receptor defects, inducing robust Akt phosphorylation, promoting GLUT4 translocation, and improving insulin-stimulated glucose uptake.
+Reasoning: In PCOS, defective IRS-1 and PI3K activation blunt Akt signaling. SC79 is a small molecule that directly binds Akt’s PH-domain, inducing membrane translocation and activation, as shown in cardiomyocytes and neuronal cells. Preclinical data indicate SC79 rescues insulin signaling downstream of PI3K. Its specificity for Akt isoforms and cell-permeability make it an attractive tool to test Akt activation as a primary therapeutic strategy in ovarian cells. Developmental feasibility is underscored by existing in vivo safety studies.
+
+Therapeutic Candidate 7:
+Candidate: INT131 (Ligand Pharmaceuticals; PPARγ partial agonist)
+Hypothesis: INT131 will selectively modulate PPARγ in PCOS granulosa cells, upregulating adiponectin and GLUT4 expression, reducing IRS-1 serine phosphorylation, and improving cellular insulin sensitivity without fluid retention or weight gain.
+Reasoning: Full PPARγ agonists (TZDs) improve PCOS insulin resistance but cause adverse effects. INT131 is a non-TZD selective PPARγ modulator showing insulin-sensitizing efficacy in T2DM with minimal side effects. Preclinical models demonstrate improved PI3K/Akt signaling and glucose uptake. The compound's favorable PK/PD and phase II clinical data support its translational feasibility. Mechanistic specificity to PPARγ avoids off-target nuclear receptor activation. Testing in ovarian cell models targets PPARγ-driven transcriptional programs relevant to PCOS pathology.
+
+Therapeutic Candidate 8:
+Candidate: MSDC-0602K (Cirius Therapeutics; PPARγ modulating MPC inhibitor)
+Hypothesis: MSDC-0602K will inhibit the mitochondrial pyruvate carrier in PCOS theca cells, increasing cytosolic redox states, activating AMPK, and enhancing insulin receptor downstream PI3K/Akt signaling to restore glucose uptake.
+Reasoning: MSDC-0602K is a PPARγ-sparing thiazolidinedione analog that targets the mitochondrial pyruvate carrier (MPC), leading to AMPK activation and improved insulin sensitivity in T2DM clinical studies. Its mechanism circumvents PPARγ full agonism to reduce fluid retention. Preclinical rodent data confirm restoration of insulin signaling and reduced lipotoxicity. Application to ovarian cell models provides a novel approach to correct energy substrate flux and re‐engage insulin receptor pathways. Known clinical-stage pharmacokinetics and safety profile expedite repurposing.
+
+Therapeutic Candidate 9:
+Candidate: GW501516 (Sigma-Aldrich catalog #SML001)
+Hypothesis: GW501516 activation of PPARδ in PCOS granulosa cells will promote fatty acid oxidation, reduce intracellular lipid accumulation, relieve ER stress, and enhance insulin receptor/PI3K/Akt-mediated glucose uptake.
+Reasoning: PPARδ activation enhances mitochondrial fatty acid oxidation and improves systemic insulin sensitivity. GW501516 is a selective PPARδ agonist shown to increase AMPK activity and reduce inflammatory cytokine signaling in muscle and liver. Mechanistically, improved lipid handling reduces ER stress and JNK activation, which normally provoke IRS-1 serine phosphorylation. Preclinical efficacy in rodent metabolic models and established PK data support translational use in PCOS to correct ovarian insulin resistance via a novel metabolic route.
+
+Therapeutic Candidate 10:
+Candidate: Sitagliptin (Merck; DPP-4 inhibitor)
+Hypothesis: Sitagliptin will elevate endogenous GLP-1 levels in PCOS patients, enhancing insulin sensitivity in ovarian granulosa cells via cAMP/PKA‐dependent amplification of PI3K/Akt signaling and reduction of inflammatory NFκB activity.
+Reasoning: GLP-1 has been shown to improve insulin signaling in ovarian cells by increasing cAMP and PKA, which cross-talks with PI3K/Akt. Sitagliptin is an oral, selective DPP-4 inhibitor proven to increase GLP-1 half-life and improve insulin sensitivity in metabolic disease. Clinical safety and PK profiles are well-established. Mechanistically, it offers an indirect yet specific strategy to modulate ovarian insulin pathways, validated in rodent PCOS models showing improved ovarian function and glucose uptake.
+
+Therapeutic Candidate 11:
+Candidate: Empagliflozin (Boehringer Ingelheim; SGLT2 inhibitor)
+Hypothesis: Empagliflozin-induced glycosuria will reduce systemic hyperinsulinemia in PCOS patients, lowering insulin‐driven ovarian androgen production and indirectly alleviating insulin receptor desensitization in granulosa cells, thereby improving ovarian glucose uptake.
+Reasoning: Systemic hyperinsulinemia exacerbates ovarian insulin resistance. Empagliflozin reduces plasma insulin demand by lowering glycemia via SGLT2 inhibition. Clinical trials in T2DM and PCOS demonstrate weight reduction, decreased insulin levels, and improved HOMA-IR. This indirect strategy targets the systemic contributor to ovarian insulin resistance. Well-defined PK/PD and safety in women support translational application to evaluate ovarian cell insulin signaling restoration.
+
+Therapeutic Candidate 12:
+Candidate: MCC950 (Sigma-Aldrich catalog #SML0952)
+Hypothesis: MCC950 inhibition of the NLRP3 inflammasome in PCOS granulosa cells will reduce IL-1β/IL-18 secretion, lower JNK-mediated IRS-1 serine phosphorylation, and restore insulin receptor/PI3K/Akt signaling and GLUT4 translocation.
+Reasoning: Chronic inflammasome activation drives ovarian insulin resistance via pro-inflammatory cytokines. MCC950 is a potent, selective NLRP3 inhibitor with in vivo efficacy in inflammatory disease models. Preclinical safety and PK data exist. By targeting a well-validated upstream inflammatory node, MCC950 offers a mechanistic, specific approach to restore insulin signaling in ovarian cells, with novelty in PCOS applications.
+
+Therapeutic Candidate 13:
+Candidate: SP600125 (Sigma-Aldrich catalog #S5567)
+Hypothesis: SP600125 will inhibit JNK in PCOS theca cells, preventing IRS-1 serine phosphorylation, thereby restoring tyrosine phosphorylation of IRS-1, improving PI3K/Akt activation, and enhancing insulin-stimulated glucose uptake.
+Reasoning: JNK-driven IRS-1 serine phosphorylation is a core mechanism of ovarian insulin resistance. SP600125 is a reversible ATP-competitive JNK inhibitor with demonstrated restoration of insulin signaling in adipocytes and hepatocytes. It exhibits cell permeability and a characterized safety profile in rodent studies. Targeting JNK provides direct mechanistic specificity to relieve a validated molecular block in PCOS theca cell insulin pathways.
+
+Therapeutic Candidate 14:
+Candidate: 4-Phenylbutyric acid (4-PBA; Sigma-Aldrich catalog #P21005)
+Hypothesis: Chemical chaperone 4-PBA will reduce ER stress in PCOS granulosa cells, decreasing PERK/eIF2α-mediated JNK activation, lowering IRS-1 serine phosphorylation, and restoring insulin receptor/PI3K/Akt signaling for improved glucose uptake.
+Reasoning: ER stress contributes to insulin resistance via UPR-driven JNK activation. 4-PBA is an FDA-approved chemical chaperone that alleviates ER stress in multiple cell types, improving insulin sensitivity in obese rodent models. Well-characterized ADME and safety profiles support feasibility. Mechanistically, 4-PBA targets ER folding capacity to indirectly restore ovarian insulin signaling, representing a novel therapeutic angle in PCOS.
+
+Therapeutic Candidate 15:
+Candidate: Anakinra (Kineret; IL-1 receptor antagonist)
+Hypothesis: Anakinra blockade of IL-1 signaling in PCOS ovarian tissues will reduce inflammatory kinase activation (JNK, IKK), decrease IRS-1 serine phosphorylation, and enhance insulin receptor/PI3K/Akt-driven glucose uptake in granulosa and theca cells.
+Reasoning: IL-1β is elevated in PCOS follicular fluid and drives ovarian insulin resistance. Anakinra is a recombinant human IL-1Ra with proven efficacy in inflammatory and autoinflammatory diseases and well-known PK and safety. Blocking IL-1 receptor interrupts a validated inflammatory axis leading to improved insulin sensitivity. Application to PCOS ovarian cell cultures constitutes a novel repurposing strategy targeting inflammation-mediated insulin resistance.
+
+Therapeutic Candidate 16:
+Candidate: Roflumilast (Novartis; PDE4 inhibitor)
+Hypothesis: Roflumilast-mediated PDE4 inhibition in PCOS granulosa cells will elevate cAMP, activate PKA, reduce NFκB and JNK inflammatory signaling, and potentiate insulin receptor/PI3K/Akt pathway to increase GLUT4 translocation and glucose uptake.
+Reasoning: Chronic inflammation in PCOS impairs insulin signaling via NFκB/JNK. PDE4 inhibitors raise intracellular cAMP to counteract inflammatory pathways. Roflumilast is an oral, potent, selective PDE4 inhibitor with robust safety and PK data in COPD. Preclinical rodent studies demonstrate improved insulin sensitivity. Its mechanistic specificity for cAMP-mediated anti-inflammatory effects offers a novel route to restore ovarian insulin signaling.
+
+Therapeutic Candidate 17:
+Candidate: Cilostazol (Otsuka Pharmaceutical; PDE3 inhibitor)
+Hypothesis: Cilostazol inhibition of PDE3 in PCOS theca cells will increase cAMP levels, reduce inflammatory kinase activation, and enhance insulin receptor downstream PI3K/Akt signaling and glucose uptake.
+Reasoning: cAMP elevation via PDE3 inhibition exerts anti-inflammatory and insulin-sensitizing effects. Cilostazol is an FDA-approved PDE3 inhibitor for intermittent claudication with characterized PK, safety, and phosphodiesterase specificity. Preclinical studies show improved insulin action in vascular and adipose tissues. Mechanistic targeting of cAMP-driven pathways offers a novel intervention to counteract ovarian insulin resistance.
+
+Therapeutic Candidate 18:
+Candidate: Obeticholic acid (Intercept Pharmaceuticals; FXR agonist)
+Hypothesis: Obeticholic acid activation of farnesoid X receptor in PCOS granulosa cells will modulate lipid and glucose metabolism genes (e.g., SHP, PEPCK), reduce lipotoxicity-driven ER stress, and enhance insulin receptor/PI3K/Akt signaling to improve glucose uptake.
+Reasoning: FXR regulates bile acid homeostasis, lipid metabolism, and insulin sensitivity. Obeticholic acid is a semi-synthetic bile acid agonist with phase II/III safety, PK, and PD data. Activation of FXR reduces intra‐cellular lipid accumulation and inflammation, known contributors to ovarian insulin resistance. Mechanistic specificity via nuclear receptor modulation offers a novel metabolic approach to restore insulin signaling in PCOS ovarian cells.
+
+Therapeutic Candidate 19:
+Candidate: Pterostilbene (Sigma-Aldrich catalog #SML1275)
+Hypothesis: Pterostilbene activation of SIRT1 and AMPK in PCOS granulosa cells will lower inflammatory NFκB and JNK activity, decrease IRS-1 serine phosphorylation, and enhance PI3K/Akt-dependent GLUT4 translocation and glucose uptake.
+Reasoning: Pterostilbene is a bioavailable polyphenol that activates SIRT1/AMPK, with demonstrated insulin-sensitizing and anti-inflammatory effects in metabolic disease models. Oral bioavailability and safety have been documented in humans. Mechanistic specificity to energy sensor pathways positions pterostilbene as a novel nutraceutical strategy to correct ovarian insulin resistance. Preclinical data support modulation of key molecular drivers in PCOS pathology.
+
+Therapeutic Candidate 20:
+Candidate: Dihydroberberine (Sigma-Aldrich catalog #D9879)
+Hypothesis: Dihydroberberine will enhance AMPK activation and increase GLUT4 translocation in PCOS granulosa cells, improving PI3K/Akt signaling and insulin-mediated glucose uptake more potently than berberine.
+Reasoning: Dihydroberberine is a reduced derivative of berberine with superior oral bioavailability and AMPK activation potency. Berberine analogs improve insulin sensitivity via AMPK-PI3K/Akt pathways in animal PCOS models. Dihydroberberine’s improved PK profile and safety in rodent studies support translational feasibility. Specific activation of AMPK and downstream insulin signaling renders it a mechanistically precise candidate for ovarian insulin sensitization.
+
+Therapeutic Candidate 21:
+Candidate: Dapagliflozin (AstraZeneca; SGLT2 inhibitor)
+Hypothesis: Dapagliflozin-induced reduction in systemic hyperinsulinemia in PCOS patients will decrease insulin-driven androgen production in theca cells and indirectly restore insulin receptor sensitivity and PI3K/Akt-mediated glucose uptake in granulosa cells.
+Reasoning: Similar to empagliflozin, dapagliflozin lowers glycemia via renal SGLT2 inhibition, reducing compensatory hyperinsulinemia. Clinical data in PCOS show weight loss, improved HOMA-IR, and reduced androgen levels. Its well‐defined safety and PK in women support repurposing. Mechanistically, reducing systemic insulin demand addresses a primary driver of ovarian insulin resistance, offering an indirect yet specific approach.
+
+Therapeutic Candidate 22:
+Candidate: N-Acetylcysteine (NAC; Sigma-Aldrich catalog #A7250)
+Hypothesis: NAC antioxidant activity in PCOS granulosa cells will lower ROS-driven activation of JNK and IKK pathways, decrease IRS-1 serine phosphorylation, and restore PI3K/Akt-dependent GLUT4 translocation and glucose uptake.
+Reasoning: Oxidative stress contributes to ovarian insulin resistance. NAC replenishes glutathione and scavenges ROS, attenuating stress kinases that impair insulin signaling. Clinical studies in PCOS demonstrate improved insulin sensitivity and ovulatory function. NAC’s excellent safety, oral bioavailability, and low cost support rapid clinical translation. Mechanistic specificity to redox pathways addresses a validated PCOS pathology component.
+
+Therapeutic Candidate 23:
+Candidate: Salubrinal (Sigma-Aldrich catalog #SML0343)
+Hypothesis: Salubrinal inhibition of eIF2α phosphatase in PCOS granulosa cells will sustain adaptive UPR, reduce ER stress-induced JNK activation, and enhance insulin receptor/PI3K/Akt signaling and glucose uptake.
+Reasoning: ER stress and UPR dysregulation in PCOS ovarian cells impair insulin signaling via stress kinases. Salubrinal selectively inhibits eIF2α dephosphorylation, promoting cell survival and reducing pro-apoptotic stress. Preclinical data show improved insulin sensitivity in hepatic and neuronal cells. Favorable in vitro potency and specificity justify testing in ovarian cell models, representing a novel mechanism to restore insulin responsiveness.
+
+Therapeutic Candidate 24:
+Candidate: Bardoxolone methyl (Reata Pharmaceuticals; Nrf2 activator)
+Hypothesis: Bardoxolone methyl activation of Nrf2 in PCOS granulosa cells will upregulate antioxidant and detoxification genes, suppress ROS/JNK signaling, lower IRS-1 serine phosphorylation, and restore PI3K/Akt-mediated glucose uptake.
+Reasoning: Oxidative stress is pivotal in PCOS insulin resistance. Bardoxolone methyl, a potent Nrf2 inducer, improves insulin sensitivity and renal function in clinical trials. Mechanistic specificity to Nrf2 drives antioxidant defense, mitigating inflammatory kinase activation. Known human PK/PD and safety data expedite repurposing. Application to ovarian cells targets redox-driven insulin resistance via a novel transcriptional route.
+
+Therapeutic Candidate 25:
+Candidate: BGP-15 (N-desmethyltacrolimus; Active Biochem catalog #A-3010)
+Hypothesis: BGP-15 will induce Hsp72 in PCOS ovarian cells, enhancing insulin receptor stability, reducing JNK activation, and improving PI3K/Akt-driven GLUT4 translocation and glucose uptake.
+Reasoning: BGP-15 is a small molecule that upregulates Hsp72, protecting insulin receptor substrates from stress-induced degradation and reducing inflammatory kinase activation. Preclinical rodent studies demonstrate improved insulin sensitivity and ovarian function. Clinical phase II data in humans establish safety and PK. Mechanistic specificity to heat shock response provides a novel chaperone-based strategy to correct ovarian insulin resistance.
+
+Therapeutic Candidate 26:
+Candidate: Pyrvinium pamoate (Sigma-Aldrich catalog #P0022)
+Hypothesis: Pyrvinium pamoate will inhibit mitochondrial complex I in PCOS granulosa cells, mimic caloric restriction signals, activate AMPK, suppress mTOR, and restore insulin receptor/PI3K/Akt signaling for enhanced glucose uptake.
+Reasoning: Low-dose mitochondrial inhibition can activate AMPK leading to improved insulin sensitivity. Pyrvinium pamoate is a FDA-approved anthelmintic with established complex I inhibition and in vivo safety. It has shown metabolic benefits in rodent obesity models. Mechanistic specificity to energy sensing via mitochondrial modulation offers an unconventional but validated approach to reengage ovarian insulin signaling.
+
+Therapeutic Candidate 27:
+Candidate: Celastrol (Sigma-Aldrich catalog #C0869)
+Hypothesis: Celastrol activation of HSF1 and suppression of NFκB in PCOS theca cells will reduce inflammatory cytokine production, lower JNK-mediated IRS-1 serine phosphorylation, and enhance PI3K/Akt-mediated GLUT4 translocation and glucose uptake.
+Reasoning: Celastrol is a triterpenoid that modulates heat shock and inflammatory pathways, improving insulin sensitivity in obese rodent models. Its dual action on HSF1 and NFκB provides mechanistic specificity, attenuating inflammation and promoting proteostasis. Pharmacokinetics and toxicity have been characterized in animal studies. Application to ovarian cells represents a novel anti-inflammatory insulin sensitization strategy for PCOS.
+
+Therapeutic Candidate 28:
+Candidate: MK-4007 (MedKoo Biosciences catalog #345998)
+Hypothesis: MK-4007, a small molecule PTP1B inhibitor, will enhance insulin receptor phosphorylation in PCOS granulosa cells, augment PI3K/Akt pathway activation, and increase GLUT4-dependent glucose uptake.
+Reasoning: MK-4007 is a potent competitive PTP1B inhibitor optimized for cell permeability and oral bioavailability, with preclinical efficacy in diabetic rodent models. By directly targeting the phosphatase that dephosphorylates the insulin receptor, MK-4007 restores tyrosine phosphorylation and downstream signaling. Known PK/PD and safety data support translational feasibility. Application to PCOS cells addresses a specific molecular defect in ovarian insulin resistance.
+
+Therapeutic Candidate 29:
+Candidate: TDZD-8 (4-benzyl-2-thiozolyl-5-thiazolidinone; Sigma-Aldrich catalog #597072)
+Hypothesis: TDZD-8 inhibition of GSK3β in PCOS granulosa cells will prevent GSK3β-mediated IRS-1 serine phosphorylation, stabilize β-catenin, enhance insulin receptor/PI3K/Akt signaling, and promote GLUT4 translocation for improved glucose uptake.
+Reasoning: Overactive GSK3β contributes to IRS-1 dysregulation and impaired insulin signaling. TDZD-8 is a selective, non-ATP competitive GSK3β inhibitor with demonstrated enhancement of insulin sensitivity in cell and rodent models. Its specificity for GSK3β avoids off-target kinases. Preclinical PK and safety data exist. Targeting GSK3β in ovarian cells offers a novel route to reestablish insulin receptor signaling and correct metabolic dysfunction in PCOS.

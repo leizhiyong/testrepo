@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: Galunisertib (LY2157299, Selleckchem S2673)
+Hypothesis: Galunisertib, a selective small‐molecule inhibitor of TGF-β receptor I kinase, will mitigate IPF by blocking TGF-β1‐induced SMAD2/3 phosphorylation in lung fibroblasts, preventing αSMA upregulation, myofibroblast differentiation, and 3D collagen gel contraction.
+Reasoning: Canonical TGF-β/SMAD signaling is a validated driver of fibrosis; genetic SMAD3 knockout protects against bleomycin fibrosis. Galunisertib has shown potent SMAD2/3 blockade, reduced collagen I expression in primary human fibroblasts, and prophylactic efficacy in murine lung-fibrosis models. Its oral bioavailability and phase II oncology safety data support feasibility. Mechanistic specificity for the TGF-β axis and evidence of fibroblast contractility reduction underpin its novel repurposing for IPF.
+
+Therapeutic Candidate 2:
+Candidate: SB-525334 (Tocris 2290)
+Hypothesis: SB-525334, a potent ATP-competitive inhibitor of ALK5 (TGF-βRI), will treat IPF by selectively inhibiting receptor kinase activity, abrogating SMAD2/3 nuclear translocation, and reducing fibroblast‐mediated collagen gel contraction and ECM deposition.
+Reasoning: ALK5 inhibition is mechanistically validated in IPF; ALK5 inhibitors reduce fibrosis in preclinical models. SB-525334 exhibits nanomolar potency against ALK5, decreases αSMA and collagen synthesis in primary IPF fibroblasts, and attenuates bleomycin‐induced lung fibrosis in rodent studies. Known pharmacokinetics, oral exposure, and specificity for TGF-βRI over BMP receptors favor development. Its efficacy in 3D contraction assays highlights translational relevance to matrix remodeling.
+
+Therapeutic Candidate 3:
+Candidate: CCG-257081 (CCG-257081, Cayman 10009426)
+Hypothesis: CCG-257081, an inhibitor of myocardin‐related transcription factor/serum response factor (MRTF/SRF)–mediated gene transcription, will suppress IPF fibroblast activation by blocking nuclear MRTF‐A translocation, downregulating CTGF and αSMA, and reducing 3D collagen gel contraction.
+Reasoning: MRTF/SRF drives profibrotic gene networks; genetic MRTF depletion prevents lung fibrosis. CCG-257081 inhibits MRTF/SRF transcription at low micromolar in fibroblasts, reduces αSMA and CTGF mRNA, and diminishes contractility in 3D gels. It demonstrates in vivo efficacy in bleomycin lung-fibrosis models and favorable ADME. Mechanistic specificity and direct target engagement confirm its potential as a novel antifibrotic agent.
+
+Therapeutic Candidate 4:
+Candidate: KD025 (SLx-2119, Selleckchem S7258)
+Hypothesis: KD025, a selective ROCK2 inhibitor, will alleviate IPF by disrupting Rho/ROCK2‐mediated actomyosin contractility in fibroblasts, reducing stress fiber formation, αSMA expression, and matrix contraction in 3D collagen gels.
+Reasoning: Rho/ROCK signaling is upregulated in IPF; ROCK2 genetic knockdown reduces fibrosis in mice. KD025 selectively targets ROCK2 with submicromolar potency, inhibits fibroblast contractility, and reduces collagen deposition in bleomycin‐induced lung fibrosis. Human safety data in systemic sclerosis trials demonstrate tolerability. Its isozyme specificity and direct functional effect on contractility support clinical translation.
+
+Therapeutic Candidate 5:
+Candidate: BMS-986278 (Bristol-Myers Squibb)
+Hypothesis: BMS-986278, a selective LPA1 receptor antagonist, will attenuate IPF by blocking LPA1‐mediated fibroblast chemotaxis, survival signaling, and cytoskeletal activation, thereby reducing myofibroblast tension and 3D matrix contraction.
+Reasoning: LPA1 drives fibroblast recruitment and activation in IPF; genetic LPA1 deletion protects mice from fibrosis. BMS-986278 binds LPA1 with nanomolar affinity, reduces fibroblast αSMA and gel contraction, and shows promising safety in healthy volunteers and IPF phase I studies. Its oral PK, target engagement, and mechanistic specificity for LPA1 justify further development.
+
+Therapeutic Candidate 6:
+Candidate: GLPG1690 (Autotaxin inhibitor, Galapagos)
+Hypothesis: GLPG1690 will treat IPF by inhibiting autotaxin, lowering lysophosphatidic acid levels, thereby suppressing LPA‐driven fibroblast activation, proliferation, and 3D collagen gel contraction.
+Reasoning: The ATX/LPA axis is validated in IPF; elevated LPA correlates with disease severity. GLPG1690 achieved significant LPA reduction, decreased fibroblast‐mediated contraction in vitro, and improved lung function in phase II trials. Despite phase III termination, its robust preclinical efficacy and well‐characterized PK/ADME profile provide a foundation for optimized analogs or combination regimens.
+
+Therapeutic Candidate 7:
+Candidate: GB0139 (TD139, Galectin-3 inhibitor, Galecto)
+Hypothesis: GB0139, a selective galectin-3 inhibitor, will reverse IPF by blocking galectin-3–mediated TGF-β activation and fibroblast proliferation, reducing ECM deposition and contractility in 3D collagen gels.
+Reasoning: Galectin-3 is upregulated in IPF and promotes fibroblast activation. GB0139 demonstrates nanomolar inhibition of galectin-3, reduces αSMA and collagen I in IPF fibroblasts, and shows safety and target engagement in phase Ib/IIa trials. Mechanistically specific and with inhaled delivery feasibility, it addresses extracellular regulatory loops in fibrogenesis.
+
+Therapeutic Candidate 8:
+Candidate: GSK3008348 (GSK, clinical candidate)
+Hypothesis: GSK3008348, a small‐molecule αvβ6 integrin antagonist, will attenuate IPF by preventing αvβ6‐mediated activation of latent TGF-β1 on epithelial and fibroblast surfaces, thereby reducing downstream SMAD signaling, myofibroblast differentiation, and 3D matrix contraction.
+Reasoning: αvβ6 integrin selectively activates TGF-β in fibrotic niches; blockade reduces fibrosis in ex vivo PCLS and bleomycin models. GSK3008348 binds αvβ6 with high affinity, inhibits fibroblast contraction in 3D assays, and exhibits favorable inhalation PK and safety in phase I trials. Its cell‐surface target specificity confers low off‐target risk.
+
+Therapeutic Candidate 9:
+Candidate: Vorinostat (SAHA, Selleckchem S1047)
+Hypothesis: Vorinostat, a pan‐HDAC inhibitor, will inhibit IPF by increasing histone acetylation, reactivating antifibrotic genes (e.g., FAS, COX2), reducing αSMA transcription, and suppressing fibroblast contractility in 3D collagen gels.
+Reasoning: Aberrant HDAC activity silences antifibrotic pathways in IPF. Vorinostat reverses H3 hypoacetylation in IPF fibroblasts, decreases collagen I and αSMA, and reduces contraction in 3D assays. Preclinical murine models confirm lung‐fibrosis attenuation. Clinical safety in oncology and mechanistic epigenetic specificity support repurposing.
+
+Therapeutic Candidate 10:
+Candidate: JQ1 (Cayman 15237)
+Hypothesis: JQ1, a BET bromodomain inhibitor, will treat IPF by displacing BRD4 from profibrotic promoters, suppressing transcription of CTGF, collagen I, and αSMA, leading to decreased fibroblast contractility and gel contraction.
+Reasoning: BET proteins facilitate transcription of fibrotic genes; JQ1 reduces profibrotic gene expression in IPF fibroblasts, diminishes 3D matrix contraction, and attenuates bleomycin‐induced lung fibrosis in mice. Its defined mechanism, reversible binding, and translational in vivo efficacy make it a strong candidate.
+
+Therapeutic Candidate 11:
+Candidate: Metformin (Selleckchem S1952)
+Hypothesis: Metformin, an AMPK activator, will reduce IPF progression by inhibiting TGF-β1‐driven SMAD3 phosphorylation, blocking YAP/TAZ‐mediated mechano‐transduction, and decreasing fibroblast contractility in 3D collagen assays.
+Reasoning: AMPK activation counteracts profibrotic signaling. Metformin reduces αSMA, collagen deposition, and contractility in IPF fibroblasts and mitigates bleomycin fibrosis in mice. Its extensive human safety, lung tissue distribution, and oral dosing support repurposing for IPF mechanotransduction blockade.
+
+Therapeutic Candidate 12:
+Candidate: Rapamycin (Sirolimus, Selleckchem S1039)
+Hypothesis: Rapamycin, an mTORC1 inhibitor, will suppress IPF by inhibiting fibroblast proliferation, reducing protein synthesis of ECM components, and attenuating myofibroblast contractility in 3D collagen gels.
+Reasoning: mTORC1 signaling is hyperactive in IPF fibroblasts; rapamycin decreases collagen I and αSMA levels in vitro and reduces lung fibrosis in rodent models. Its well‐characterized pharmacology, immunosuppressive dose ranges, and mechanistic specificity toward mTORC1 justify clinical exploration for IPF.
+
+Therapeutic Candidate 13:
+Candidate: Dimethyl Fumarate (BG-12, Selleckchem S2874)
+Hypothesis: Dimethyl fumarate (DMF) will mitigate IPF by activating NRF2 antioxidant pathways in lung fibroblasts, reducing oxidative‐stress–induced fibroblast activation, downregulating TGF-β1 signaling, and decreasing 3D gel contraction.
+Reasoning: Oxidative stress potentiates fibrosis; DMF induces NRF2, increases HO-1, and reduces αSMA and collagen I in primary fibroblasts. DMF attenuates bleomycin lung fibrosis and improves respiratory function in preclinical models. Its oral dosing, safety in multiple sclerosis, and clear antioxidant mechanism support IPF trials.
+
+Therapeutic Candidate 14:
+Candidate: Pamrevlumab (FG-3019, FibroGen)
+Hypothesis: Pamrevlumab, a fully human anti‐CTGF monoclonal antibody, will treat IPF by neutralizing CTGF, interrupting downstream fibroblast activation, ECM deposition, and reducing contractile force generation in 3D collagen matrices.
+Reasoning: CTGF is a validated profibrotic mediator downstream of TGF-β; pamrevlumab binds CTGF with high affinity, reduces collagen I expression and fibroblast contractility in vitro, and shows efficacy signals in phase II IPF trials. Its biologic modality allows precise extracellular targeting and an established safety profile in fibrosis indications.
+
+Therapeutic Candidate 15:
+Candidate: A-485 (CBP/p300 inhibitor, Cayman 17811)
+Hypothesis: A-485, a selective inhibitor of histone acetyltransferases CBP/p300, will reduce IPF by blocking acetylation‐dependent activation of profibrotic transcription factors (SMAD3, MRTF‐A), lowering αSMA expression and fibroblast contraction in 3D gels.
+Reasoning: CBP/p300 coactivates TGF-β/SMAD and MRTF/SRF pathways; A-485 shows nanomolar inhibition of HAT activity, decreases profibrotic gene transcription in IPF fibroblasts, and mitigates fibrotic endpoints in preclinical models. Specific epigenetic targeting and confirmed on‐target gene repression support development.
+
+Therapeutic Candidate 16:
+Candidate: BIX01294 (G9a inhibitor, Selleckchem S7580)
+Hypothesis: BIX01294, a G9a histone methyltransferase inhibitor, will reverse IPF by decreasing H3K9me2 marks at antifibrotic gene loci, reactivating gene expression, reducing fibroblast activation, and attenuating 3D matrix contraction.
+Reasoning: G9a‐mediated H3K9 methylation enforces profibrotic chromatin states in IPF. BIX01294 reduces αSMA and collagen I in primary lung fibroblasts, lowers H3K9me2, and suppresses contraction in 3D assays. Preclinical murine fibrosis studies confirm ECM reduction. Its selective epigenetic mechanism offers novel intervention.
+
+Therapeutic Candidate 17:
+Candidate: CC-90001 (JNK Inhibitor, Celgene)
+Hypothesis: CC-90001, a selective JNK1/2 inhibitor, will treat IPF by blocking JNK‐mediated non‐SMAD TGF-β signaling, reducing c-Jun phosphorylation, fibroblast proliferation, myofibroblast differentiation, and contractility in 3D collagen matrices.
+Reasoning: JNK signaling augments TGF-β profibrotic responses; CC-90001 inhibits JNK at nanomolar levels, reduces αSMA and collagen I in vitro, and attenuates lung fibrosis in preclinical models. Its progression into IPF phase II trials demonstrates tolerability and translational potential targeting noncanonical pathways.
+
+Therapeutic Candidate 18:
+Candidate: BI 1015550 (PDE4B Inhibitor, Boehringer Ingelheim)
+Hypothesis: BI 1015550, a selective phosphodiesterase 4B inhibitor, will ameliorate IPF by elevating intracellular cAMP in fibroblasts, inhibiting TGF-β–driven myofibroblast differentiation, and reducing 3D collagen gel contraction.
+Reasoning: PDE4B is upregulated in IPF; BI 1015550 increases cAMP, suppresses αSMA, collagen I expression, and reduces gel contraction in human IPF fibroblasts. Phase II trials show pulmonary function stabilization. Its oral PK, safety in COPD, and specificity for PDE4B provide a clear development path.
+
+Therapeutic Candidate 19:
+Candidate: GKT137831 (Setanaxib, Genkyotex)
+Hypothesis: GKT137831, a dual NOX1/NOX4 inhibitor, will treat IPF by blocking ROS production in fibroblasts, preventing redox‐driven activation of TGF-β, reducing ECM synthesis and contractility in 3D gels.
+Reasoning: NOX4 is elevated in IPF fibroblasts; genetic NOX4 deletion protects murine lungs. GKT137831 inhibits NOX4 with submicromolar potency, decreases ROS, αSMA, and collagen deposition, and attenuates lung fibrosis in bleomycin models. Phase II data in diabetic CKD support safety. Mechanistic targeting of oxidative stress fits disease biology.
+
+Therapeutic Candidate 20:
+Candidate: SAR441566 (NOX4 inhibitor, Merck)
+Hypothesis: SAR441566, a selective NOX4 inhibitor, will mitigate IPF by blocking NOX4‐driven ROS generation in lung fibroblasts, inhibiting redox‐activated profibrotic signaling and reducing 3D matrix contraction.
+Reasoning: NOX4 upregulation drives fibroblast activation in IPF; SAR441566 shows high potency and selectivity for NOX4, reduces ROS and collagen I expression in vitro, and attenuates lung fibrosis in multiple preclinical models. Its drug‐like PK/ADME and tolerability in phase I support clinical translation.
+
+Therapeutic Candidate 21:
+Candidate: Navitoclax (ABT-263, Selleckchem S1001)
+Hypothesis: Navitoclax, a BCL-2/BCL-XL inhibitor, will treat IPF by selectively inducing apoptosis of senescent myofibroblasts, reducing profibrotic cell burden and contractility in 3D collagen gels.
+Reasoning: Senescent fibroblasts accumulate in IPF and resist apoptosis; BCL-2 family inhibitors clear these cells, ameliorating fibrosis in rodent models. Navitoclax has demonstrated senolytic activity, reduced lung fibrosis, and improved function in preclinical studies. Known PK and clinical safety data enable rapid repurposing.
+
+Therapeutic Candidate 22:
+Candidate: Pexidartinib (CSF1R Inhibitor, PLX3397)
+Hypothesis: Pexidartinib, a CSF1R kinase inhibitor, will alleviate IPF by depleting profibrotic macrophage populations in lung tissue, indirectly reducing fibroblast activation, ECM deposition, and 3D gel contraction.
+Reasoning: CSF1R+ macrophages drive fibroblast activation in IPF; pexidartinib reduces monocyte‐derived macrophages, lowers TGF-β and PDGF release, and attenuates lung fibrosis in vivo. Its oral bioavailability and safety profile in tenosynovial giant cell tumor inform feasibility for repurposing in IPF.
+
+Therapeutic Candidate 23:
+Candidate: Obeticholic Acid (OCA, Selleckchem S8140)
+Hypothesis: Obeticholic acid, an FXR agonist, will treat IPF by modulating bile acid–responsive signaling in lung fibroblasts, suppressing TGF-β1 secretion, reducing inflammation, ECM synthesis, and contractility in 3D gels.
+Reasoning: FXR is expressed in lung cells and regulates inflammatory/fibrotic pathways. OCA reduces TGF-β, collagen deposition, and improves lung architecture in preclinical models. Its clinical use in cholestatic disease, known PK/ADME, and anti‐inflammatory mechanism support novel IPF application.
+
+Therapeutic Candidate 24:
+Candidate: MK-2206 (AKT Inhibitor, Selleckchem S1078)
+Hypothesis: MK-2206, an allosteric pan-AKT inhibitor, will treat IPF by blocking AKT-mediated survival and metabolic signaling in fibroblasts, reducing proliferation, αSMA expression, and 3D collagen gel contraction.
+Reasoning: PI3K/AKT is hyperactive in IPF fibroblasts promoting survival and ECM production. MK-2206 inhibits AKT at low nanomolar, decreases collagen I and αSMA, and attenuates fibrosis in murine models. Clinical safety data from oncology trials and mechanistic specificity support repurposing.
+
+Therapeutic Candidate 25:
+Candidate: Mdivi-1 (Drp1 Inhibitor, Selleckchem S8439)
+Hypothesis: Mdivi-1, a mitochondrial fission inhibitor, will ameliorate IPF by normalizing fibroblast mitochondrial dynamics, reducing ROS production, TGF-β activation, and contractility in 3D collagen assays.
+Reasoning: Dysregulated mitochondrial fission drives fibroblast activation in IPF. Mdivi-1 inhibits Drp1, restores mitochondrial network, lowers ROS, αSMA, and collagen production, and reduces gel contraction. Preclinical lung‐fibrosis models show functional improvement. Its novel targeting of organelle dynamics offers unique approach.
+
+Therapeutic Candidate 26:
+Candidate: Resolvin D1 (BioLegend 480017)
+Hypothesis: Resolvin D1, a pro‐resolving lipid mediator, will treat IPF by activating ALX/FPR2 receptors on fibroblasts and macrophages, resolving inflammation, inhibiting TGF-β signaling, and reducing myofibroblast contractility in 3D collagen gels.
+Reasoning: Chronic unresolved inflammation underlies IPF; resolvin D1 promotes resolution and reduces collagen deposition in murine models. It attenuates fibroblast activation and contraction in vitro. Endogenous mediator status and receptor‐mediated action provide mechanistic specificity and novel pro‐resolution strategy.
+
+Therapeutic Candidate 27:
+Candidate: X203 (Anti–IL-11 Monoclonal Antibody)
+Hypothesis: X203, a neutralizing anti–IL-11 mAb, will reverse IPF by blocking IL-11–driven fibroblast survival and ECM production, reducing STAT‐independent ERK activation and suppressing matrix contraction in 3D assays.
+Reasoning: IL-11 is upregulated in IPF and drives fibroblast activation via noncanonical pathways. X203 binds IL-11 with subnanomolar affinity, reduces αSMA and collagen I in vitro, and attenuates lung fibrosis in genetic mouse models. As a biologic, it offers target specificity and minimal off‐target effects.
+
+Therapeutic Candidate 28:
+Candidate: Lenvatinib (E7080, Selleckchem S2184)
+Hypothesis: Lenvatinib, a multi‐kinase inhibitor of VEGFR, FGFR, and PDGFR, will attenuate IPF by blocking profibrotic receptor tyrosine kinase signaling in fibroblasts, reducing proliferation, ECM synthesis, and 3D collagen gel contraction.
+Reasoning: PDGF, FGF, and VEGF pathways contribute to IPF. Lenvatinib inhibits these receptors with nanomolar potency, decreases fibroblast proliferation and collagen I deposition, and shows efficacy in bleomycin lung‐fibrosis models. Oral PK, human safety data, and broad RTK targeting provide a validated multi‐axis approach.
+
+Therapeutic Candidate 29:
+Candidate: KX2-391 (Src Inhibitor, Selleckchem S7434)
+Hypothesis: KX2-391, a Src kinase inhibitor, will treat IPF by blocking Src‐mediated mechanotransduction in fibroblasts, inhibiting focal adhesion kinase phosphorylation, actin remodeling, and reducing contractility in 3D collagen assays.
+Reasoning: Src activation enhances fibroblast adhesion and contraction in stiff matrices. KX2-391 selectively inhibits Src, reduces αSMA and collagen deposition, and attenuates lung fibrosis in preclinical studies. Its clinical evaluation in cancer and defined mechanism support repurposing for IPF mechanotransduction blockade.
+
+Therapeutic Candidate 30:
+Candidate: Simtuzumab (GS-6624, Gilead)
+Hypothesis: Simtuzumab, a humanized anti‐LOXL2 antibody, will inhibit IPF by blocking LOXL2‐mediated crosslinking of collagen fibers, reducing ECM stiffening, fibroblast activation, and contractility in 3D gels.
+Reasoning: LOXL2 drives collagen crosslinking and matrix stiffening in IPF. Simtuzumab binds LOXL2 with high affinity, decreases collagen crosslink density and fibroblast contractility in vitro, and shows anti‐fibrotic trends in animal models. Its biologic modality and extracellular target specificity offer low toxicity and direct matrix remodeling inhibition.

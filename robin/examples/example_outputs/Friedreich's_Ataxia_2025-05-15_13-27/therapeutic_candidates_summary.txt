@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: Omaveloxolone (RTA 408)
+Hypothesis: Omaveloxolone will activate the Nrf2 pathway in FRDA patient-derived fibroblasts and neurons, upregulating antioxidant genes and indirectly increasing frataxin expression, thereby reducing ROS, improving Fe-S cluster assembly, and restoring mitochondrial respiratory capacity.
+Reasoning: Omaveloxolone is a semisynthetic triterpenoid that binds Keap1 to stabilize Nrf2, with preclinical FRDA iPSC‐neuron data showing enhanced Nrf2 target gene expression and improved OCR. Phase 2 studies demonstrate safety and dose-dependent transcriptional upregulation of Nrf2‐driven genes in FRDA patients. The mechanism is highly specific, directly addresses oxidative stress linked to frataxin deficiency, and leverages existing clinical‐stage PK/ADME data for rapid development.
+
+Therapeutic Candidate 2:
+Candidate: Sulforaphane (Cayman Cat#10005594)
+Hypothesis: Sulforaphane will induce Nrf2 nuclear translocation in FRDA fibroblasts, upregulating phase II detoxifying enzymes, mitigating ROS‐mediated damage, and normalizing mitochondrial coupling efficiency and ATP production.
+Reasoning: Sulforaphane, an isothiocyanate from broccoli extract, covalently modifies Keap1 cysteines to activate Nrf2; reports in cellular mitochondrial disease models demonstrate restored OCR and decreased oxidative damage. In FRDA patient cells, sulforaphane has been shown to increase frataxin mRNA via Nrf2‐ARE engagement. Its dietary origin, favorable safety profile, and known PK facilitate translational feasibility.
+
+Therapeutic Candidate 3:
+Candidate: Dimethyl fumarate (Tecfidera)
+Hypothesis: Dimethyl fumarate will activate Nrf2 and AMPK pathways in FRDA neurons, enhancing mitochondrial biogenesis, increasing PGC-1α expression, and ameliorating bioenergetic deficits.
+Reasoning: Dimethyl fumarate is an FDA-approved Nrf2 activator that also indirectly stimulates AMPK; preclinical studies in multiple sclerosis and mitochondrial dysfunction models show improved mitochondrial respiration and ATP. In FRDA fibroblasts, dimethyl fumarate increases antioxidant gene expression and mito‐nuclear signaling. Its established safety and oral availability support repurposing for FRDA.
+
+Therapeutic Candidate 4:
+Candidate: EPI-743 (Vatiquinone)
+Hypothesis: EPI-743 will function as a cofactor for NAD(P)H quinone oxidoreductase 1 (NQO1) in FRDA patient-derived cells, boosting glutathione regeneration, reducing oxidative stress, and improving complex I-driven respiration.
+Reasoning: EPI-743 has undergone phase 2 trials in mitochondrial diseases, showing improved cellular OCR and ATP production. In FRDA fibroblasts, EPI-743 restores GSH levels and partially normalizes maximal respiration. Its clinical safety profile, mitochondrial uptake, and well‐characterized ADME make it a strong candidate to mitigate FRDA oxidative pathology.
+
+Therapeutic Candidate 5:
+Candidate: MitoQ
+Hypothesis: MitoQ will selectively accumulate in FRDA mitochondria via its triphenylphosphonium moiety, scavenging ROS at the inner membrane, preserving Fe-S cluster proteins, and enhancing coupling efficiency.
+Reasoning: MitoQ is a mitochondria-targeted ubiquinone analog that improves OCR and ATP in multiple neuronal and fibroblast models. In FRDA cells, targeted antioxidant action is predicted to protect aconitase and complex I, reducing oxidative damage. With oral bioavailability, documented safety in clinical trials, and defined mitochondrial mechanism, MitoQ offers mechanistic specificity and translational readiness.
+
+Therapeutic Candidate 6:
+Candidate: SS-31 (Elamipretide; Stealth BioTherapeutics)
+Hypothesis: SS-31 will bind cardiolipin in FRDA mitochondria, stabilizing cristae architecture, enhancing electron transport chain supercomplex formation, and improving maximal OCR and ATP output.
+Reasoning: SS-31 is a tetrapeptide shown to improve mitochondrial bioenergetics in LHON and myopathy trials by targeting cardiolipin. In FRDA patient-derived cardiomyocytes, SS-31 is expected to enhance complex I–IV assembly. Its phase 1/2 safety and PK data, mitochondrial specificity, and peptide stability support feasibility.
+
+Therapeutic Candidate 7:
+Candidate: KH176
+Hypothesis: KH176 will reduce mitochondrial ROS in FRDA cells by modulating redox enzymes, restoring complex I activity and coupling efficiency, thereby increasing ATP production.
+Reasoning: KH176 has completed phase 1 in healthy volunteers, showing favorable PK and tolerability. Preclinical mitochondrial disease models demonstrate improved OCR and decreased oxidative damage. The compound’s specificity for redox regulation and clinical data expedite FRDA testing.
+
+Therapeutic Candidate 8:
+Candidate: Nicotinamide riboside (Niagen; ChromaDex)
+Hypothesis: Nicotinamide riboside supplementation will elevate NAD+ levels in FRDA patient neurons, activate SIRT1/3, enhance PGC-1α–driven mitochondrial biogenesis, and restore cellular respiration.
+Reasoning: NR is a well‐characterized NAD+ precursor shown to improve mitochondrial function in aged and disease models, with clinical safety in small trials and increased mitochondrial DNA copy number. FRDA cells likely benefit from enhanced SIRT1‐PGC-1α axis, countering frataxin deficiency–associated bioenergetic failure. Oral bioavailability and defined mechanism support developmental feasibility.
+
+Therapeutic Candidate 9:
+Candidate: Nicotinamide mononucleotide (NMN)
+Hypothesis: NMN will rapidly increase intracellular NAD+ in FRDA patient-derived fibroblasts, boosting SIRT3 activity, enhancing oxidative phosphorylation enzyme deacetylation, and improving ATP synthesis.
+Reasoning: NMN is an NAD+ intermediate with demonstrated efficacy in mouse mitochondrial disease models, enhancing OCR and reducing ROS. Human pilot studies confirm safety and NAD+ elevation. Mechanistically specific SIRT activation targeting mitochondrial deacetylation makes NMN a compelling FRDA candidate.
+
+Therapeutic Candidate 10:
+Candidate: Deferiprone (Ferriprox)
+Hypothesis: Deferiprone will chelate excess mitochondrial labile iron in FRDA cardiomyocytes and neurons, reducing Fenton-driven ROS, preserving Fe-S cluster enzymes, and improving mitochondrial respiration.
+Reasoning: Deferiprone crosses mitochondrial membranes and has shown efficacy in reducing cardiac iron in FRDA clinical cohorts, with safety data in long-term use. By targeting mitochondrial iron overload—a key FRDA pathology—deferiprone directly addresses oxidative damage and Fe-S cluster dysfunction, with development already in place for FRDA.
+
+Therapeutic Candidate 11:
+Candidate: Deferasirox (Exjade)
+Hypothesis: Deferasirox will bind mitochondrial iron with high affinity in FRDA cells, lowering the labile iron pool, decreasing ROS generation, and normalizing complex I-driven oxygen consumption.
+Reasoning: Deferasirox is an oral tridentate chelator with documented mitochondrial iron reduction in preclinical models. Its use in thalassemia provides robust PK/ADME and safety data. Targeting iron overload complements antioxidant strategies to restore FRDA bioenergetics.
+
+Therapeutic Candidate 12:
+Candidate: Mdivi-1
+Hypothesis: Mdivi-1, a selective DRP1 inhibitor, will rebalance fission–fusion in FRDA fibroblasts, reduce fragmentation, preserve mitochondrial membrane potential, and enhance ATP-linked and maximal respiration.
+Reasoning: Mdivi-1 inhibits DRP1‐mediated fission, shown to improve OCR, Δψm, and cell survival in oxidative stress models. In FRDA iPSC‐derived neurons, mitochondrial network stabilization is predicted to enable quality control via improved mitophagy and respiration. Availability as a research tool and known dosing support translational studies.
+
+Therapeutic Candidate 13:
+Candidate: A-769662
+Hypothesis: A-769662 will directly activate AMPK in FRDA patient-derived cardiomyocytes, upregulating PGC-1α, enhancing mitochondrial biogenesis, and restoring coupling efficiency and ATP production.
+Reasoning: A-769662 is a selective AMPK β1 activator with in vivo efficacy in metabolic disease models, increasing mtDNA, OCR, and antioxidant defense. AMPK dysregulation in FRDA contributes to PGC-1α downregulation; direct AMPK activation offers mechanistic specificity. Known PK and solubility aid development.
+
+Therapeutic Candidate 14:
+Candidate: SRT1720
+Hypothesis: SRT1720 will activate SIRT1 in FRDA patient fibroblasts, enhancing deacetylation of PGC-1α, stimulating mitochondrial biogenesis, and improving respiratory flux and ATP yields.
+Reasoning: SRT1720 is a potent small‐molecule SIRT1 activator that increases mitochondrial number and function in preclinical models. FRDA cells exhibit SIRT1 downregulation; restoring SIRT1 activity is expected to upregulate PGC-1α pathway and frataxin processing. Feasible oral PK and prior rodent safety support translational research.
+
+Therapeutic Candidate 15:
+Candidate: Resveratrol
+Hypothesis: Resveratrol will activate SIRT1 in FRDA patient-derived neurons, promoting PGC-1α-driven mitochondrial biogenesis and increasing frataxin stability, thereby enhancing OCR and ATP production.
+Reasoning: Resveratrol, a polyphenol SIRT1 activator, has shown improved mitochondrial function and PGC-1α induction in neurodegenerative models. In FRDA fibroblasts, resveratrol increases antioxidant gene expression and modestly raises frataxin. Its well‐characterized safety and dietary presence make it a low‐risk developmental option.
+
+Therapeutic Candidate 16:
+Candidate: Metformin
+Hypothesis: Metformin will activate AMPK and inhibit mitochondrial complex I at low doses in FRDA cells, triggering compensatory biogenesis via PGC-1α and improving coupling efficiency through reduced ROS.
+Reasoning: Metformin’s AMPK activation is documented in multiple cell types and improves mitochondrial respiration in metabolic disease models. In FRDA iPSC-derived neurons, balanced complex I inhibition may upregulate mitochondrial turnover and quality, normalizing OCR. Extensive clinical use ensures well-known PK, safety, and dosing.
+
+Therapeutic Candidate 17:
+Candidate: AICAR
+Hypothesis: AICAR will mimic AMP in FRDA patient fibroblasts, directly activating AMPK, elevating PGC-1α expression, enhancing mitochondrial biogenesis, and restoring ATP-linked respiration and spare capacity.
+Reasoning: AICAR is a classical AMPK agonist used in preclinical studies to boost mitochondrial function, increasing OCR and mitochondrial mass. FRDA cells with reduced PGC-1α signaling are predicted to benefit from direct AMPK stimulation. AICAR’s proven in vitro efficacy and known dosing parameters support feasibility.
+
+Therapeutic Candidate 18:
+Candidate: Pioglitazone (Actos)
+Hypothesis: Pioglitazone will activate PPARγ in FRDA patient fibroblasts, upregulating PGC-1α and antioxidant proteins (SOD2, catalase), increasing frataxin expression, and improving mitochondrial respiration.
+Reasoning: Pioglitazone is a PPARγ agonist shown to increase frataxin and PGC-1α in KIKO mouse models, improving OCR and reducing ROS. Its clinical approval and PK/ADME profile facilitate repurposing. Mechanistic specificity in the PGC-1α axis addresses core biogenesis deficits in FRDA.
+
+Therapeutic Candidate 19:
+Candidate: Leriglitazone
+Hypothesis: Leriglitazone will selectively modulate PPARγ in FRDA iPSC-derived neurons, driving PGC-1α transcription, enhancing mitochondrial chaperone GRP75, increasing frataxin stability, and restoring oxidative phosphorylation.
+Reasoning: Leriglitazone, a brain-penetrant PPARγ agonist, has shown increased frataxin protein in FRDA fibroblasts and improved bioenergetics. Early clinical data in X-linked adrenoleukodystrophy demonstrate CNS penetration and tolerability. Its specificity and translational progress make it a promising FRDA candidate.
+
+Therapeutic Candidate 20:
+Candidate: RG2833 (HDAC Inhibitor)
+Hypothesis: RG2833 will selectively inhibit class I HDACs (HDAC1/2/3) at the FXN locus in FRDA patient cells, increasing histone acetylation, de-repressing FXN transcription, and improving mitochondrial respiration and ATP generation.
+Reasoning: RG2833 (also known as RGFP109) is a pimelic diphenylamide HDAC inhibitor shown to increase FXN mRNA and frataxin protein in FRDA fibroblasts and murine models. Restoration of histone acetylation at intron 1 correlates with improved Fe-S enzyme activities and OCR. Known safety data in phase 1 support development.
+
+Therapeutic Candidate 21:
+Candidate: A-196 (SUV4-20 H1 Inhibitor)
+Hypothesis: A-196 will inhibit SUV4-20 H1 in FRDA fibroblasts, reducing repressive H4K20me2/3 at the FXN promoter, increasing H4K20me1, upregulating FXN transcription, and normalizing mitochondrial function.
+Reasoning: A-196 selectively targets SUV4-20 H1, shifting methylation marks to an active state, leading to modest frataxin upregulation in patient cells. Epigenetic restoration of FXN correlates with improved OCR and ATP production in vitro. Drug-like properties and available analogs facilitate lead optimization.
+
+Therapeutic Candidate 22:
+Candidate: Compound A3 (SUV4-20 H1 Analogue)
+Hypothesis: Compound A3 will more potently inhibit SUV4-20 H1 in FRDA patient fibroblasts than A-196, driving greater FXN upregulation, restoring Fe-S cluster enzymes, and improving mitochondrial bioenergetics.
+Reasoning: Compound A3 is a next-generation methyltransferase inhibitor with enhanced potency and cell permeability. In FRDA cells, higher frataxin induction and normalized OCR have been demonstrated. Favorable in vitro ADME and crystal structure–based design support rapid preclinical advancement.
+
+Therapeutic Candidate 23:
+Candidate: MitoTEMPO
+Hypothesis: MitoTEMPO will accumulate in FRDA mitochondria and selectively scavenge superoxide, preventing oxidative inactivation of Fe-S cluster proteins and promoting restoration of maximal respiration and spare capacity.
+Reasoning: MitoTEMPO is a mitochondria-targeted piperidine nitroxide antioxidant shown to improve OCR and reduce ROS in neuronal disease models. FRDA fibroblasts are predicted to benefit from targeted ROS quenching, preserving complex I activity. Known stability and feasibility in animal models support translation.
+
+Therapeutic Candidate 24:
+Candidate: Dynasore
+Hypothesis: Dynasore will inhibit GTPase-dependent DRP1 activity in FRDA patient neurons, reducing excessive mitochondrial fission, stabilizing Δψm, and improving coupling efficiency and ATP-linked OCR.
+Reasoning: Dynasore is a cell-permeable dynamin inhibitor shown to modulate mitochondrial network morphology and improve bioenergetic parameters under stress. In FRDA models, rebalancing dynamics is predicted to enable effective mitophagy and respiration. Availability as a research reagent expedites mechanistic studies.
+
+Therapeutic Candidate 25:
+Candidate: Rapamycin
+Hypothesis: Rapamycin will inhibit mTORC1 in FRDA patient-derived fibroblasts, promoting mitophagy and mitochondrial quality control, restoring membrane potential, and enhancing spare respiratory capacity.
+Reasoning: Rapamycin enhances autophagy and mitophagy, clearing damaged mitochondria in neurodegenerative models. In FRDA cells, improved turnover coupled with reduced ROS load is expected to normalize OCR and ATP production. Extensive clinical data on dosing and safety facilitate repurposing.
+
+Therapeutic Candidate 26:
+Candidate: Urolithin A
+Hypothesis: Urolithin A will induce mitophagy via PINK1/Parkin in FRDA neurons, removing dysfunctional mitochondria, enabling biogenesis of healthy organelles, and raising coupling efficiency and maximal OCR.
+Reasoning: Urolithin A has been shown to stimulate mitophagy and improve mitochondrial function in aged muscle. Preclinical data indicate increased OCR and decreased ROS. Favorable safety in human nutritional studies supports rapid translation to FRDA bioenergetic recovery.
+
+Therapeutic Candidate 27:
+Candidate: Spermidine
+Hypothesis: Spermidine will activate autophagy and mitophagy pathways in FRDA patient fibroblasts, reducing accumulation of damaged mitochondria, improving Δψm, and enhancing cellular ATP production.
+Reasoning: Spermidine is a natural polyamine shown to induce autophagy, improve mitochondrial respiration, and extend lifespan in multiple models. FRDA cells with impaired turnover should benefit from enhanced clearance of defective mitochondria. Oral tolerability and dietary presence support developmental feasibility.
+
+Therapeutic Candidate 28:
+Candidate: VBIT-4
+Hypothesis: VBIT-4 will prevent pathological VDAC1 oligomerization in FRDA mitochondria, reducing cytochrome c release, preserving membrane potential, and improving electron transport chain efficiency.
+Reasoning: VBIT-4, a small‐molecule VDAC1 inhibitor, restores Δψm and OCR in models of mitochondrial stress. By stabilizing mitochondrial permeability, it addresses ROS-driven damage in FRDA. Early preclinical PK and efficacy data position VBIT-4 as a novel mechanistic approach.
+
+Therapeutic Candidate 29:
+Candidate: Elamipretide (SS-31)
+Hypothesis: Elamipretide will enhance mitochondrial cristae integrity and ETC supercomplex stability in FRDA patient cardiomyocytes, boosting maximal respiration and ATP synthesis.
+Reasoning: Elamipretide (Stealth peptide) binds cardiolipin to improve ETC efficiency; phase 2 LHON and myopathy trials report improved ATPmax. In FRDA models, similar membrane stabilization is predicted to restore coupling efficiency. Known safety and dosing facilitate FRDA investigation.
+
+Therapeutic Candidate 30:
+Candidate: Dichloroacetate (DCA)
+Hypothesis: DCA will inhibit pyruvate dehydrogenase kinase in FRDA patient-derived neurons, shifting metabolism toward oxidative phosphorylation, increasing pyruvate flux into TCA cycle, and elevating OCR and ATP production.
+Reasoning: DCA enhances PDH activity, improving mitochondrial respiration in lactic acidosis and mitochondrial disease trials. FRDA cells with impaired PDH flux and OXPHOS are predicted to benefit from increased TCA input. Extensive clinical experience in mitochondrial disorders supports translational potential.

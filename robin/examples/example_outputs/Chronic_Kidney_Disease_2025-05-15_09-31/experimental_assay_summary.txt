@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: TGF-beta/Smad Reporter Assay
+Reasoning: A luciferase reporter under control of Smad‐responsive promoter elements yields a rapid, quantitative readout of TGF-β1 pathway activation in proximal tubular epithelial cells. This assay directly measures the fibrogenic signaling cascade driving ECM transcription (Qi and Yang 2018; Gu et al. 2021). Simple luminescence readout enables high‐throughput screening of inhibitors of Smad2/3 phosphorylation and nuclear translocation.
+
+Assay Candidate 2:
+Strategy: Reactive Oxygen Species Quantification
+Reasoning: Using the cell-permeant probe H2DCFDA allows real-time fluorescence measurement of intracellular ROS levels in TECs under high-glucose or hypoxic stress. ROS accumulation is a key driver of mitochondrial damage and pro-fibrotic signaling in CKD (Srivastava et al. 2020; Zhang et al. 2024). This plate-reader assay is fast, sensitive, and directly links oxidative stress modulation to drug treatment.
+
+Assay Candidate 3:
+Strategy: Mitochondrial Membrane Potential Assay
+Reasoning: TMRM or JC-1 dyes enable high-content imaging of mitochondrial membrane potential (ΔΨm) in TECs, reflecting mitochondrial health and susceptibility to dysfunction under CKD stimuli (Srivastava et al. 2020). Loss of ΔΨm precedes apoptosis and inflammasome activation, offering an early functional endpoint for compounds targeting mitochondrial preservation.
+
+Assay Candidate 4:
+Strategy: Autophagy Flux Assay
+Reasoning: Stable expression of an mCherry-GFP-LC3 reporter in renal epithelial cells permits discrimination of autophagosomes (yellow puncta) and autolysosomes (red puncta), quantifying autophagic flux under mTOR modulation (Zhang et al. 2024; Wang et al. 2024). This live‐cell imaging assay quickly evaluates restoration of autophagy as an anti-fibrotic mechanism.
+
+Assay Candidate 5:
+Strategy: Inflammasome Activation Assay
+Reasoning: Measurement of caspase‐1 activity and IL-1β release in response to NLRP3 activators (e.g., ATP or mtDNA) in TECs provides a direct readout of inflammasome engagement (Srivastava et al. 2020; Gu et al. 2021). A fluorogenic caspase substrate plus ELISA for IL-1β enables rapid screening of inhibitors that block pro-inflammatory cytokine maturation.
+
+Assay Candidate 6:
+Strategy: 3D Collagen Deposition Assay
+Reasoning: Embedding RPTEC in a collagen-I hydrogel and quantifying ECM deposition by immunofluorescence (anti-collagen I) and hydroxyproline assay recapitulates fibrogenesis in a tissue-relevant matrix (Qi and Yang 2018; Addario et al. 2025). This 3D platform retains cell polarity and provides a direct functional endpoint of fibrotic matrix accumulation.
+
+Assay Candidate 7:
+Strategy: SGLT2 Uptake Assay
+Reasoning: Fluorescent glucose analog (2-NBDG) uptake in RPTEC monolayers quantifies SGLT2 activity, modeling hyperreabsorption–induced metabolic stress (Vallon 2020). This rapid fluorescence assay links transporter inhibition to reduced glucose load and downstream ROS production in diabetic CKD models.
+
+Assay Candidate 8:
+Strategy: Metabolic Flux (Seahorse) Assay
+Reasoning: Measurement of oxygen consumption rate (OCR) and extracellular acidification rate (ECAR) in TECs under drug treatment reveals shifts between oxidative phosphorylation and glycolysis (Chrysopoulou and Rinschen 2024; Hall and de Seigneux 2022). The Seahorse platform provides real-time, functionally relevant readouts of mitochondrial bioenergetics and compensatory glycolysis.
+
+Assay Candidate 9:
+Strategy: TEER Barrier Integrity Assay
+Reasoning: Transepithelial electrical resistance (TEER) across tubular epithelial monolayers quantifies barrier function and tight‐junction integrity upon TGF-β-induced EMT (Ebefors et al. 2021; Addario et al. 2025). A quick electrode‐based measurement offers a functional correlate of epithelial health and drug-mediated protection against fibrotic transformation.
+
+Assay Candidate 10:
+Strategy: Macrophage-TEC Co-culture NF-κB Reporter
+Reasoning: A transwell co-culture of primary macrophages and TECs expressing an NF-κB luciferase reporter enables dissection of cytokine-driven inflammation (Islam et al. 2019; Zhang 2020). Secreted factors from treated epithelial cells activate the reporter in real time, providing a sensitive assay for anti-inflammatory and anti-fibrotic candidates.

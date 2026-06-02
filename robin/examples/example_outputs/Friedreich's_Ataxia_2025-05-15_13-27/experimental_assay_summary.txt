@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Fe–S Cluster Enzyme Activity Assay
+Reasoning: Direct quantification of mitochondrial aconitase and succinate dehydrogenase activities in frataxin‐deficient fibroblasts or neurons provides a rapid readout of iron–sulfur cluster assembly efficiency and functional rescue by candidate compounds (Campbell et al. 2021; Chiang et al. 2016).
+
+Assay Candidate 2:
+Strategy: Mitochondrial Labile Iron Quantification
+Reasoning: Use of mitochondrial‐targeted fluorescent probes (e.g., Mito‐FerroGreen or calcein‐AM quenching) in live cells enables high‐throughput measurement of labile Fe2+ accumulation and assessment of iron chelation or frataxin‐modulating drug effects (Han et al. 2017; Doni et al. 2021).
+
+Assay Candidate 3:
+Strategy: Reactive Oxygen Species Profiling
+Reasoning: Simultaneous measurement of cytosolic (DCFDA) and mitochondrial (MitoSOX) ROS levels in multiwell format offers a fast, sensitive assay for oxidative stress in FRDA models and pharmacodynamic evaluation of antioxidant or iron-modulating interventions (Chiang et al. 2016; Doni et al. 2021).
+
+Assay Candidate 4:
+Strategy: Bioenergetic Flux Analysis
+Reasoning: Real-time extracellular flux analysis (e.g., Seahorse XF) in patient fibroblasts or neuronal cells quantifies basal and maximal oxygen consumption rates, coupling efficiency, and spare respiratory capacity to reveal drug-induced improvements in respiratory chain function (Mercanti et al. 2018; Sanchez et al. 2016).
+
+Assay Candidate 5:
+Strategy: Mitochondrial Membrane Potential Assay
+Reasoning: Fluorescent potentiometric dyes (TMRM or JC-1) measured by plate reader or flow cytometry allow rapid assessment of ΔΨm restoration in FRDA models following treatment, directly reporting on electron transport integrity (Grimm et al. 2015; Mercanti et al. 2018).
+
+Assay Candidate 6:
+Strategy: Cellular ATP Luminescence Assay
+Reasoning: Luciferase-based ATP quantification (e.g., CellTiter-Glo) in live frataxin-deficient cells offers a high‐throughput surrogate for mitochondrial bioenergetic capacity and immediate detection of compound efficacy (Alzufairi et al. 2024; Mercanti et al. 2018).
+
+Assay Candidate 7:
+Strategy: Lipid Peroxidation Readout
+Reasoning: Monitoring lipid ROS with BODIPY C11 or malondialdehyde assays provides a direct functional endpoint for oxidative membrane damage in FRDA cell models and screens for drugs that limit ferroptotic processes (Alzufairi et al. 2024; Seco-Cervera et al. 2020).
+
+Assay Candidate 8:
+Strategy: Ferroptosis Sensitivity Assay
+Reasoning: Challenge of frataxin-deficient cells with ferroptosis inducers (e.g., RSL3) in the presence or absence of test compounds, followed by viability measurement, reveals protective effects on iron‐dependent cell death pathways (Seco-Cervera et al. 2020; Alzufairi et al. 2024).
+
+Assay Candidate 9:
+Strategy: High-Content Mitochondrial Morphology Imaging
+Reasoning: Automated high‐content analysis of MitoTracker‐stained networks quantifies mitochondrial fragmentation, network connectivity, and co‐localized iron or ROS markers in multiwell iPSC-derived neurons or cardiomyocytes, enabling multiplexed phenotypic profiling (Little et al. 2018; Bosch & Calvo 2019).
+
+Assay Candidate 10:
+Strategy: FXN Promoter-Reporter Screening
+Reasoning: CRISPR-engineered cell lines harboring a luciferase or GFP reporter under control of the endogenous FXN promoter allow rapid, quantitative detection of transcriptional reactivation by epigenetic modulators or antisense oligonucleotides in a high‐throughput format (Dong et al. 2024; Nageshwaran 2017).

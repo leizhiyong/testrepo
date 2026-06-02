@@ -1,0 +1,49 @@
+Therapeutic Candidate 1:
+Candidate: CY-09 (Selleckchem, catalog #S8614)
+Hypothesis: CY-09 binds the Walker A motif in the NACHT domain of NLRP3 in human proximal tubular epithelial cells, inhibiting ATPase-driven oligomerization. This blockade prevents ASC speck formation, caspase-1 activation, IL-1β/IL-18 maturation, and gasdermin D‐mediated pyroptosis, thereby reducing tubulointerstitial inflammation and fibrotic remodeling characteristic of CKD.
+Reasoning: NLRP3 is genetically and functionally implicated in CKD progression: knockout animals are protected from fibrosis. CY-09 has demonstrated direct binding to NLRP3 and nanomolar potency in macrophage inflammasome assays, with efficacy in murine colitis and sepsis models. Its oral bioavailability and rodent safety profile support translational potential. Mechanistic specificity for NLRP3 over NF-κB or other PRRs offers targeted renal protection. Applying CY-09 to CKD models represents a novel repurposing strategy grounded in robust target validation, relevant preclinical evidence, and a clear mechanism of action.
+
+Therapeutic Candidate 2:
+Candidate: OLT1177 (Dapansutrile; InvivoGen, catalog #tlrl-olt1177)
+Hypothesis: OLT1177 selectively inhibits NLRP3 inflammasome assembly by binding to the NACHT domain, blocking ASC recruitment in renal tubular cells under hyperglycemic stress. This prevents caspase-1 activation, IL-1β release, and pyroptotic TEC death, thereby attenuating inflammation-driven fibrogenesis in CKD.
+Reasoning: OLT1177 has progressed through Phase I trials for rheumatic diseases, demonstrating safety and target engagement. In murine models of crystal nephropathy and diabetic nephropathy, OLT1177 reduced renal IL-1β, macrophage infiltration, and fibrosis. The compound’s oral bioavailability, metabolic stability, and selective mechanism make it developmentally feasible. Leveraging its clinical track record and mechanistic specificity to NLRP3 provides a strong rationale for repurposing in CKD.
+
+Therapeutic Candidate 3:
+Candidate: Oridonin (Sigma-Aldrich, catalog #O2015)
+Hypothesis: Oridonin covalently binds cysteine 279 within the NACHT domain of NLRP3 in human podocytes, preventing ATP hydrolysis and inflammasome oligomerization. By blocking caspase-1 activation and IL-1β maturation, Oridonin attenuates podocyte pyroptosis, preserves glomerular barrier integrity, and limits proteinuria and interstitial fibrosis in CKD.
+Reasoning: Oridonin’s direct targeting of NLRP3 has been validated by pull‐down and mass spectrometry in macrophages, with nanomolar potency. It protects against colitis and gout in preclinical studies. Its anti-fibrotic effects via NLRP3 inhibition, coupled with oral bioavailability and a track record in traditional medicine, support feasibility. Applying Oridonin to CKD leverages strong target validation and mechanistic specificity to reduce inflammasome-driven renal injury.
+
+Therapeutic Candidate 4:
+Candidate: Tranilast (MedChemExpress, catalog #HY-50819)
+Hypothesis: Tranilast disrupts NLRP3–ASC and NLRP3–NEK7 interactions in TECs by binding to the LRR domain of NLRP3, preventing ASC oligomerization. This halts caspase-1 cleavage, IL-1β secretion, and pyroptosis under oxidative stress, reducing tubular inflammation and TGF-β–mediated fibroblast activation in CKD.
+Reasoning: Tranilast is an approved anti‐allergic with documented inhibition of NLRP3 assembly in animal models of diabetic nephropathy and UUO, where it reduced IL-1β and collagen deposition. Its oral dosing regimen and safety profile facilitate rapid repurposing. Mechanistic specificity toward inflammasome scaffolding distinguishes it from broad anti‐inflammatories and supports translation into CKD.
+
+Therapeutic Candidate 5:
+Candidate: INF4E (Tocris, catalog #5903)
+Hypothesis: INF4E binds to the NACHT domain ATP‐binding site of NLRP3 in hypoxic proximal tubular cells, obstructing ATP hydrolysis and inhibiting conformational changes required for inflammasome assembly. This prevents caspase-1 activation and IL-18 release, mitigating hypoxia‐induced tubular pyroptosis and downstream fibrogenic signaling.
+Reasoning: INF4E emerged from phenotypic screens in macrophages with submicromolar potency against NLRP3 and demonstrated efficacy in sepsis models. Hypoxia is a potent priming signal in CKD. INF4E’s defined binding site, oral bioavailability in rodents, and selective NLRP3 inhibition offer a novel mechanistic approach to counter hypoxia-driven inflammasome activation in CKD.
+
+Therapeutic Candidate 6:
+Candidate: MCC950 (CP-456,773; Sigma-Aldrich, catalog #SML 2233)
+Hypothesis: MCC950 binds to the Walker B motif in NLRP3’s NACHT domain in human TECs, preventing ATP hydrolysis and inflammasome complex formation. By blocking caspase-1‐mediated IL-1β/IL-18 maturation and gasdermin D pore formation, MCC950 reduces tubular cell pyroptosis, interstitial inflammation, and subsequent fibrotic remodeling in CKD.
+Reasoning: MCC950 is the benchmark NLRP3 inhibitor with extensive rodent CKD data showing reduced proteinuria, fibrosis, and improved renal function. Its direct target engagement validated by SPR and mutagenesis, favorable safety in non‐human primates, and oral bioavailability underscore developmental feasibility. Applying MCC950 to progressive CKD provides a gold‐standard mechanistic intervention with robust preclinical evidence.
+
+Therapeutic Candidate 7:
+Candidate: VX-765 (Belnacasan; InvivoGen, catalog #tlrl-vg765)
+Hypothesis: VX-765 is an orally bioavailable prodrug that delivers VRT-043198, a selective caspase-1 inhibitor, to human renal cells. By blocking caspase-1 enzymatic activity, VX-765 prevents IL-1β/IL-18 maturation and gasdermin D cleavage, thereby inhibiting TEC pyroptosis and downstream fibrotic signaling in CKD.
+Reasoning: VX-765 has advanced through Phase II trials in epilepsy and psoriasis, demonstrating safety and caspase-1 engagement. In rodent diabetic nephropathy and UUO models, VX-765 reduced IL-1β, macrophage infiltration, and collagen deposition. The compound’s defined mechanism, oral delivery, and existing human safety data support rapid repurposing for CKD.
+
+Therapeutic Candidate 8:
+Candidate: Disulfiram (Sigma-Aldrich, catalog #D9773)
+Hypothesis: Disulfiram and its metabolite diethyldithiocarbamate modify the cysteine residues in gasdermin D’s N-terminal domain in TECs, inhibiting pore formation. This prevents pyroptosis downstream of inflammasome activation, thereby preserving tubular integrity, reducing interstitial inflammation, and limiting fibrogenesis in CKD.
+Reasoning: Disulfiram’s gasdermin D inhibition has been shown in macrophages and sepsis models, reducing pyroptotic cell death. Its long clinical use for alcohol aversion confirms safety and oral bioavailability. By targeting terminal pyroptotic execution, Disulfiram addresses inflammasome-driven CKD injury with mechanistic specificity, representing a novel repurposing opportunity.
+
+Therapeutic Candidate 9:
+Candidate: A-438079 (Tocris, catalog #2947)
+Hypothesis: A-438079 is a selective P2X7 receptor antagonist that blocks ATP-induced ion flux in renal macrophages and tubular cells, preventing K+ efflux–mediated NLRP3 activation. This reduces caspase-1 cleavage, IL-1β release, and pyroptosis, thereby attenuating inflammation and fibrosis in CKD.
+Reasoning: P2X7 is a validated upstream trigger of NLRP3 in CKD models. A-438079’s potency (IC50 ~ 40 nM) in rodent pain and inflammation studies, good bioavailability, and minimal off‐target effects support feasibility. Targeting the ATP sensor offers pathway specificity and a novel approach to halt inflammasome activation in CKD.
+
+Therapeutic Candidate 10:
+Candidate: Brilliant Blue G (BBG; Sigma-Aldrich, catalog #B0770)
+Hypothesis: BBG non‐competitively antagonizes P2X7 receptors on renal immune and epithelial cells, preventing ATP-induced inflammasome priming and activation. This blockade reduces caspase-1 activation, IL-1β secretion, and pyroptosis, thereby preserving tubular architecture and limiting fibrotic remodeling in CKD.
+Reasoning: BBG has demonstrated renoprotective effects in rodent hypertensive nephropathy by inhibiting P2X7–NLRP3 cross-talk. Its water solubility, established dosing, and favorable safety in CNS studies support translational potential. BBG’s indirect suppression of inflammasome activation provides mechanistic specificity and a novel repurposing pathway for CKD.

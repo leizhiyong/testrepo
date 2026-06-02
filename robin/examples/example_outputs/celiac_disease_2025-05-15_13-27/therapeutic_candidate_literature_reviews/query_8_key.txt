@@ -1,0 +1,34 @@
+Query: Key inflammatory and signaling pathways activated by gluten peptides in celiac disease, such as MyD88/TLR, NF-κB, and IL-15-mediated responses in intestinal epithelial cells, and their impact on barrier integrity and immune cell recruitment
+
+Gluten peptides, particularly gliadin fragments, are pivotal in the pathogenesis of celiac disease because they activate innate immune responses in intestinal epithelial cells (IECs) via pattern recognition receptors. In these cells, gluten peptides engage Toll-like receptors (TLRs)—such as TLR4 and TLR7—which in turn recruit the adaptor protein MyD88. This MyD88-dependent signaling then activates nuclear factor κB (NF-κB), a key transcription factor that orchestrates the transcription of a myriad of pro-inflammatory genes (ailioaie2022celiacdiseaseand pages 24-26, clarizio2020characterizationofa pages 111-114).
+
+Once NF-κB is activated, one of its major downstream effects is the upregulation of interleukin-15 (IL-15), a cytokine known to be central to celiac disease pathology. IL-15 is responsible for promoting the survival, activation, and expansion of intraepithelial lymphocytes (IELs) within the gut epithelium. These IELs, which frequently express natural killer receptors such as NKG2D, become cytotoxic upon activation and directly contribute to epithelial cell apoptosis and mucosal damage (perez2021programmedcelldeath pages 15-16, ferrari2021characterizationofmouse pages 14-18).
+
+The sustained production of IL-15 not only amplifies immune cell recruitment but also disrupts intestinal barrier integrity. One mechanism by which barrier dysfunction occurs is via the disruption of tight junctions (TJs), which are protein complexes responsible for maintaining selective paracellular permeability. The activation of NF-κB and the concomitant release of IL-15 and other pro-inflammatory molecules can lead to alterations in tight junction proteins, resulting in increased intestinal permeability. This breakdown in barrier integrity permits additional gluten peptides and luminal antigens to traverse into the lamina propria, perpetuating and amplifying the inflammatory cascade (clarizio2020characterizationofa pages 36-40, clarizio2020characterizationofa pages 40-46).
+
+Moreover, the initial signaling cascade mediated by gluten peptides is further intensified by the release of zonulin—a modulator of tight junctions—from IECs in response to gliadin. The release of zonulin exacerbates barrier disruption by promoting the disassembly of TJ complexes, thereby facilitating the ingress of immunogenic peptides and boosting local cytokine production. This reciprocal relationship creates a feedback loop wherein enhanced permeability leads to further antigen exposure and immune activation (NCT02637141, clarizio2020characterizationofa pages 40-46).
+
+The coordinated activation of the MyD88/TLR/NF-κB axis by gluten peptides also links innate immune activation to adaptive immune responses. IL-15 is central in this regard, as it also fosters the shift from a tolerogenic environment towards a proinflammatory milieu by accelerating the activation of gluten-specific CD4+ T cells and cytotoxic CD8+ T cells. The resulting cytotoxic environment contributes to villous atrophy—the hallmark of celiac disease—and the loss of epithelial barrier function (zanoletti2024entericglialcells pages 139-140, perez2021programmedcelldeath pages 2-4).
+
+In summary, gluten peptides act as key triggers in celiac disease by activating innate immune receptors on IECs. Their interaction with TLRs leads to a MyD88-dependent activation of NF-κB, which in turn upregulates IL-15 production. The increased IL-15 drives the recruitment and activation of cytotoxic immune cells, particularly IELs, causing epithelial cell apoptosis and a breakdown of tight junction integrity. The resulting barrier disruption allows further antigen penetration, establishing a self-perpetuating inflammatory cycle that underpins the chronic intestinal damage seen in celiac disease (ailioaie2022celiacdiseaseand pages 24-26, clarizio2020characterizationofa pages 111-114, hada2025ligandsforintestinal pages 15-16).
+
+References:
+1. (ailioaie2022celiacdiseaseand pages 24-26): Laura Marinela Ailioaie, Constantin Ailioaie, Gerhard Litscher, and Dragos Andrei Chiran. Celiac disease and targeting the molecular mechanisms of autoimmunity in covid pandemic. International Journal of Molecular Sciences, 23:7719, Jul 2022. URL: https://doi.org/10.3390/ijms23147719, doi:10.3390/ijms23147719. This article has 14 citations and is from a peer-reviewed journal.
+
+2. (clarizio2020characterizationofa pages 111-114): AV Clarizio. Characterization of a novel model of gluten sensitivity. Unknown journal, 2020.
+
+3. (ferrari2021characterizationofmouse pages 14-18): E Ferrari. Characterization of mouse models to study the pathogenesis of celiac disease and the role played by the dysregulation of the intestinal microbiota. Unknown journal, 2021.
+
+4. (perez2021programmedcelldeath pages 15-16): Federico Perez, Carolina Nayme Ruera, Emanuel Miculan, Paula Carasi, and Fernando Gabriel Chirdo. Programmed cell death in the small intestine: implications for the pathogenesis of celiac disease. International Journal of Molecular Sciences, 22:7426, Jul 2021. URL: https://doi.org/10.3390/ijms22147426, doi:10.3390/ijms22147426. This article has 22 citations and is from a peer-reviewed journal.
+
+5. (perez2021programmedcelldeath pages 2-4): Federico Perez, Carolina Nayme Ruera, Emanuel Miculan, Paula Carasi, and Fernando Gabriel Chirdo. Programmed cell death in the small intestine: implications for the pathogenesis of celiac disease. International Journal of Molecular Sciences, 22:7426, Jul 2021. URL: https://doi.org/10.3390/ijms22147426, doi:10.3390/ijms22147426. This article has 22 citations and is from a peer-reviewed journal.
+
+6. (zanoletti2024entericglialcells pages 139-140): L Zanoletti. Enteric glial cells: cellular and molecular analysis of an emerging player in intestinal health and disease. Unknown journal, 2024.
+
+7. (NCT02637141):  A Study to Evaluate the Efficacy and Safety of AMG 714 in Adult Patients With Celiac Disease. Amgen. 2016. ClinicalTrials.gov Identifier: NCT02637141
+
+8. (clarizio2020characterizationofa pages 36-40): AV Clarizio. Characterization of a novel model of gluten sensitivity. Unknown journal, 2020.
+
+9. (clarizio2020characterizationofa pages 40-46): AV Clarizio. Characterization of a novel model of gluten sensitivity. Unknown journal, 2020.
+
+10. (hada2025ligandsforintestinal pages 15-16): Akanksha Hada and Zhengguo Xiao. Ligands for intestinal intraepithelial t lymphocytes in health and disease. Pathogens, 14:109, Jan 2025. URL: https://doi.org/10.3390/pathogens14020109, doi:10.3390/pathogens14020109. This article has 0 citations and is from a peer-reviewed journal.

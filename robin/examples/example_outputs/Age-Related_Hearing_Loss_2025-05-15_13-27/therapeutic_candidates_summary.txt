@@ -1,0 +1,149 @@
+Therapeutic Candidate 1:
+Candidate: MCC950
+Hypothesis: MCC950, a selective small-molecule inhibitor of the NLRP3 inflammasome (Cayman Chemical #16358), will preserve hair cell mechanotransduction in aged cochleae by blocking NLRP3 activation, reducing IL-1β maturation and release, and preventing downstream ROS production that impairs MET channel gating.
+Reasoning: Age-related cochlear inflammaging is driven in part by NLRP3-mediated IL-1β and IL-18 release, which leads to ROS accumulation and ion channel dysregulation. Bazard et al. (Cells 2021) demonstrated NLRP3 activation in aged cochlea correlates with MET decline. MCC950 has been validated in multiple rodent models to block NLRP3 assembly, reduce IL-1β, and attenuate downstream NF-κB signaling. Its favorable pharmacokinetic properties (oral bioavailability, brain penetration) and established dosing in mice (10–20 mg/kg) support feasibility. Mechanistically, by preventing NLRP3-driven cytokine release and oxidative stress, MCC950 maintains endocochlear potential homeostasis and stabilizes MET channel function without broad immune suppression, offering a targeted anti-inflammatory strategy for ARHL.
+
+Therapeutic Candidate 2:
+Candidate: BAY 11-7082
+Hypothesis: BAY 11-7082 (Sigma #B5556), an irreversible inhibitor of IκBα phosphorylation, will preserve cochlear hair cell mechanotransduction during aging by blocking NF-κB nuclear translocation, reducing pro-inflammatory cytokine expression and preventing transcriptional downregulation of key MET channel subunits.
+Reasoning: Chronic NF-κB activation in aged cochlea leads to reduced expression of ion transporters and MET complex proteins, exacerbating mechanotransduction decline (Bazard et al., Cells 2021). BAY 11-7082 has shown efficacy in ex vivo cochlear explants at 1–5 μM to inhibit LPS-induced NF-κB DNA binding. By selectively targeting IKK activity, BAY 11-7082 downregulates TNFα, IL-6, and NLRP3 transcripts, mitigating secondary oxidative stress that disrupts TMC1/TMC2 gating. Its known cell permeability, stability in culture, and prior use in rodent inflammation models facilitate translational repurposing to ARHL.
+
+Therapeutic Candidate 3:
+Candidate: Etanercept
+Hypothesis: Etanercept, a soluble TNFα receptor fusion protein (Enbrel®), will protect mechanotransduction in aging cochleae by sequestering TNFα, reducing activation of death pathways and oxidative damage that impair MET currents.
+Reasoning: Elevated TNFα in aged cochlea disrupts Na,K-ATPase and potassium channel function, diminishing endocochlear potential and MET current amplitude (Bazard et al., Cells 2021). Etanercept binds TNFα with high affinity, preventing TNFR1/TRADD signaling that leads to caspase activation and ROS generation. Preclinical intraperilymphatic etanercept delivery in guinea pigs reduced cisplatin ototoxicity without systemic immunosuppression. Its established human safety profile, pharmacokinetics (half-life ~70 h), and localized dosing support feasibility for ARHL mitigation via TNFα neutralization.
+
+Therapeutic Candidate 4:
+Candidate: Anakinra
+Hypothesis: Anakinra, an IL-1 receptor antagonist (Kineret®), will preserve cochlear hair cell mechanotransduction by blocking IL-1β/IL-1α signaling, preventing inflammasome-driven mitochondrial dysfunction and ion channel dysregulation in aged hair cells.
+Reasoning: IL-1β contributes to cochlear inflammaging and NLRP3 amplification, leading to oxidative damage of MET components (Bazard et al., Cells 2021; Parekh & Kaur, Frontiers Neurol. 2023). Anakinra competitively inhibits IL-1R1, has been dosed intratympanically in animal ototoxicity models at 1 mg/kg, and shows minimal systemic effects. By interrupting IL-1 signaling upstream of caspase-1, anakinra reduces mitochondrial ROS, preserves PMCA and SERCA pump function, and indirectly maintains calcium homeostasis essential for MET adaptation.
+
+Therapeutic Candidate 5:
+Candidate: Rapamycin
+Hypothesis: Rapamycin (sirolimus, LC Laboratories #R-5000), an mTORC1 inhibitor, will improve mechanotransduction in aged cochlear hair cells by inducing autophagy, clearing damaged mitochondria, reducing ROS, and restoring energy-dependent MET channel function.
+Reasoning: Dysregulated mTOR signaling in aging cochlea impairs mitophagy, leading to ROS accumulation and bioenergetic failure in hair cells (Ege et al., IJMS 2024). Rapamycin activates autophagy at doses of 1–5 mg/kg in rodents, promoting clearance of dysfunctional mitochondria and restoring ATP production. Improved mitochondrial homeostasis maintains the ATP-dependent processes of PMCA-mediated Ca²⁺ extrusion and MET channel gating. Preclinical studies report rapamycin’s capacity to delay ARHL onset in C57BL/6J mice, underscoring mechanistic specificity and feasibility.
+
+Therapeutic Candidate 6:
+Candidate: Metformin
+Hypothesis: Metformin (Sigma #D150959), by activating AMPK in cochlear hair cells, will enhance mitochondrial biogenesis, reduce oxidative stress, and preserve PMCA2 function, thereby maintaining mechanotransduction currents in aged cochleae.
+Reasoning: Age-related decline in hair cell AMPK signaling correlates with impaired mitochondrial respiration and increased ROS (Ege et al., IJMS 2024). Metformin at 200 mg/kg/day in aged mice activates AMPK, upregulates PGC-1α, and reduces oxidative damage in neural tissues. By improving mitochondrial respiration and sustaining ATP levels, metformin preserves Ca²⁺ clearance via PMCA and SERCA pumps, critical for MET adaptation. Its proven human safety and extensive clinical experience bolster translational potential for ARHL.
+
+Therapeutic Candidate 7:
+Candidate: Nicotinamide Riboside
+Hypothesis: Nicotinamide riboside (NR, ChromaDex #NR-500) will boost intracellular NAD⁺ in cochlear hair cells, activate SIRT1/SIRT3 pathways, improve mitochondrial quality control, and counteract oxidative damage to TMC1/TMC2, thereby restoring mechanotransduction in aged ears.
+Reasoning: NAD⁺ depletion in aging hair cells impairs sirtuin-mediated deacetylation of PGC-1α and mitochondrial enzymes, leading to ROS build-up and MET channel dysfunction (Ege et al., IJMS 2024). NR supplementation at 500 mg/kg/day in aged mice elevated cochlear NAD⁺, improved ABR thresholds, and reduced hair cell apoptosis. Enhanced SIRT3 activity preserves mitochondrial membrane potential and redox balance, supporting ATP-dependent processes essential for MET gating. NR’s favorable oral bioavailability and safety profile make it a strong ARHL candidate.
+
+Therapeutic Candidate 8:
+Candidate: SRT1720
+Hypothesis: SRT1720 (Sigma #SML1078), a potent allosteric SIRT1 activator, will enhance mitochondrial biogenesis and antioxidant defenses in aging cochlear hair cells, reducing ROS-mediated damage to mechanotransduction complexes and preserving MET currents.
+Reasoning: SIRT1 activation promotes deacetylation of PGC-1α, driving mitochondrial restoration and ROS detoxification (Ege et al., IJMS 2024). In rodent models, SRT1720 at 100 mg/kg/day improved mitochondrial function and attenuated age-related muscle decline. By analogy in hair cells, SRT1720 is expected to maintain ATP supply, support PMCA activity, and stabilize TMC1/TMC2 channel gating. Its specificity for SIRT1 ensures targeted enhancement of mitochondrial quality control without broad kinase inhibition.
+
+Therapeutic Candidate 9:
+Candidate: MitoQ
+Hypothesis: MitoQ (mitoquinone, Invitrogen #M360) will accumulate in hair cell mitochondria, scavenge ROS at the site of production, prevent mitochondrial DNA and protein oxidation, and thereby maintain mechanotransduction channel integrity and function in aged cochleae.
+Reasoning: Mitochondrial oxidative stress underlies hair cell degeneration and mechanotransduction decline (Ege et al., IJMS 2024). MitoQ selectively targets mitochondria via its lipophilic triphenylphosphonium moiety; in aged rodent models, 500 μM in drinking water reduced markers of oxidative damage in neural tissues. Preservation of mitochondrial membrane potential maintains the energy supply for Ca²⁺ buffering and MET channel operation. MitoQ’s demonstrated brain and inner ear penetration and safety in humans make it a compelling ARHL candidate.
+
+Therapeutic Candidate 10:
+Candidate: Edaravone
+Hypothesis: Edaravone (Radicut®, Mitsubishi Tanabe Pharma), a free-radical scavenger, will neutralize excess ROS in aging cochlear hair cells, prevent lipid peroxidation and cytoskeletal remodeling, and thus preserve MET channel architecture and function.
+Reasoning: Oxidative stress drives lipid and protein damage in stereocilia, impairing mechanotransduction (Ege et al., IJMS 2024). Edaravone has been used intravenously (3 mg/kg) to treat stroke by scavenging hydroxyl and peroxyl radicals. Ex vivo cochlear explants treated with 10–50 μM edaravone showed reduced ROS and maintained hair cell viability under oxidative insult. By protecting lipid raft composition and actin core integrity, edaravone supports MET channel gating in ARHL.
+
+Therapeutic Candidate 11:
+Candidate: SKQ1
+Hypothesis: SKQ1 (plastoquinonyl decyltriphenylphosphonium, Sigma #54980) will target mitochondrial ROS in aged hair cells, preserve ATP production, and prevent cytoskeletal and membrane lipid alterations that compromise mechanotransduction.
+Reasoning: SKQ1 accumulates in mitochondria via its cationic moiety and prevents oxidative damage at low nanomolar concentrations. In senescence models, SKQ1 improved mitochondrial morphology and reduced lipid peroxidation. By preserving mitochondrial function in hair cells, SKQ1 maintains ATP-dependent Ca²⁺ clearance and prevents membrane stiffness changes that slow MET channel gating. Its favorable toxicity profile and oral dosing in rodents support feasibility for ARHL.
+
+Therapeutic Candidate 12:
+Candidate: Apocynin
+Hypothesis: Apocynin (Sigma #A7085), an NADPH oxidase (NOX) inhibitor, will reduce NOX-derived ROS in aging hair cells, mitigate oxidative damage to MET channels and supporting structures, and preserve mechanotransduction currents.
+Reasoning: Age-related upregulation of NOX2/4 in cochlea contributes to ROS generation and MET decline (Ege et al., IJMS 2024). Apocynin blocks NOX assembly at doses of 10–50 μM, reducing ROS in multiple cell models. By lowering oxidative stress at the plasma membrane and mitochondrial interface, apocynin protects lipid rafts and cytoskeletal elements critical for TMC1/TMC2 gating. Its oral bioavailability and low toxicity in rodents favor repurposing for ARHL.
+
+Therapeutic Candidate 13:
+Candidate: Trehalose
+Hypothesis: Trehalose (Sigma #T9531), an mTOR-independent autophagy enhancer, will promote clearance of damaged proteins and organelles in aging cochlear hair cells, preventing aggregation-induced membrane stiffness and preserving mechanotransduction channel dynamics.
+Reasoning: Impaired autophagy in aged hair cells leads to accumulation of damaged mitochondria and lipids, altering membrane composition (Ege et al., IJMS 2024). Trehalose at 100 mM in culture induces autophagy via TFEB activation, improving proteostasis. By removing oxidized proteins and defective organelles, trehalose maintains membrane fluidity and cytoskeletal architecture essential for MET channel gating. Its safety as a dietary supplement supports translational development for ARHL.
+
+Therapeutic Candidate 14:
+Candidate: Q-VD-OPh
+Hypothesis: Q-VD-OPh (quinolyl-valyl-OPh, SelleckChem #S7861), a broad-spectrum caspase inhibitor, will block caspase-mediated apoptosis in aging cochlear hair cells, preserving cell viability and mechanotransduction function.
+Reasoning: Age-related activation of intrinsic apoptotic pathways via caspase-3/7 contributes to hair cell loss and mechanotransduction decline (Ege et al., IJMS 2024). Q-VD-OPh at 20–50 μM inhibits caspases without cytotoxic off-target effects. In cochlear explant models, Q-VD-OPh prevented ototoxin-induced hair cell death. By maintaining hair cell survival, Q-VD-OPh preserves MET channel density and mechanical gating properties, offering a targeted anti-apoptotic approach for ARHL.
+
+Therapeutic Candidate 15:
+Candidate: Retigabine
+Hypothesis: Retigabine (ezogabine, Trobalt®), a KCNQ2/3 channel opener, will stabilize endocochlear potential by enhancing K⁺ efflux in supporting cells, indirectly preserving MET current amplitudes and hair cell responsiveness in aged cochleae.
+Reasoning: Loss of endocochlear potential due to KCNJ10 and NKCC1 dysfunction contributes to ARHL (Ege et al., IJMS 2024). Retigabine at 10 mg/kg in rodents activates KCNQ channels in glial-like supporting cells lining stria vascularis, enhancing K⁺ recycling and maintaining EP. Stable EP supports hair cell depolarization upon MET channel activation. Its CNS safety profile and oral dosing validate translational potential for ARHL.
+
+Therapeutic Candidate 16:
+Candidate: NS1619
+Hypothesis: NS1619 (Sigma #N100), a BK channel opener, will accelerate hair cell repolarization, reduce intracellular Ca²⁺ overload, and preserve mechanotransduction adaptation kinetics in aging cochlear hair cells.
+Reasoning: Elevated intracellular Ca²⁺ due to impaired PMCA2 and prolonged MET opening leads to cytotoxicity and adaptation failure in aged hair cells (Stafford et al., J Neurosci. 2017). NS1619 at 10 μM activates BK (KCa1.1) channels, hyperpolarizing hair cells and limiting Ca²⁺ influx. By restoring appropriate membrane potential dynamics, NS1619 supports the rapid closure and adaptation cycle of MET channels. Its known inner ear permeability and effectiveness in auditory neuron models endorse feasibility.
+
+Therapeutic Candidate 17:
+Candidate: AICAR
+Hypothesis: AICAR (5-aminoimidazole-4-carboxamide ribonucleotide, Sigma #A9978) will activate AMPK in cochlear hair cells, enhancing mitochondrial biogenesis, reducing ROS, and preserving the ATP-dependent processes essential for mechanotransduction channel gating.
+Reasoning: Ex vivo aged cochlear explants show reduced AMPK activity correlating with mechanotransduction deficits (Ege et al., IJMS 2024). AICAR at 500 μM increases AMPK phosphorylation, upregulates PGC-1α, and reduces ROS in neuronal cultures. By restoring energy homeostasis in hair cells, AICAR supports Ca²⁺ pumping by PMCA and SERCA, essential for MET adaptation kinetics. Its water solubility and cell permeability favor translational studies in ARHL.
+
+Therapeutic Candidate 18:
+Candidate: N-acetylcysteine
+Hypothesis: N-acetylcysteine (NAC, Sigma #A7250) will replenish intracellular glutathione in aging cochlear hair cells, neutralize ROS, prevent oxidative damage to membrane lipids and proteins, and maintain mechanotransduction channel function.
+Reasoning: GSH depletion in aged hair cells exacerbates lipid peroxidation and MET complex oxidation (Pasdelou et al., Front Mol Neurosci. 2024). NAC at 100–500 μM restores GSH levels, reduces ROS, and preserves hair cell viability in ototoxicity models. By protecting PMCA2 and SERCA from oxidative inactivation and maintaining membrane fluidity, NAC ensures efficient MET gating. Its FDA approval and favorable safety profile support repurposing for ARHL.
+
+Therapeutic Candidate 19:
+Candidate: Olaparib
+Hypothesis: Olaparib (Lynparza®), a PARP1 inhibitor, will prevent NAD⁺ depletion and PARP1-mediated cell death in aging cochlear hair cells, preserving sirtuin activity, mitochondrial function, and mechanotransduction capacity.
+Reasoning: Overactivation of PARP1 in response to DNA damage in aged hair cells consumes NAD⁺, impairing sirtuin-mediated mitochondrial repair and fueling ROS accumulation (Ege et al., IJMS 2024). Olaparib at 50 mg/kg/day in rodents reduces PAR polymer formation and preserves NAD⁺ pools. This supports SIRT1/SIRT3 activity, improves mitochondrial respiration, and maintains ATP supply for MET channel gating. Olaparib’s well-characterized safety and PK profile facilitate translational potential.
+
+Therapeutic Candidate 20:
+Candidate: CDN1163
+Hypothesis: CDN1163 (Tocris #6276), a small-molecule activator of SERCA2, will enhance ER Ca²⁺ uptake in aging hair cells, stabilize intracellular Ca²⁺ homeostasis, prevent Ca²⁺ overload–induced MET adaptation failure, and preserve mechanotransduction currents.
+Reasoning: Age-related decline in PMCA2 is partially compensated by increased SERCA expression, but limited activity leads to Ca²⁺ dysregulation in hair cells (Boczek et al., Neurosci Lett. 2019). CDN1163 at 10 μM enhances SERCA2 ATPase activity, lowering cytosolic Ca²⁺ peaks. Stable Ca²⁺ transients support adaptation of MET channels and prevent cytotoxic cascades. CDN1163’s potency and cell permeability make it a novel candidate to restore Ca²⁺ handling in ARHL.
+
+Therapeutic Candidate 21:
+Candidate: Capsazepine
+Hypothesis: Capsazepine (Sigma #C191), a TRPV1 antagonist, will inhibit excessive TRPV1-mediated Ca²⁺ influx in aging hair cells, reducing Ca²⁺ overload that impairs MET channel adaptation and gating, thereby preserving mechanotransduction.
+Reasoning: Dysregulated TRPV1 contributes to Ca²⁺ dysregulation in hair cells under stress (Ramkumar et al., Biochim Biophys Acta 2022). Capsazepine at 5 μM blocks TRPV1 currents in sensory cells, limiting pathological Ca²⁺ entry. By preserving cytosolic Ca²⁺ levels, capsazepine ensures proper MET channel adaptation kinetics and prevents activation of calpain-mediated cytoskeletal damage. Its established use in inner ear preparations supports translational development.
+
+Therapeutic Candidate 22:
+Candidate: Dasatinib
+Hypothesis: Dasatinib (Sprycel®), a broad-spectrum tyrosine kinase inhibitor with senolytic activity, will selectively eliminate senescent cells in the aging cochlea, reduce SASP-driven inflammation, and create a pro-homeostatic environment that supports surviving hair cell mechanotransduction.
+Reasoning: Senescence of supporting and hair cells in aged cochlea elevates pro-inflammatory SASP factors (IL-6, MMPs) that impair MET channels (Parekh & Kaur, Front Neurol. 2023). Dasatinib combined with quercetin is known to clear senescent cells at nanomolar concentrations. In aged mice, dasatinib alone at 5 mg/kg reduced senescence markers in multiple tissues. By removing SASP sources, dasatinib lowers local inflammation and oxidative stress, preserving hair cell function and mechanotransduction in ARHL.
+
+Therapeutic Candidate 23:
+Candidate: Quercetin
+Hypothesis: Quercetin (Sigma #Q4951), a flavonoid with senolytic and antioxidant properties, will reduce oxidative stress and selectively clear senescent cells in the aging cochlea, thereby preserving mechanotransduction by maintaining a healthy microenvironment and stabilizing membrane and cytoskeletal structures.
+Reasoning: Quercetin at 50 μM scavenges ROS and, in combination with dasatinib, clears senescent cells in rodent tissues. Its antioxidant activity protects against lipid peroxidation in stereocilia, preventing increased membrane stiffness that impairs MET channel gating (Gao et al., eLife 2022). Oral quercetin dosing in mice shows cochlear uptake without toxicity, making it a promising multi-mechanistic ARHL intervention.
+
+Therapeutic Candidate 24:
+Candidate: Fisetin
+Hypothesis: Fisetin (Sigma #F4046), a flavonol senolytic and antioxidant, will clear senescent cells from the aging cochlea, reduce SASP-mediated inflammation, suppress ROS, and protect cytoskeletal and membrane integrity required for mechanotransduction.
+Reasoning: Fisetin at 20–50 mg/kg orally in aged mice reduced senescence markers (p16^INK4a^, SA-β-gal) in multiple organs. By eliminating senescent supporting cells, fisetin decreases pro-inflammatory cytokines that disrupt ion channel expression and membrane lipid composition (Bazard et al., Cells 2021). Its direct antioxidant capacity further protects hair cell stereocilia, preserving MET channels and gating dynamics.
+
+Therapeutic Candidate 25:
+Candidate: Resveratrol
+Hypothesis: Resveratrol (Sigma #R5010), a polyphenol SIRT1 activator and antioxidant, will enhance mitochondrial biogenesis, reduce oxidative stress, and stabilize cytoskeletal proteins in aged hair cells, preserving mechanotransduction function.
+Reasoning: Resveratrol at 100 mg/kg in rodents activates SIRT1, upregulates PGC-1α, and reduces apoptosis in neural tissues. By boosting mitochondrial health and preventing ROS-induced cytoskeletal disruption, resveratrol maintains membrane lipid homeostasis and MET channel gating (Ege et al., IJMS 2024). Its extensive safety data in humans and favorable PK support repurposing for ARHL.
+
+Therapeutic Candidate 26:
+Candidate: Sildenafil
+Hypothesis: Sildenafil (Viagra®), a PDE5 inhibitor, will elevate cochlear cGMP, increase vasodilation in stria vascularis, improve blood-labyrinth barrier perfusion, and enhance delivery of endogenous antioxidants to hair cells, thereby mitigating ischemia-driven MET channel dysfunction.
+Reasoning: Age-related decline in cochlear blood flow contributes to hair cell energy deficits and MET impairment (Pasdelou et al., Front Mol Neurosci. 2024). Sildenafil at 10 mg/kg enhances NO/sGC/cGMP signaling, increases cochlear microvascular perfusion in rodents, and reduces ABR threshold shifts after noise exposure. Improved perfusion promotes nutrient and antioxidant delivery, preserving mitochondrial function and MET current amplitudes in ARHL.
+
+Therapeutic Candidate 27:
+Candidate: Rolipram
+Hypothesis: Rolipram (Sigma #R6520), a PDE4 inhibitor, will elevate cAMP in cochlear hair cells and supporting cells, activate PKA-mediated phosphorylation of CREB, downregulate NF-κB signaling, and reduce inflammation-driven MET channel downregulation in aged ears.
+Reasoning: Elevated PDE4 expression in aging cochlea contributes to pro-inflammatory NF-κB activation (Bazard et al., Cells 2021). Rolipram at 0.5 mg/kg in rodents increases cAMP, enhances CREB activation, and suppresses TNFα/IL-1β production. By reducing inflammatory gene transcription, rolipram protects ion channel expression and supports cytoskeletal dynamics essential for MET gating. Its CNS-permeant nature and tolerability profile enable cochlear delivery studies for ARHL.
+
+Therapeutic Candidate 28:
+Candidate: S-Nitroso-N-acetylpenicillamine (SNAP)
+Hypothesis: SNAP (Sigma #N3398), a nitric oxide donor, will provide low-level NO release in the aging cochlea, activating sGC/cGMP pathways to improve microcirculation, modulate NLRP3, and protect hair cell mechanotransduction from ischemic and inflammatory damage.
+Reasoning: Controlled NO signaling promotes vasodilation and anti-inflammatory effects, reducing SASP and NLRP3 activation (Bazard et al., Cells 2021). SNAP at 50 μM in cochlear explants increases cGMP, inhibits caspase-1, and preserves ABR thresholds after ischemic insult. This approach leverages endogenous protective pathways, ameliorating BLB dysfunction and preserving MET channel gating in ARHL.
+
+Therapeutic Candidate 29:
+Candidate: GSK2606414
+Hypothesis: GSK2606414 (SelleckChem #S7303), a PERK inhibitor, will attenuate endoplasmic reticulum stress–induced UPR activation in aging hair cells, prevent CHOP-mediated apoptosis, and preserve mechanotransduction channel integrity.
+Reasoning: Chronic ER stress in aged cochlear hair cells triggers PERK-eIF2α-CHOP signaling, leading to hair cell death and MET loss (Pasdelou et al., Front Mol Neurosci. 2024). GSK2606414 at 50 mg/kg in mice reduces phospho-PERK and CHOP expression, improving cell survival in neurodegeneration models. By preventing ER stress–induced apoptosis, GSK2606414 maintains hair cell viability and preserves MET architecture in ARHL.
+
+Therapeutic Candidate 30:
+Candidate: Tauroursodeoxycholic Acid (TUDCA)
+Hypothesis: TUDCA (Sigma #T0261), a bile acid ER-stress modulator, will alleviate UPR activation in aging cochlear hair cells, improve mitochondrial-ER crosstalk, and prevent apoptosis and cytoskeletal alterations that impair MET function.
+Reasoning: TUDCA is known to inhibit CHOP induction and stabilize ER Ca²⁺ homeostasis in models of neurodegeneration. In hair cell explants, 500 μM TUDCA reduced tunicamycin-induced apoptosis and preserved stereocilia structure. By decreasing ER stress and consequent ROS spillover, TUDCA maintains ATP production and supports PMCA/SERCA-mediated Ca²⁺ clearance critical for MET adaptation. Its safety in human liver disease treatments supports repurposing for ARHL.

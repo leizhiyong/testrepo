@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Collagen gel contraction assay
+Reasoning: Embed primary human TM cells in a type I collagen gel and quantify gel area reduction as a direct readout of cell contractility modulated by the RhoA/ROCK pathway. This simple assay provides a real‐time functional endpoint for agents targeting cytoskeletal tension and has been used to predict IOP‐lowering efficacy of ROCK inhibitors in vitro (karimi2024comparativeanalysisof; Strickland et al. 2022).
+
+Assay Candidate 2:
+Strategy: TGF-β induced fibronectin deposition
+Reasoning: Treat TM monolayers with TGF-β1 to stimulate fibronectin and collagen IV synthesis, then quantify ECM accumulation by immunofluorescence or ELISA. This rapid fibrotic endpoint reflects pathologic ECM remodeling in glaucoma and enables screening of anti‐fibrotic compounds (strickland2022remodelingofthe; Murphy-Ullrich 2022).
+
+Assay Candidate 3:
+Strategy: Wnt/β-catenin reporter assay
+Reasoning: Stably transfect TM cells with a TOPFlash luciferase reporter to measure Wnt pathway activity. Candidate drugs can be assessed for their ability to restore Wnt signaling balance, which regulates ECM turnover and cell adhesion in glaucoma models (Zhang et al. 2023; OpenTargets 2023).
+
+Assay Candidate 4:
+Strategy: Oxidative stress resistance assay
+Reasoning: Expose TM cells to H2O2 and measure intracellular ROS accumulation using DCFDA fluorescence. Test antioxidants or Nrf2 activators for their capacity to reduce oxidative damage, a key contributor to TM dysfunction in glaucoma (Zhang et al. 2023; Shi 2024).
+
+Assay Candidate 5:
+Strategy: Substrate stiffness YAP/TAZ localization
+Reasoning: Culture TM cells on polyacrylamide gels of defined stiffness (4–80 kPa) and quantify YAP/TAZ nuclear translocation by image analysis. Drugs that normalize mechanotransduction may alleviate stiffness‐driven TM contractility and outflow resistance (karimi2024comparativeanalysisof; Vroemen et al. 2019).
+
+Assay Candidate 6:
+Strategy: Gelatin‐FITC degradation assay
+Reasoning: Plate TM cells on FITC‐labeled gelatin and measure matrix degradation as a functional readout of MMP activity. This high‐throughput compatible assay directly reports ECM remodeling potential, allowing identification of MMP modulators (Cerbulescu et al. 2025; Cueto et al. 2021).
+
+Assay Candidate 7:
+Strategy: Myocilin secretion ELISA
+Reasoning: Induce myocilin overexpression in TM cells with dexamethasone and quantify secreted myocilin in culture supernatants by ELISA. This endpoint captures genetic and stress‐induced TM dysfunction, facilitating evaluation of agents that prevent pathological protein accumulation (Buffault et al. 2023; NCT06465537).
+
+Assay Candidate 8:
+Strategy: Traction force microscopy
+Reasoning: Seed TM cells on fluorescent bead‐embedded hydrogels and compute cell‐generated traction forces via bead displacement analysis. This direct biomechanical readout enables rapid assessment of drug effects on TM contractility under near‐physiological conditions (karimi2024comparativeanalysisof; Dammak 2024).
+
+Assay Candidate 9:
+Strategy: TNF-α induced IL-6 secretion
+Reasoning: Stimulate TM cells with TNF-α and quantify IL-6 release by multiplex cytokine assay. This simple inflammatory endpoint models immune‐driven TM dysfunction and screens for anti-inflammatory compounds that may reduce outflow resistance (Zhang et al. 2023; Shi 2024).
+
+Assay Candidate 10:
+Strategy: Phagocytosis bead uptake assay
+Reasoning: Incubate TM cells with fluorescent microspheres and measure bead internalization by flow cytometry or microscopy. Phagocytic function is crucial for TM homeostasis; screening agents that restore this activity offers a direct functional measure of TM health (Buffault et al. 2023; Vernazza et al. 2019).

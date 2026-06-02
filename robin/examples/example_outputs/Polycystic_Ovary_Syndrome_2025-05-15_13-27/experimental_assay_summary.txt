@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Insulin Sensitization Assay
+Reasoning: Quantify insulin-stimulated glucose uptake in human granulosa cells using fluorescent glucose analogs (e.g., 2-NBDG) to directly measure restoration of IR/PI3K/Akt signaling defects characteristic of PCOS (wang2023signalingpathwaysand; ryu2019animalmodelsfor). This simple, rapid readout correlates with insulin resistance phenotypes and is amenable to medium-throughput screening.
+
+Assay Candidate 2:
+Strategy: Akt Signaling Reporter
+Reasoning: Employ a luciferase reporter under FOXO-responsive elements in granulosa cells to monitor Akt-mediated FOXO inhibition. Altered FOXO1 activity drives apoptosis and follicular arrest in PCOS; thus, this assay provides a fast, quantitative readout of PI3K/Akt pathway modulation by candidate drugs (zhang2023essentialroleof; ryu2019animalmodelsfor).
+
+Assay Candidate 3:
+Strategy: Energy Sensor Activation Screen
+Reasoning: Measure AMPK phosphorylation in theca cells via phospho-AMPK ELISA to identify compounds that restore energy balance. Impaired AMPK signaling underlies metabolic dysfunction in PCOS, and phospho-AMPK is a direct, high-throughput endpoint for assessing therapeutic candidates (mcilvenna2021polycysticovarysyndrome; zhang2023essentialroleof).
+
+Assay Candidate 4:
+Strategy: Androgen Receptor Activity Assay
+Reasoning: Use an androgen-response element (ARE) luciferase reporter in granulosa cells to quantify AR transcriptional activity. Hyperandrogenism in PCOS exacerbates follicular arrest, and this cell-based assay provides a rapid, functional measure of anti-androgenic drug efficacy (wang2023androgenexcessa; devillers2023androgenreceptorsignaling).
+
+Assay Candidate 5:
+Strategy: Aromatase Activity Assay
+Reasoning: Apply a fluorescent substrate assay to measure CYP19A1 conversion of androgens to estrogens in granulosa cells. Reduced aromatase activity is central to PCOS-associated estrogen deficiency, and this simple enzymatic assay offers direct, quantitative functional readout (wang2023androgenexcessa).
+
+Assay Candidate 6:
+Strategy: Steroid Secretion Profiling
+Reasoning: Perform multiplex ELISA on culture supernatants of 3D follicular organoids to quantify estradiol, progesterone, and testosterone levels over time. This functionally relevant endpoint mirrors in vivo steroidogenesis and can rapidly reveal drug-induced normalization of hormone balance (campo2023anewtissueagnostic; valle2023bioengineered3dovarian).
+
+Assay Candidate 7:
+Strategy: Lipid Accumulation Assay
+Reasoning: Use Nile Red staining and high-content imaging to quantify intracellular lipid droplets in theca cells. Aberrant lipid storage contributes to PCOS metabolic pathology; this assay offers a rapid, image-based functional measure of drug effects on lipid handling (zhang2023essentialroleof).
+
+Assay Candidate 8:
+Strategy: Mitochondrial Respiration Assay
+Reasoning: Measure oxygen consumption rate (OCR) and extracellular acidification rate (ECAR) using a Seahorse XF analyzer in granulosa cells. Mitochondrial dysfunction is implicated in PCOS insulin resistance, and this assay provides direct, dynamic assessment of bioenergetic improvements upon treatment (yang2024experimentalcellmodels).
+
+Assay Candidate 9:
+Strategy: Inflammation Reporter Assay
+Reasoning: Deploy an NF-κB-driven luciferase reporter in ovarian stromal cells to detect modulation of inflammatory signaling. Chronic low-grade inflammation in PCOS is mediated by NF-κB activation, and this high-sensitivity assay yields rapid mechanistic insight into anti-inflammatory drug actions (liu2021thereleaseof; sun2022tlr4nfκbsignalingcontributes).
+
+Assay Candidate 10:
+Strategy: Cytokine Secretion Profiling
+Reasoning: Use multiplex bead-based immunoassays (e.g., Luminex) to quantify IL-6, TNF-α, and IL-1β secreted by adipose-derived cells. This approach directly measures the immunomodulatory capacity of compounds in a PCOS-relevant inflammatory milieu and supports high-content screening (velez2021inflammationandreproductive).

@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: ER stress reporter assay
+Reasoning: PMP22 overexpression induces ER stress and UPR in Schwann cells; a CHOP or BiP promoter‐driven luciferase reporter enables rapid quantification of small‐molecule rescue of ER stress in vitro (Murakami et al. 2019; Finkbeiner 2020).
+
+Assay Candidate 2:
+Strategy: Myelination index assay
+Reasoning: Immunofluorescent quantification of MBP relative to NF200 in Schwann cell–neuron co‐cultures provides a direct, biologically relevant readout of myelin sheath formation and compactness, amenable to automated imaging pipelines (Clark et al. 2017; Hyung et al. 2015).
+
+Assay Candidate 3:
+Strategy: Gap junction coupling assay
+Reasoning: GJB1 mutations impair connexin32 channels in Schwann cells; scrape‐loading of Lucifer yellow or neurobiotin with subsequent dye spread measurement directly reports gap junction functionality and rescue by compounds (Estévez‐Arias et al. 2022; Boutary 2019).
+
+Assay Candidate 4:
+Strategy: Mitochondrial morphology assay
+Reasoning: MFN2 mutations lead to mitochondrial fragmentation in Schwann cells; live‐cell Mitotracker imaging coupled with automated network‐morphology analysis quantifies restoration of mitochondrial fusion upon treatment (Nunes et al. 2021; Shackleford et al. 2022).
+
+Assay Candidate 5:
+Strategy: Calcium flux assay
+Reasoning: Disrupted ER–mitochondria Ca2+ exchange in CMT models can be assessed by Fluo-4 or genetically encoded Ca2+ sensors measuring store‐operated Ca2+ entry (SOCE) kinetics in Schwann cells, enabling rapid screening of compounds that normalize calcium homeostasis (Morena et al. 2019; Van Hameren 2018).
+
+Assay Candidate 6:
+Strategy: Autophagic flux assay
+Reasoning: MPZ and PMP22 misfolding trigger autophagy in Schwann cells; expression of an mCherry-GFP-LC3 tandem reporter allows quantification of autophagosome formation and lysosomal fusion rates to identify modulators of autophagic clearance (Finkbeiner 2020; Jerath & Shy 2015).
+
+Assay Candidate 7:
+Strategy: Proteasome activity assay
+Reasoning: Excess misfolded PMP22 overloads proteasomal degradation; cleavage of the fluorogenic substrate Suc-LLVY-AMC in Schwann cell lysates provides a direct measure of 20S proteasome activity and its pharmacological enhancement (Benoy et al. 2015; Finkbeiner 2020).
+
+Assay Candidate 8:
+Strategy: Axonal transport assay
+Reasoning: Demyelination compromises axonal mitochondrial motility; microfluidic co‐cultures of neurons and Schwann cells enable live imaging and kymograph‐based quantification of mitochondrial transport velocity as a functional endpoint for candidate drugs (Nunes et al. 2021; Shackleford et al. 2022).
+
+Assay Candidate 9:
+Strategy: Lipid incorporation assay
+Reasoning: Myelin integrity depends on lipid metabolism; uptake and incorporation of Bodipy‐labeled fatty acids into myelin sheaths in neuron–Schwann co‐cultures yields a rapid fluorescence‐based metric of lipid handling and myelin assembly (Clark et al. 2017; Hyung et al. 2015).
+
+Assay Candidate 10:
+Strategy: Nodal domain formation assay
+Reasoning: Restoration of compact myelin should re‐establish nodes of Ranvier; immunostaining for pan-Nav channels and Caspr clusters in co‐cultures followed by automated counting quantifies functional nodal assembly as a key physiological endpoint (Clark et al. 2017; Patel et al. 2020).

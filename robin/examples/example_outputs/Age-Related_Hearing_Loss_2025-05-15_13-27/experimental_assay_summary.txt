@@ -1,0 +1,39 @@
+Assay Candidate 1:
+Strategy: Oxidative Stress Modulation
+Reasoning: Screen small molecules for their ability to reduce reactive oxygen species in immortalized cochlear hair cell–like lines using a CM-H2DCFDA fluorescence assay. This approach provides a rapid, quantitative readout of redox balance and directly tests antioxidant capacity in a homogeneous, scalable format (Maniaci et al. 2024; Paciello et al. 2023).
+
+Assay Candidate 2:
+Strategy: Mitochondrial Rescue
+Reasoning: Evaluate compounds for preservation of mitochondrial membrane potential in stem-cell–derived inner ear organoids using JC-1 or TMRM dyes. Direct measurement of MMP provides a functional endpoint for mitochondrial health and links to known age-related deficits in ATP production and ROS control (Liu et al. 2022; Bazard et al. 2021).
+
+Assay Candidate 3:
+Strategy: Apoptosis Inhibition
+Reasoning: Use a caspase-3/7 luminescent reporter in primary organ of Corti explants or co-culture systems to quantify early apoptotic activation under oxidative or cytokine challenge. This assay delivers a fast, sensitive readout of programmed cell death and directly evaluates anti-apoptotic candidate drugs (Tian et al. 2020; Paciello et al. 2023).
+
+Assay Candidate 4:
+Strategy: Inflammatory Signaling Blockade
+Reasoning: Implement an NF-κB promoter–driven luciferase reporter in immortalized hair cell lines co-cultured with macrophage-like cells to test inhibitors of inflammatory pathways. Luminescent output provides a high-throughput measure of pro-inflammatory signaling relevant to cochlear inflammaging (Bazard et al. 2021; Ege et al. 2024).
+
+Assay Candidate 5:
+Strategy: DNA Repair Enhancement
+Reasoning: Employ a γH2AX fluorescent reporter in a 2D hair cell–derived culture to detect DNA damage foci before and after treatment with DNA repair modulators. Quantifying foci resolution speed offers a direct mechanistic readout of genome maintenance in aged cells (Ege et al. 2024; Liu et al. 2022).
+
+Assay Candidate 6:
+Strategy: Synaptic Maintenance
+Reasoning: Use high-content imaging to count CtBP2-positive synaptic ribbons in organ of Corti explants after drug treatment. Automated ribbon quantification serves as a functional proxy for hair cell–neuron connectivity and tests agents that preserve synaptic integrity (Lim et al. 2018; Schubert et al. 2022).
+
+Assay Candidate 7:
+Strategy: Mechanotransduction Preservation
+Reasoning: Monitor uptake of the FM1-43 dye in cochlear organoids or explants to assess mechanotransducer channel function post-treatment. This live-cell assay offers a rapid functional endpoint directly linked to hair cell mechanosensitivity (Lim et al. 2018; Zine et al. 2021).
+
+Assay Candidate 8:
+Strategy: Cytokine Release Profiling
+Reasoning: Leverage a microfluidic co-culture system of hair cells and supporting cells to measure secreted TNFα and IL-6 by multiplex ELISA after candidate anti-inflammatory treatments. This design mimics the in vivo milieu and provides biologically relevant inflammatory readouts (Bazard et al. 2021; Tisi et al. 2023).
+
+Assay Candidate 9:
+Strategy: Metabolic Support
+Reasoning: Screen NAD+ precursors or glycolysis modulators in hair cell–like organoids using an ATP-based luminescence assay. Quantitation of cellular ATP levels rapidly reflects metabolic competence and addresses age-related energy decline in cochlear cells (Tian et al. 2020; Ege et al. 2024).
+
+Assay Candidate 10:
+Strategy: High-Content Phenotypic Screening
+Reasoning: Combine automated immunofluorescence for Myo7a and Sox2 with image analysis in 96-well iPSC-derived organoids to profile multiple morphological and differentiation markers after drug exposure. This multiplexed readout accelerates discovery by capturing diverse cellular endpoints in a single assay (Lim et al. 2018; Zine et al. 2021).
